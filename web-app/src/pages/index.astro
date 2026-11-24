@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getAllDevices, getBrandsSummary } from '../lib/catalog';
+
+const devices = getAllDevices();
+const brands = getBrandsSummary();
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'FilterSpec Direct';
+
+const title = `${siteName}: Air Purifier & Vacuum Replacement Filter Compatibility Directory`;
+const description = `Look up verified replacement filter part numbers, dimensions, and OEM vs. third-party comparisons across ${devices.length} air purifier and vacuum models.`;
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/">
+  <section class="card" style="text-align: center; padding: 32px 22px;">
+    <h1 style="font-size: 30px; margin: 0 0 10px;">
+      Find the Exact Replacement Filter for Your Model
+    </h1>
+    <p style="color: var(--muted); max-width: 640px; margin: 0 auto 20px;">
+      Search across {devices.length} verified air purifier and vacuum models by brand, model number, or filter part code.
+    </p>
+    <input
+      id="modelSearch"
+      type="search"
+      placeholder="Type model or part code (e.g. Core 300, 115115, V10, AP-1512HH)..."
+      aria-label="Search replacement filter models"
+      style="width: 100%; max-width: 540px; padding: 12px 16px; font-size: 15px; border: 2px solid var(--border); border-radius: 8px;"
+    />
+  </section>
+
+  <section class="card">
+    <h2 style="font-size: 20px; margin: 0 0 14px;">Browse by Manufacturer</h2>
+    <div class="silo-grid">
+      {brands.map((b) => (
+        <a href={`/brand/${b.slug}/`} class="silo-link">
+          <strong>{b.name}</strong>
+          <span style="display:block; font-size:12px; color:var(--muted); font-weight:400;">
+            {b.count} verified models
+          </span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="card">
+    <h2 style="font-size: 20px; margin: 0 0 14px;">Verified Model Compatibility Guides</h2>
+    <div id="deviceList" class="silo-grid">
+      {devices.map((d) => (
+        <a
+          href={`/${d.slug}/`}
+          class="silo-link device-card"
+          data-search={`${d.brand_name} ${d.model_name} ${d.official_filter_code || ''}`.toLowerCase()}
+        >
+          <strong>{d.brand_name} {d.model_name}</strong>
+          <span style="display:block; font-size:12px; color:var(--muted); font-weight:400;">
+            {d.official_filter_code ? `Part #${d.official_filter_code}` : 'View Compatibility'}
+          </span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <script>
+    const input = document.getElementById('modelSearch') as HTMLInputElement | null;
+    const cards = document.querySelectorAll<HTMLElement>('.device-card');
+    input?.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      cards.forEach((card) => {
+        const hay = card.dataset.search || '';
+        card.style.display = hay.includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</BaseLayout>

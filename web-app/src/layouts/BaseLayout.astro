@@ -1,0 +1,311 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath?: string;
+  schemaGraph?: Record<string, unknown>;
+}
+
+const { title, description, canonicalPath = Astro.url.pathname, schemaGraph } = Astro.props;
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'FilterSpec Direct';
+const canonicalUrl = new URL(canonicalPath, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl.href} />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+
+  {schemaGraph && (
+    <script type="application/ld+json" set:html={JSON.stringify(schemaGraph)} />
+  )}
+
+  <style is:global>
+    :root {
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --muted: #475569;
+      --primary: #1d4ed8;
+      --primary-dark: #1e40af;
+      --accent-bg: #eff6ff;
+      --warn-bg: #fffbeb;
+      --warn-border: #f59e0b;
+      --oem-bg: #dcfce7;
+      --oem-text: #166534;
+      --tp-bg: #f1f5f9;
+      --tp-text: #334155;
+      --amazon: #f59e0b;
+      --amazon-hover: #d97706;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    a { color: var(--primary); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 960px; margin: 0 auto; padding: 0 18px; }
+
+    /* Top Disclosure Bar (Amazon Associates Mandatory Compliance) */
+    .disclosure-bar {
+      background: #0f172a;
+      color: #cbd5e1;
+      font-size: 12px;
+      padding: 7px 16px;
+      text-align: center;
+    }
+
+    header.site-header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 0;
+    }
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .brand-logo {
+      font-weight: 800;
+      font-size: 19px;
+      color: var(--text);
+      letter-spacing: -0.02em;
+    }
+    .brand-logo span { color: var(--primary); }
+    nav.main-nav { display: flex; gap: 18px; font-size: 14px; font-weight: 500; }
+    nav.main-nav a { color: var(--muted); }
+    nav.main-nav a:hover { color: var(--primary); }
+
+    main { padding: 28px 0 48px; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 22px;
+      margin-bottom: 22px;
+    }
+
+    /* GEO AI Overview Capsule */
+    .geo-capsule {
+      background: var(--accent-bg);
+      border-left: 4px solid var(--primary);
+      border-radius: 8px;
+      padding: 18px 20px;
+      margin: 18px 0 22px;
+    }
+    .geo-label {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--primary);
+      display: block;
+      margin-bottom: 6px;
+    }
+    .geo-capsule p {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 500;
+      color: #0f172a;
+    }
+
+    /* Spec Badges Grid */
+    .spec-strip {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-bottom: 22px;
+    }
+    .spec-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 14px;
+    }
+    .spec-item small {
+      display: block;
+      font-size: 11px;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 600;
+    }
+    .spec-item strong {
+      font-size: 15px;
+      color: var(--text);
+    }
+
+    /* Pure HTML Comparison Table (GEO & UX Optimized) */
+    .table-wrap { overflow-x: auto; }
+    table.comp-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+      background: var(--surface);
+    }
+    table.comp-table th {
+      background: #f1f5f9;
+      text-align: left;
+      padding: 12px;
+      border-bottom: 2px solid var(--border);
+      font-size: 12px;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    table.comp-table td {
+      padding: 14px 12px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    .badge-oem {
+      display: inline-block;
+      background: var(--oem-bg);
+      color: var(--oem-text);
+      font-weight: 700;
+      font-size: 11px;
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+    .badge-tp {
+      display: inline-block;
+      background: var(--tp-bg);
+      color: var(--tp-text);
+      font-weight: 600;
+      font-size: 11px;
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+    .btn-amazon {
+      display: inline-block;
+      background: var(--amazon);
+      color: #0f172a !important;
+      font-weight: 700;
+      font-size: 13px;
+      padding: 9px 14px;
+      border-radius: 6px;
+      text-align: center;
+      white-space: nowrap;
+      text-decoration: none !important;
+      transition: background 0.15s;
+    }
+    .btn-amazon:hover { background: var(--amazon-hover); }
+
+    .warn-box {
+      background: var(--warn-bg);
+      border: 1px solid var(--warn-border);
+      border-left-width: 4px;
+      border-radius: 8px;
+      padding: 16px 18px;
+      margin: 22px 0;
+      font-size: 14.5px;
+    }
+
+    .blueprint-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px;
+      margin: 20px 0;
+    }
+    .blueprint-header {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .bp-badge { color: var(--primary); }
+    .blueprint-box figcaption {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 8px;
+      text-align: center;
+    }
+
+    .faq-item {
+      border-bottom: 1px solid var(--border);
+      padding: 14px 0;
+    }
+    .faq-item:last-child { border-bottom: none; }
+    .faq-item h3 { margin: 0 0 6px; font-size: 16px; }
+    .faq-item p { margin: 0; color: var(--muted); font-size: 14.5px; }
+
+    .silo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 10px;
+    }
+    .silo-link {
+      display: block;
+      padding: 10px 12px;
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13.5px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .silo-link:hover { border-color: var(--primary); color: var(--primary); text-decoration: none; }
+
+    footer.site-footer {
+      background: #0f172a;
+      color: #94a3b8;
+      padding: 32px 0;
+      font-size: 13px;
+    }
+    .footer-links { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 12px; }
+    .footer-links a { color: #e2e8f0; }
+  </style>
+</head>
+<body>
+  <div class="disclosure-bar">
+    Affiliate Disclosure: As an Amazon Associate, {siteName} earns from qualifying purchases at no additional cost to you.
+  </div>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" class="brand-logo">{siteName}<span>.</span></a>
+      <nav class="main-nav" aria-label="Primary Navigation">
+        <a href="/">Directory</a>
+        <a href="/how-we-verify/">Verification Method</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="/about/">About Us</a>
+        <a href="/how-we-verify/">How We Verify Specs</a>
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+        <a href="/contact/">Contact</a>
+        <a href="/sitemap-index.xml">Sitemap</a>
+      </div>
+      <p>
+        {siteName} is an independent technical specification directory for home appliance replacement filters.
+        Product names, part numbers, and trademarks belong to their respective owners.
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

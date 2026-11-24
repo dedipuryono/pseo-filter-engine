@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'FilterSpec Direct';
+---
+<BaseLayout title={`Affiliate Disclosure | ${siteName}`} description="Amazon Associates affiliate disclosure." canonicalPath="/affiliate-disclosure/">
+  <article class="card">
+    <h1>Affiliate Disclosure</h1>
+    <p>{siteName} participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.</p>
+    <p>When you click a "Check Price on Amazon" link on our site and make a qualifying purchase, we may earn a small commission at zero extra cost to you. Product availability and prices on Amazon are dynamic and subject to change.</p>
+  </article>
+</BaseLayout>

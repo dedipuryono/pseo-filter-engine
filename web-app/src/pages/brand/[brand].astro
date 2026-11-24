@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getAllDevices, getBrandsSummary, type DeviceEntry } from '../../lib/catalog';
+
+export async function getStaticPaths() {
+  const devices = getAllDevices();
+  const brands = getBrandsSummary();
+
+  return brands.map((b) => ({
+    params: { brand: b.slug },
+    props: {
+      brandName: b.name,
+      brandSlug: b.slug,
+      devices: devices.filter((d) => d.brand_slug === b.slug),
+    },
+  }));
+}
+
+interface Props {
+  brandName: string;
+  brandSlug: string;
+  devices: DeviceEntry[];
+}
+
+const { brandName, brandSlug, devices } = Astro.props;
+const title = `${brandName} Replacement Filter Compatibility Directory (${devices.length} Models)`;
+const description = `Find verified OEM part numbers, HEPA ratings, and compatible multi-pack replacement filters for ${devices.length} ${brandName} models.`;
+---
+
+<BaseLayout title={title} description={description} canonicalPath={`/brand/${brandSlug}/`}>
+  <nav aria-label="Breadcrumb" style="font-size: 13px; color: var(--muted); margin-bottom: 12px;">
+    <a href="/">Directory</a> &rsaquo; <span>{brandName}</span>
+  </nav>
+
+  <h1 style="font-size: 28px; margin: 0 0 8px;">{brandName} Replacement Filter Directory</h1>
+  <p style="color: var(--muted); margin: 0 0 22px;">
+    Select your exact {brandName} model number below to verify its official filter part code and compatible OEM or third-party replacements.
+  </p>
+
+  <div class="silo-grid">
+    {devices.map((d) => (
+      <a href={`/${d.slug}/`} class="silo-link">
+        <strong>{d.brand_name} {d.model_name}</strong>
+        <span style="display:block; font-size:12px; color:var(--muted); font-weight:400; margin-top:4px;">
+          {d.official_filter_code ? `Part #${d.official_filter_code}` : 'Model Compatibility Guide'}
+          {d.hepa_grade ? ` • ${d.hepa_grade}` : ''}
+        </span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

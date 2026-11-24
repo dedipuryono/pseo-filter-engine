@@ -1,0 +1,9 @@
+@"
+node_modules/
+web-app/node_modules/
+web-app/dist/
+web-app/.astro/
+.env
+*.log
+__pycache__/
+"@ | Out-File -FilePath .gitignore -Encoding utf8

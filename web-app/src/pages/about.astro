@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'FilterSpec Direct';
+---
+<BaseLayout title={`About Us | ${siteName}`} description={`Learn how ${siteName} compiles verified replacement filter compatibility matrices.`} canonicalPath="/about/">
+  <article class="card">
+    <h1>About {siteName}</h1>
+    <p>{siteName} is a structured technical reference directory built to help homeowners and facility managers identify exact replacement filter part numbers for air purifiers and vacuum cleaners.</p>
+    <p>Instead of vague editorial roundups, every guide cross-references official manufacturer part codes (OEM) alongside verified multi-pack aftermarket alternatives so you can confirm model fitment before ordering.</p>
+  </article>
+</BaseLayout>

@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'FilterSpec Direct';
+---
+<BaseLayout title={`How We Verify Filter Specs | ${siteName}`} description="Our strict data verification and anti-hallucination methodology." canonicalPath="/how-we-verify/">
+  <article class="card">
+    <h1>How We Verify Filter Specifications</h1>
+    <p>Ordering the wrong replacement filter wastes time and money. Every compatibility entry on {siteName} follows a three-step verification protocol:</p>
+    <ol>
+      <li><strong>Part Code Cross-Referencing:</strong> We match manufacturer part numbers (MPNs) directly against verified retail product listings and model stickers.</li>
+      <li><strong>Strict Zero-Guessing Policy:</strong> Physical dimensions and HEPA ratings are displayed only when explicitly documented in product specifications.</li>
+      <li><strong>OEM vs. Aftermarket Separation:</strong> Genuine manufacturer parts are clearly separated from third-party multi-pack replacements.</li>
+    </ol>
+  </article>
+</BaseLayout>

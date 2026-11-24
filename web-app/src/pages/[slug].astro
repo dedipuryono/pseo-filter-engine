@@ -1,0 +1,254 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FilterDiagram from '../components/FilterDiagram.astro';
+import { getAllDevices, type DeviceEntry } from '../lib/catalog';
+
+export async function getStaticPaths() {
+  const devices = getAllDevices();
+  return devices.map((device) => ({
+    params: { slug: device.slug },
+    props: { device, allDevices: devices },
+  }));
+}
+
+interface Props {
+  device: DeviceEntry;
+  allDevices: DeviceEntry[];
+}
+
+const { device, allDevices } = Astro.props;
+const amazonTag = import.meta.env.PUBLIC_AMAZON_TAG || 'yourtag-20';
+const categoryLabel = device.category === 'air_purifier' ? 'Air Purifier' : 'Vacuum';
+
+// Sibling models dari merek yang sama (Automated Hub & Spoke Internal Linking)
+const relatedDevices = allDevices
+  .filter((d) => d.brand_slug === device.brand_slug && d.slug !== device.slug)
+  .slice(0, 6);
+
+const pageTitle = `${device.brand_name} ${device.model_name} Replacement Filter: OEM vs. Best Alternatives`;
+const metaDescription = device.direct_answer_capsule.slice(0, 158);
+const canonicalUrl = new URL(`/${device.slug}/`, Astro.site).href;
+
+// Synchronized JSON-LD Schema Graph (TechArticle + FAQPage + BreadcrumbList)
+const schemaGraph = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: new URL('/', Astro.site).href },
+        { '@type': 'ListItem', position: 2, name: device.brand_name, item: new URL(`/brand/${device.brand_slug}/`, Astro.site).href },
+        { '@type': 'ListItem', position: 3, name: `${device.model_name} Filter`, item: canonicalUrl },
+      ],
+    },
+    {
+      '@type': 'TechArticle',
+      headline: pageTitle,
+      description: metaDescription,
+      datePublished: device.published_at || new Date().toISOString(),
+      dateModified: device.updated_at || new Date().toISOString(),
+      mainEntityOfPage: canonicalUrl,
+      about: {
+        '@type': 'Product',
+        name: `${device.brand_name} ${device.model_name} Replacement Filter`,
+        brand: { '@type': 'Brand', name: device.brand_name },
+        ...(device.official_filter_code ? { mpn: device.official_filter_code } : {}),
+      },
+    },
+    ...(device.faqs.length > 0
+      ? [
+          {
+            '@type': 'FAQPage',
+            mainEntity: device.faqs.map((item) => ({
+              '@type': 'Question',
+              name: item.q,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: item.a,
+              },
+            })),
+          },
+        ]
+      : []),
+  ],
+};
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={metaDescription}
+  canonicalPath={`/${device.slug}/`}
+  schemaGraph={schemaGraph}
+>
+  <nav aria-label="Breadcrumb" style="font-size: 13px; color: var(--muted); margin-bottom: 12px;">
+    <a href="/">Directory</a> &rsaquo;
+    <a href={`/brand/${device.brand_slug}/`}>{device.brand_name}</a> &rsaquo;
+    <span>{device.model_name}</span>
+  </nav>
+
+  <article>
+    <h1 style="font-size: 28px; line-height: 1.25; margin: 0 0 8px;">
+      {device.brand_name} {device.model_name} Replacement Filter Guide
+    </h1>
+    <p style="font-size: 13px; color: var(--muted); margin: 0 0 16px;">
+      Category: <strong>{categoryLabel}</strong> &bull; Verified Compatibility Matrix
+    </p>
+
+    {/* GEO: High-Density Direct Answer Capsule for Google AI Overviews */}
+    <section class="geo-capsule" aria-label="Quick Compatibility Summary">
+      <span class="geo-label">Quick Compatibility Answer</span>
+      <p>{device.direct_answer_capsule}</p>
+    </section>
+
+    {/* Verified Technical Specifications Strip */}
+    <div class="spec-strip">
+      <div class="spec-item">
+        <small>Target Device</small>
+        <strong>{device.brand_name} {device.model_name}</strong>
+      </div>
+      <div class="spec-item">
+        <small>Official Part Code</small>
+        <strong>{device.official_filter_code || 'Match Model Sticker'}</strong>
+      </div>
+      <div class="spec-item">
+        <small>Filtration Rating</small>
+        <strong>{device.hepa_grade || 'Standard Replacement'}</strong>
+      </div>
+      <div class="spec-item">
+        <small>Verified Options</small>
+        <strong>{device.products.length} Amazon Listings</strong>
+      </div>
+    </div>
+
+    {/* GEO: Structured Key Takeaways */}
+    {device.key_takeaways.length > 0 && (
+      <section class="card">
+        <h2 style="font-size: 18px; margin: 0 0 10px;">Key Compatibility Takeaways</h2>
+        <ul style="margin: 0; padding-left: 20px;">
+          {device.key_takeaways.map((point) => (
+            <li style="margin-bottom: 6px;">{point}</li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {/* Conditional SVG Blueprint Diagram (Only renders if verified dimensions exist) */}
+    <FilterDiagram
+      brand={device.brand_name}
+      model={device.model_name}
+      partCode={device.official_filter_code}
+      dimensions={device.dimensions}
+    />
+
+    {/* Pure HTML Comparison Table (OEM vs. Third-Party) */}
+    <section class="card">
+      <h2 style="font-size: 20px; margin: 0 0 6px;">
+        OEM vs. Compatible Replacement Filters ({device.brand_name} {device.model_name})
+      </h2>
+      <p style="font-size: 13.5px; color: var(--muted); margin: 0 0 16px;">
+        Compare genuine manufacturer parts against high-volume multi-pack alternatives on Amazon US.
+      </p>
+
+      <div class="table-wrap">
+        <table class="comp-table">
+          <thead>
+            <tr>
+              <th>Replacement Filter Option</th>
+              <th>Type</th>
+              <th>Verified Specs & Trade-offs</th>
+              <th>Availability</th>
+            </tr>
+          </thead>
+          <tbody>
+            {device.products.map((prod) => (
+              <tr>
+                <td>
+                  <strong>{prod.title}</strong>
+                  <div style="font-size: 12px; color: var(--muted); margin-top: 4px;">
+                    ASIN: <code>{prod.asin}</code>
+                    {prod.review_count > 0 && ` • ${prod.review_count.toLocaleString()} buyer ratings`}
+                  </div>
+                </td>
+                <td>
+                  {prod.is_oem ? (
+                    <span class="badge-oem">Genuine OEM</span>
+                  ) : (
+                    <span class="badge-tp">Third-Party</span>
+                  )}
+                </td>
+                <td>
+                  {prod.pros.length > 0 && (
+                    <ul style="margin: 0 0 6px; padding-left: 16px; color: #166534;">
+                      {prod.pros.map((pro) => <li>{pro}</li>)}
+                    </ul>
+                  )}
+                  {prod.cons.length > 0 && (
+                    <ul style="margin: 0; padding-left: 16px; color: #64748b;">
+                      {prod.cons.map((con) => <li>{con}</li>)}
+                    </ul>
+                  )}
+                </td>
+                <td>
+                  <a
+                    href={`https://www.amazon.com/dp/${prod.asin}?tag=${amazonTag}`}
+                    target="_blank"
+                    rel="nofollow sponsored noopener"
+                    class="btn-amazon"
+                  >
+                    Check Price on Amazon
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    {/* Compatibility Verification Warning */}
+    {device.compatibility_warning && (
+      <aside class="warn-box" aria-label="Compatibility Warning">
+        <strong>Compatibility Check Before Ordering:</strong> {device.compatibility_warning}
+      </aside>
+    )}
+
+    {/* Synchronized FAQ Section */}
+    {device.faqs.length > 0 && (
+      <section class="card">
+        <h2 style="font-size: 20px; margin: 0 0 10px;">
+          Frequently Asked Questions: {device.brand_name} {device.model_name} Filters
+        </h2>
+        {device.faqs.map((faq) => (
+          <div class="faq-item">
+            <h3>{faq.q}</h3>
+            <p>{faq.a}</p>
+          </div>
+        ))}
+      </section>
+    )}
+
+    {/* Automated Brand Silo Internal Linking */}
+    {relatedDevices.length > 0 && (
+      <section class="card">
+        <h2 style="font-size: 18px; margin: 0 0 12px;">
+          Other {device.brand_name} Replacement Filter Guides
+        </h2>
+        <div class="silo-grid">
+          {relatedDevices.map((rel) => (
+            <a href={`/${rel.slug}/`} class="silo-link">
+              {rel.brand_name} {rel.model_name}
+              {rel.official_filter_code && (
+                <span style="display:block; font-size:11.5px; color:var(--muted); font-weight:400;">
+                  Part #{rel.official_filter_code}
+                </span>
+              )}
+            </a>
+          ))}
+        </div>
+        <p style="margin: 14px 0 0; font-size: 13.5px;">
+          <a href={`/brand/${device.brand_slug}/`}>View all {device.brand_name} filter models &rarr;</a>
+        </p>
+      </section>
+    )}
+  </article>
+</BaseLayout>
