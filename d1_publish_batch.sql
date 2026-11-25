@@ -1,16 +1,16 @@
--- Drip-Feed Batch (15 pages) - 2026-11-25 01:58:02 UTC
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-core-300-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-vital-200s-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-core-400s-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-core-300s-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-lv-h126-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-core-600s-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-core-200s-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-lv-h132-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-h132-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-h133-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-h128-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-vital-100-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-300s-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'levoit-400s-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 01:58:02', updated_at = '2026-11-25 01:58:02' WHERE slug = 'coway-ap-1512hh-replacement-filter';
+-- Drip-Feed Batch (15 pages) - 2026-11-25 11:06:38 UTC
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-s-for-c545-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-c610-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-c545-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-5510-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-c535-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-a231-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-d480-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-d360-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-5520-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-5500-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'honeywell-hpa300-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'honeywell-hcm-890-humidifier-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'blueair-blue-pure-411-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'blueair-3210-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'blueair-511-replacement-filter';
