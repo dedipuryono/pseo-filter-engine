@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -38,11 +40,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           git add pseo_staging.db d1_publish_batch.sql web-app/src/data/catalog.json
           if ! git diff --cached --quiet; then
             git commit -m "chore(drip): publish daily batch of 15 filter pages"
-            git pull --rebase origin main
-            git push
+            git pull --rebase --autostash origin main
+            git push origin main
           else
             echo "Semua halaman sudah terbit."
           fi
