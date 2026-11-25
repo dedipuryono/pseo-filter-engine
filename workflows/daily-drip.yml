@@ -1,0 +1,53 @@
+New-Item -ItemType Directory -Force -Path .github\workflows | Out-Null
+
+@'
+name: Daily pSEO Drip Publisher
+
+on:
+  schedule:
+    # Jalan otomatis setiap hari pukul 02:00 UTC (09:00 WIB)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish-batch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Setup Node.js for Wrangler
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Wrangler CLI
+        run: npm install -g wrangler
+
+      - name: Publish Next 15 Pages & Sync D1
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: python drip_publisher.py 15
+
+      - name: Commit & Push Updated Catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pseo_staging.db d1_publish_batch.sql web-app/src/data/catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(drip): publish daily batch of 15 filter pages"
+            git pull --rebase origin main
+            git push
+          else
+            echo "Semua halaman sudah terbit, tidak ada perubahan."
+          fi
+'@ | Out-File -FilePath .github\workflows\daily-drip.yml -Encoding utf8
