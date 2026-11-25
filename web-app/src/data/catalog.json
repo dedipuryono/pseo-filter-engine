@@ -1,5 +1,1274 @@
 [
   {
+    "id": 1,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Core 300",
+    "slug": "levoit-core-300-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model designation (e.g., Core 300, Core 300‑P, Core 300S‑P) printed on their unit’s sticker or part number, as listings include filters for multiple Core 300 variants.",
+    "faqs": [
+      {
+        "q": "What part code is required for a Levoit Core 300 replacement filter?",
+        "a": "The listings do not provide a specific official part code; customers should reference the part number on their existing filter or unit."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party filters for the Core 300?",
+        "a": "OEM filters are made by Levoit, while third‑party replacements (e.g., 2‑pack options) are not; both claim compatibility but OEM guarantees brand‑matched specifications."
+      },
+      {
+        "q": "What filtration grade and features do the listed replacement filters offer?",
+        "a": "One listing specifies a 3‑in‑1 H13 True HEPA and activated carbon filter; other listings do not state a grade, so features may vary."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Core 300 uses a 3‑in‑1 H13 True HEPA and activated carbon replacement filter; no official filter part code is specified in the listings. Both genuine OEM filters and third‑party multi‑pack options currently sold, widely offering compatible filtration for the Core 300 series today.",
+    "key_takeaways": [
+      "Fits Levoit Core 300 and related models such as Core 300S, Core 300‑P, and Core P350",
+      "Listings include a 3‑in‑1 H13 True HEPA and activated carbon filter option",
+      "Both OEM filters and third‑party multi‑pack (2‑pack) replacements are available"
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B0BV6VY9LW",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300,Core 300S,Core P350,Core300-P, Core 300 Replacement Filter,3-in-1 H13 True HEPA & Activated Carbon Filter, Core 300-RF,2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 13,
+        "pros": [
+          "3‑in‑1 H13 True HEPA & activated carbon filtration",
+          "Offered as a 2‑pack value set"
+        ],
+        "cons": [
+          "Not identified as OEM Levoit filter",
+          "Filter shape and dimensions not specified"
+        ]
+      },
+      {
+        "asin": "B08D8D1CZZ",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300-P Core 300S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 3,
+        "pros": [
+          "Designed for Core 300‑P and Core 300S‑P models",
+          "Replacement filter purpose indicated"
+        ],
+        "cons": [
+          "HEPA grade not mentioned",
+          "Pack quantity not specified"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Vital 200S",
+    "slug": "levoit-vital-200s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Vital 200S-RF",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model number on your purifier’s label (e.g., Vital 200S vs. Vital 200S‑P) before ordering, as some listings reference the 200S‑P variant.",
+    "faqs": [
+      {
+        "q": "What is the official replacement filter part code for the Levoit Vital 200S?",
+        "a": "The official part code is Vital 200S‑RF, as indicated in product titles."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements for the Vital 200S?",
+        "a": "OEM filters are genuine Levoit products, while third‑party replacements are compatible alternatives that may be sold in multi‑packs."
+      },
+      {
+        "q": "What filtration grade and features do the Vital 200S replacement filters provide?",
+        "a": "Some listings specify an H13 True HEPA grade with high‑efficiency activated carbon for odor control."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Vital 200S air purifier uses the Vital 200S‑RF replacement filter, rated H13 True HEPA, which captures fine particles and odors. Both OEM genuine filters and third‑party multi‑pack options are available, offering choices for single or bulk purchases while maintaining compatible in standard dimensions.",
+    "key_takeaways": [
+      "The Vital 200S‑RF filter fits both Vital 200S and Vital 200S‑P models.",
+      "Listings show H13 True HEPA grade with activated carbon in at least one multi‑pack option.",
+      "Buyers can choose OEM genuine single filters or value‑pack third‑party replacements."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B0BJPJ94MM",
+        "title": "Levoit Vital 200S-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 15,
+        "pros": [
+          "Official Levoit genuine filter",
+          "Ensures OEM compatibility"
+        ],
+        "cons": [
+          "Single unit only",
+          "Pack quantity not indicated"
+        ]
+      },
+      {
+        "asin": "B0DK1TXDXW",
+        "title": "Vital 200S Replacement Filter for LEVOIT Vital 200S and Vital 200S-P Air Purifier, 2 Pack H13 True HEPA and High-Efficiency Activated Carbon Vital 200S-P Replacement Filter, Vital 200S-RF, White",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 329,
+        "pros": [
+          "H13 True HEPA grade",
+          "Includes high‑efficiency activated carbon"
+        ],
+        "cons": [
+          "Third‑party product",
+          "Color (white) may be irrelevant"
+        ]
+      },
+      {
+        "asin": "B0CQNTKZY4",
+        "title": "Vital 200S Pet Care Replacement Filter for LEVOIT Vital 200S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 25,
+        "pros": [
+          "Designed for pet‑care environments",
+          "Fits Vital 200S‑P model"
+        ],
+        "cons": [
+          "Third‑party product",
+          "Pack quantity not specified"
+        ]
+      },
+      {
+        "asin": "B0C24326DS",
+        "title": "Vital 200S Replacement Filter For LEVOIT Vital 200S-P Air Purifier, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 11,
+        "pros": [
+          "Comes in a 2‑pack value set",
+          "Fits Vital 200S‑P model"
+        ],
+        "cons": [
+          "Third‑party product",
+          "No OEM claim"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Core 400S",
+    "slug": "levoit-core-400s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "LRF-C401S-WUS",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact Core 400S model (e.g., Core 400S‑P or Core 400S‑RF) and corresponding part number on the unit’s label before ordering a replacement filter.",
+    "faqs": [
+      {
+        "q": "What part code filter fits the Levoit Core 400S?",
+        "a": "The official replacement filter is listed as LRF‑C401S‑WUS, which matches the Core 400S series."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party filters?",
+        "a": "OEM filters carry the official part code and are made by Levoit, while third‑party packs offer compatible filters without the OEM designation, often in multi‑pack sizes."
+      },
+      {
+        "q": "What filtration grade and features do the listed replacements provide?",
+        "a": "Listings mention an H13 HEPA grade and a 3‑in‑1 design that combines pre‑filter, HEPA, and activated carbon layers for comprehensive air cleaning."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters compatible with the Levoit Core 400S are identified by the official part code LRF‑C401S‑WUS and feature an H13 HEPA filtration grade. Both genuine OEM filters and third‑party multi‑pack options are offered, providing choices for standard home replacements or bulk purchases online today now.",
+    "key_takeaways": [
+      "Filters with part code LRF‑C401S‑WUS and H13 HEPA grade are compatible with Levoit Core 400S.",
+      "Both OEM (official code) and third‑party multi‑pack options appear in listings.",
+      "Variants include Core 400S‑P, Core 400S‑RF, and 3‑in‑1 H13 models, so verify exact model before purchase."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B0B5YZ2ZKC",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 785,
+        "pros": [
+          "Designed for Core 400S‑P model",
+          "Specifically mentions LEVOIT Core 400S‑P Air Purifier"
+        ],
+        "cons": [
+          "OEM status not indicated",
+          "Potential compatibility variations across Core 400S variants"
+        ]
+      },
+      {
+        "asin": "B0BFQKQ788",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S and Core400S-P/Core 400S-rf Smart WiFi Air Purifier,3-in-1 True H13 HEPA Activated Carbon Pre-Filter,1Pack,White",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 507,
+        "pros": [
+          "H13 HEPA filtration grade stated",
+          "3‑in‑1 true HEPA, activated carbon, pre‑filter design"
+        ],
+        "cons": [
+          "OEM status not indicated",
+          "Single pack only, no multi‑pack option"
+        ]
+      },
+      {
+        "asin": "B0BFD42GVL",
+        "title": "2 Pack Core 400S Replacement Filter for LEVOIT Core 400S Smart WiFi Air Purifier, Core 400S-RF Activated Carbon Filter, LRF-C401S-WUS, White, Cabiclean",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 381,
+        "pros": [
+          "Includes official LRF‑C401S‑WUS part code",
+          "Pack of 2 provides value for multiple replacements"
+        ],
+        "cons": [
+          "Specifies Core 400S‑RF variant only",
+          "HEPA grade not explicitly stated in title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Core 300S",
+    "slug": "levoit-core-300s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Core 300-RF",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm your unit’s exact model sticker or part number, as the listings include Core 300, Core 300-P, Core 300S, and Core 300S-P variants. Using an incompatible filter can affect performance.",
+    "faqs": [
+      {
+        "q": "Which filter part code fits the Levoit Core 300S?",
+        "a": "The Core 300‑RF replacement filter is compatible with the Levoit Core 300S."
+      },
+      {
+        "q": "What is the difference between OEM Levoit filters and third‑party replacements?",
+        "a": "OEM Levoit filters are branded by Levoit, while third‑party replacements are manufactured by other companies but offer the same Core 300‑RF specifications."
+      },
+      {
+        "q": "What filtration features does the Core 300‑RF filter provide?",
+        "a": "It contains an H13 True HEPA layer and an activated carbon layer, and should be replaced every 6–12 months for optimal performance."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Core 300S uses the Core 300‑RF replacement filter, rated H13 True HEPA with activated carbon. Both OEM Levoit filters and third‑party multi‑pack options are available, offering the same filtration performance while giving buyers flexibility in price and quantity and ensuring optimal air quality for bedrooms and larger rooms.",
+    "key_takeaways": [
+      "Compatible with Levoit Core 300S and related Core 300 variants",
+      "Features H13 True HEPA and activated carbon filtration",
+      "OEM Levoit filters and third‑party multi‑pack options are available"
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B09RJ2L994",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300 Core 300-P Core 300S Core 300S-P Air Purifier for Home Bedroom Large Room, 3-in-1 High Efficiency and Activated Carbon Filter, Core 300-RF, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 43,
+        "pros": [
+          "Includes Core 300‑RF code",
+          "2 Pack"
+        ],
+        "cons": [
+          "No brand Levoit indicated",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B0BV6VY9LW",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300,Core 300S,Core P350,Core300-P, Core 300 Replacement Filter,3-in-1 H13 True HEPA & Activated Carbon Filter, Core 300-RF,2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 13,
+        "pros": [
+          "H13 True HEPA specified",
+          "2 Pack"
+        ],
+        "cons": [
+          "No brand Levoit indicated",
+          "No explicit OEM mention"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Lv H126",
+    "slug": "levoit-lv-h126-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm the exact Levoit LV‑H126 model sticker or part number on your unit, as some listings may refer to generic or variant models.",
+    "faqs": [
+      {
+        "q": "What part code should I look for to ensure compatibility with the Levoit LV‑H126?",
+        "a": "The titles reference a generic LV‑H126 filter; no specific part code is listed."
+      },
+      {
+        "q": "How can I tell if a filter is OEM or a third‑party replacement?",
+        "a": "The listing that includes “Genuine Air Purifier Filter” indicates an OEM Levoit product; other listings are generic third‑party replacements."
+      },
+      {
+        "q": "What filtration features or maintenance details are provided in the listings?",
+        "a": "The titles do not specify a HEPA grade or maintenance instructions; they only state that the filters are replacements for the LV‑H126 air purifier."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Levoit LV‑H126 air purifier are available in both OEM and third‑party options. The listings reference a generic LV‑H126 filter part, but no specific part code or HEPA grade is disclosed. Buyers can choose single or multi‑pack replacements that claim compatibility with the LV‑H126 model.",
+    "key_takeaways": [
+      "All listed filters are marked as compatible with the Levoit LV‑H126 model.",
+      "No HEPA grade or official part code is specified in the titles.",
+      "Options include single OEM replacements and multi‑pack third‑party filters."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B07DVTR1H7",
+        "title": "Levoit LV-H126 Air Purifier Replacement Filter, Genuine Air Purifier Filter",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 121,
+        "pros": [
+          "OEM genuine filter",
+          "Compatible with LV‑H126"
+        ],
+        "cons": [
+          "No multi‑pack option",
+          "No filtration grade specified"
+        ]
+      },
+      {
+        "asin": "B08PBFVLK9",
+        "title": "LV-H126 Replacement Filter Compatible with Levoit LV-H126",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 252,
+        "pros": [
+          "Compatible with Levoit LV‑H126",
+          "Replacement filter"
+        ],
+        "cons": [
+          "No OEM guarantee",
+          "No filtration grade specified"
+        ]
+      },
+      {
+        "asin": "B0DQL4M7T5",
+        "title": "LV-H126 Replacement Filter Compatible with Levoit LV-H126 Air Purifi-er",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 98,
+        "pros": [
+          "Compatible with Levoit LV‑H126",
+          "Replacement filter"
+        ],
+        "cons": [
+          "No OEM guarantee",
+          "No filtration grade specified"
+        ]
+      },
+      {
+        "asin": "B0DZNZ2ZRL",
+        "title": "4 Set LV-H126 Replacement Filter for LEVOIT LV-H126 Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 10,
+        "pros": [
+          "Multi‑pack value",
+          "Compatible with LV‑H126"
+        ],
+        "cons": [
+          "No OEM guarantee",
+          "No filtration grade specified"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Core 600S",
+    "slug": "levoit-core-600s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model number on their unit’s sticker (Core 600S or Core 600S‑P) before purchasing, as listings include filters for both variants and part numbers are not disclosed.",
+    "faqs": [
+      {
+        "q": "What is the official part code for the Levoit Core 600S replacement filter?",
+        "a": "The listings do not provide an official part code; it is not specified."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements for the Core 600S?",
+        "a": "OEM filters are made by Levoit and guarantee original specifications, while third‑party replacements are compatible but may vary in materials and performance."
+      },
+      {
+        "q": "What filtration features do the available replacement filters offer?",
+        "a": "The titles indicate options such as “Pet Care” and “Toxin Absorber,” but no specific HEPA grade or dimensions are given."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Core 600S air purifier uses a replaceable pre‑filter and HEPA‑type filter, though no official part code or HEPA grade is specified in the available listings. Both genuine OEM filters and third‑party multi‑pack replacements are sold for this model and can be ordered online or through authorized retailers.",
+    "key_takeaways": [
+      "Filters labeled “Core 600S” fit the Levoit Core 600S (including 600S‑P variants).",
+      "Listings mention “Pet Care” and “Toxin Absorber” but do not specify HEPA grade or dimensions.",
+      "Both OEM (official Levoit) and third‑party multi‑pack replacement filters are offered."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B0BQMZRCVQ",
+        "title": "Core 600S Replacement Filter for LEVOIT Core 600S-P Smart Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 433,
+        "pros": [
+          "Designed for Core 600S‑P"
+        ],
+        "cons": [
+          "OEM status not indicated"
+        ]
+      },
+      {
+        "asin": "B0CBTFDFF2",
+        "title": "Core 600S Toxin Absorber Replacement Filtër for LEVOIT Core 600S/600S-P",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 339,
+        "pros": [
+          "Toxin absorber feature"
+        ],
+        "cons": [
+          "OEM status not indicated"
+        ]
+      },
+      {
+        "asin": "B0F1S2T1J8",
+        "title": "Core 600S Pet Care Replacement Filter for LEVOIT Core 600S-P",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 59,
+        "pros": [
+          "Pet‑care formulation"
+        ],
+        "cons": [
+          "OEM status not indicated"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Core 200S",
+    "slug": "levoit-core-200s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Core 200S-RF",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model number on your unit’s label (e.g., Core 200S‑P) before ordering, as some listings reference similar Levoit air purifiers that may use different filters.",
+    "faqs": [
+      {
+        "q": "What is the official part code for a replacement filter for the Levoit Core 200S?",
+        "a": "The official part code listed in the titles is Core 200S‑RF."
+      },
+      {
+        "q": "Are OEM Levoit filters the only option for the Core 200S?",
+        "a": "Both OEM Levoit filters and third‑party multi‑pack replacements that meet the H13 HEPA specification are sold, giving buyers a choice between genuine and value options."
+      },
+      {
+        "q": "What filtration grade do the listed replacement filters provide?",
+        "a": "The titles specify an H13 True HEPA grade, indicating high‑efficiency particulate filtration, though shape and exact dimensions are not disclosed."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Core 200S uses the Core 200S‑RF replacement filter, which is rated H13 True HEPA. Both Levoit‑branded OEM filters and third‑party multi‑pack options that meet this specification are sold, allowing buyers to choose between genuine and value‑pack replacements. They fit the Core 200S‑P Smart WiFi model and should be installed according to the manufacturer’s maintenance schedule.",
+    "key_takeaways": [
+      "The Core 200S‑RF filter is the designated replacement for the Levoit Core 200S‑P model.",
+      "Listings show an H13 True HEPA grade, but shape and dimensions are not specified.",
+      "Buyers can select OEM Levoit filters or lower‑cost multi‑pack third‑party versions."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B0924FD74V",
+        "title": "Core 200S Replacement Filter for LEVOIT Core 200S-P Smart WiFi Air PuriFier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 24,
+        "pros": [
+          "Specifically labeled for Core 200S-P model",
+          "Fits Smart WiFi Air Purifier"
+        ],
+        "cons": [
+          "No HEPA grade mentioned",
+          "Manufacturer not identified as OEM"
+        ]
+      },
+      {
+        "asin": "B0B6ZVJBQY",
+        "title": "Core 200S Replacement Filter Compatible with LEVOIT Core 200S Core 200S-P Smart WiFi Air Purifier, Fit for Levoit Core 200s Replacement Filter, 2Pack 3-Stage H13 Grade True HEPA Filter, Core 200S-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 21,
+        "pros": [
+          "Explicitly states H13 True HEPA grade",
+          "Includes 2‑pack value set"
+        ],
+        "cons": [
+          "Not identified as OEM Levoit product",
+          "No dimensions or shape provided"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Lv H132",
+    "slug": "levoit-lv-h132-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "LV-H132-RF",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify your unit’s exact model sticker or part number before ordering. Some listings reference the LV‑H132‑RF code while others omit a specific part number, which could affect compatibility.",
+    "faqs": [
+      {
+        "q": "What part code is compatible with the Levoit LV‑H132?",
+        "a": "The LV‑H132‑RF filter part code is listed in the Amazon titles and is compatible with the LV‑H132 model."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements?",
+        "a": "OEM filters are manufactured by Levoit and sold singly, whereas third‑party vendors offer 2‑pack or 3‑pack bundles but use the same LV‑H132‑RF part code."
+      },
+      {
+        "q": "What filtration grade do the filters provide?",
+        "a": "The filters are rated H13 True HEPA, which captures 99.97% of particles 0.3 microns or larger."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit LV‑H132 air purifier uses the LV‑H132‑RF replacement filter, rated H13 True HEPA. OEM filters are sold singly, while third‑party vendors offer 2‑pack or 3‑pack bundles. Both options are compatible with the LV‑H132 model, but verify the part number to ensure proper fit.",
+    "key_takeaways": [
+      "Compatibility: LV‑H132‑RF filter part code and H13 HEPA grade.",
+      "OEM vs third‑party: OEM single pack; third‑party available in 2‑pack or 3‑pack bundles.",
+      "Buying options: choose OEM for guaranteed fit or value packs for cost savings."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B06XD7X81D",
+        "title": "Levoit LV-H132 Air Purifier Replacement Filter, Genuine Air Filters, 1 Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 205,
+        "pros": [
+          "OEM Levoit filter",
+          "Genuine air filter"
+        ],
+        "cons": [
+          "Single pack only",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B0CC826S2H",
+        "title": "3 Pack LV-H132 Replacement Filter Compatible for LEVOIT LV-H132 Air Purifier LV-H132-RF, H13 True HEPA Filter, Activated Carbon Filter, Replace Part LV-H132-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 393,
+        "pros": [
+          "3‑pack bundle",
+          "H13 True HEPA and activated carbon"
+        ],
+        "cons": [
+          "Not OEM",
+          "No brand guarantee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "H132",
+    "slug": "levoit-h132-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "LV-H132-RF",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm that their unit is the Levoit LV‑H132 model and check the filter part number on the device, as listings reference the LV‑H132‑RF code and may include multi‑pack variants.",
+    "faqs": [
+      {
+        "q": "What is the correct replacement filter part number for the Levoit LV‑H132?",
+        "a": "The filter listed for the LV‑H132 uses the part code LV‑H132‑RF, as shown in the product titles."
+      },
+      {
+        "q": "Are there differences between OEM Levoit filters and third‑party replacements?",
+        "a": "OEM filters are made by Levoit, while third‑party replacements are compatible third‑party products; both use the same LV‑H132‑RF code but may differ in brand and packaging."
+      },
+      {
+        "q": "What filtration grade and features do LV‑H132 filters provide?",
+        "a": "The listed filters are H13 True HEPA with an activated‑carbon layer, offering high‑efficiency particle capture and odor reduction."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters that fit the Levoit LV‑H132 air purifier use the part code LV‑H132‑RF and are rated H13 True HEPA with an activated‑carbon layer. Both OEM Levoit filters and third‑party multi‑pack replacements bearing the same code are sold, offering genuine and value‑pack options for the same model.",
+    "key_takeaways": [
+      "The LV‑H132 uses the LV‑H132‑RF filter, a H13 True HEPA with activated carbon.",
+      "OEM Levoit filters and third‑party multi‑pack replacements both list the same part code.",
+      "Filters are sold in 2‑ or 3‑pack configurations, providing value‑pack options."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B0CC826S2H",
+        "title": "3 Pack LV-H132 Replacement Filter Compatible for LEVOIT LV-H132 Air Purifier LV-H132-RF, H13 True HEPA Filter, Activated Carbon Filter, Replace Part LV-H132-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 393,
+        "pros": [
+          "Includes 3 filters per pack for extended use",
+          "Specifies H13 True HEPA and activated carbon filtration"
+        ],
+        "cons": [
+          "Not identified as OEM Levoit product",
+          "No dimensions or shape details provided"
+        ]
+      },
+      {
+        "asin": "B0BG4PZK5Y",
+        "title": "LV-H132 Replacement Filter for Levoit LV-H132 Air Purifier,3-in-1 H13 True HEPA and Activated Carbon Filter,Part # LV-H132-RF,2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 387,
+        "pros": [
+          "Lists part # LV‑H132‑RF and H13 True HEPA",
+          "Includes activated carbon and 2‑pack"
+        ],
+        "cons": [
+          "Not explicitly OEM Levoit",
+          "No size dimensions provided"
+        ]
+      },
+      {
+        "asin": "B09Q8Q24GL",
+        "title": "LV-H132 Filter Replacement for LEVOIT LV-H132 Air Purifier,2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 1,
+        "pros": [
+          "Specifies LV‑H132 compatibility",
+          "Offered as 2‑pack value"
+        ],
+        "cons": [
+          "No part code or HEPA grade listed",
+          "Filter shape and dimensions not described"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "H133",
+    "slug": "levoit-h133-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "LV-H133-RF",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model number and part code printed on their Levoit H133 unit before purchasing, as listings include both OEM (LV‑H133‑RF) and generic compatible filters that may vary in packaging or specifications.",
+    "faqs": [
+      {
+        "q": "What is the correct part code for a replacement filter for the Levoit H133?",
+        "a": "The official replacement filter is listed under part number LV‑H133‑RF."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements for the H133?",
+        "a": "OEM filters are manufactured by Levoit and match the original specifications, while third‑party filters are compatible alternatives that may be sold in multi‑packs and can vary in brand but are designed to fit the same model."
+      },
+      {
+        "q": "What filtration grade and features do H133 replacement filters provide?",
+        "a": "Many listings specify an H13 HEPA grade combined with activated carbon, offering high‑efficiency removal of smoke, odors, allergens, pollen, dust, and pet hair."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters that fit the Levoit H133 air purifier are identified by the part code LV‑H133‑RF and typically carry an H13 filtration grade. Both OEM genuine filters and third‑party multi‑pack alternatives are offered, providing options for original performance or cost‑effective replacements for home use in the United States.",
+    "key_takeaways": [
+      "The LV‑H133‑RF filter (H13 grade) is compatible with Levoit H133 air purifiers.",
+      "Filters combine high‑efficiency activated carbon with H13 HEPA to remove smoke, odors, allergens, pollen, dust, and pet hair.",
+      "Both OEM genuine single filters and third‑party multi‑pack replacements are available for purchase."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B07DVWWC44",
+        "title": "Levoit LV-H133 Replacement Filter, Genuine Air Purifier Filters, 1 High-Efficiency Activated Carbon for Removal of Smoke, Odor, Allergens, Pollen, Dust, Pet Hair, LV-H133-RF, White",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 121,
+        "pros": [
+          "Genuine Levoit filter ensures original fit and performance.",
+          "Includes high‑efficiency activated carbon for odor and smoke removal."
+        ],
+        "cons": [
+          "Only a single filter; no multi‑pack discount.",
+          "Color limited to white; may not match other décor."
+        ]
+      },
+      {
+        "asin": "B082XVKCHR",
+        "title": "LV-H133 Replacement Filter, Made in Taiwan, Compatible with LEVOIT LV-H133 Tower Air Purifier, H13 Grade Filtration & Activated Carbon Filter Set, Part Number LV-H133-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 857,
+        "pros": [
+          "Specifies H13 HEPA grade and activated carbon.",
+          "Part number matches official LV‑H133‑RF, indicating compatibility."
+        ],
+        "cons": [
+          "Manufactured in Taiwan; may not be OEM Levoit.",
+          "Packaging details unclear; may be a filter set rather than single unit."
+        ]
+      },
+      {
+        "asin": "B0C7Z8DZFR",
+        "title": "LV-H133 Replacement Filter 2 Pack Compatible with LEVOIT LV-H133",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 175,
+        "pros": [
+          "Sold as a 2‑pack, offering cost savings.",
+          "Compatible with LEVOIT LV‑H133, fits the model."
+        ],
+        "cons": [
+          "Does not specify OEM status; may be third‑party.",
+          "No details on filtration grade or carbon content."
+        ]
+      },
+      {
+        "asin": "B0C48Z4MBB",
+        "title": "LV-H133 Replacement Filter Compatible with LEVOIT LV-H133 Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 138,
+        "pros": [
+          "Single filter compatible with LV‑H133.",
+          "Provides a replacement option for the model."
+        ],
+        "cons": [
+          "Lacks OEM designation; likely third‑party.",
+          "No information on HEPA grade or carbon layer."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "H128",
+    "slug": "levoit-h128-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "LV-H128",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify your exact Levoit H128 model sticker or part number before ordering, as listings indicate compatibility with variants like LV-H128-RF and specific third-party models (PUURVSAS HM669A, ROVACS RV60). Ensure the filter code matches your device's requirements to avoid fitment issues.",
+    "faqs": [
+      {
+        "q": "What is the correct filter part number for the Levoit H128?",
+        "a": "The correct filter part number is LV-H128. Some listings also reference LV-H128-RF, indicating a specific variant or revision of the filter."
+      },
+      {
+        "q": "Are there OEM and third-party options for the Levoit H128 filter?",
+        "a": "Yes, genuine Levoit OEM filters are available, as well as third-party replacements. Third-party options include multi-packs such as 4-packs and 8-packs, which may offer better value for frequent replacements."
+      },
+      {
+        "q": "Does the LV-H128 filter fit other air purifier brands?",
+        "a": "According to the listings, the LV-H128 filter is compatible with PUURVSAS (HM669A) and ROVACS (RV60) air cleaners, in addition to Levoit LV-H128 models."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit H128 air purifier utilizes the LV-H128 replacement filter. While specific HEPA grades are not explicitly detailed in the provided listings, the filter is identified by the part code LV-H128. Consumers can choose between genuine Levoit OEM filters and third-party multi-pack replacements, such as 4-packs or 8-packs, which offer cost-effective alternatives for maintaining air quality in compatible Levoit units.",
+    "key_takeaways": [
+      "The specific filter part number for the Levoit H128 is LV-H128, with some listings also referencing LV-H128-RF.",
+      "Both genuine Levoit OEM filters and third-party replacement packs (4-pack and 8-pack) are available for this model.",
+      "The LV-H128 filter is compatible with Levoit LV-H128 air purifiers, as well as specific models from PUURVSAS and ROVACS."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B08H8QNW1S",
+        "title": "Levoit LV-H128 Air Purifier Replacement Filter, Genuine Air Purifier Filter",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 121,
+        "pros": [
+          "Identified as a 'Genuine Air Purifier Filter' for Levoit LV-H128.",
+          "Directly branded as Levoit, ensuring OEM compatibility."
+        ],
+        "cons": [
+          "Single unit purchase, potentially higher cost per filter compared to multi-packs.",
+          "No explicit mention of HEPA grade or dimensions in the title."
+        ]
+      },
+      {
+        "asin": "B0DHD8MC9S",
+        "title": "4 Pack LV-H128 Replacement Filter for Levoit Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 206,
+        "pros": [
+          "Provides a 4-pack of LV-H128 replacement filters.",
+          "Clearly states compatibility with Levoit Air Purifier."
+        ],
+        "cons": [
+          "Third-party replacement, not confirmed as genuine Levoit OEM.",
+          "No explicit mention of HEPA grade or dimensions in the title."
+        ]
+      },
+      {
+        "asin": "B0C8N674DJ",
+        "title": "LV-H128 Replacement Filter for LEVOIT LV-H128, PUURVSAS (HM669A), ROVACS (RV60) Air Cleaner Purifier, LV-H128-RF, 8 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 182,
+        "pros": [
+          "Offers an 8-pack of LV-H128 replacement filters, providing high volume.",
+          "Lists compatibility with multiple models including PUURVSAS and ROVACS."
+        ],
+        "cons": [
+          "Third-party replacement, not confirmed as genuine Levoit OEM.",
+          "No explicit mention of HEPA grade or dimensions in the title."
+        ]
+      },
+      {
+        "asin": "B08RBL8QFD",
+        "title": "LV-H128 Replacement Filter for LEVOIT LV-H128 Air Purifier, 4 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 15,
+        "pros": [
+          "Offers a 4-pack of LV-H128 replacement filters.",
+          "Specifically labeled for LEVOIT LV-H128 Air Purifier."
+        ],
+        "cons": [
+          "Third-party replacement, not confirmed as genuine Levoit OEM.",
+          "No explicit mention of HEPA grade or dimensions in the title."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Vital 100",
+    "slug": "levoit-vital-100-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm the exact Levoit Vital 100 model sticker or part number, as variants may exist. The listings do not specify a unique filter code, so verify compatibility.",
+    "faqs": [
+      {
+        "q": "What filter part code is required for the Levoit Vital 100 replacement filter?",
+        "a": "The titles do not list an official filter part code; buyers should verify the model sticker on their unit."
+      },
+      {
+        "q": "Are the listed filters OEM or third‑party?",
+        "a": "All listed items are third‑party replacements; none are manufactured by Levoit."
+      },
+      {
+        "q": "What filtration features are mentioned for these filters?",
+        "a": "The titles do not specify a HEPA grade or filtration details; only that they are replacement filters for the Vital 100."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Vital 100 uses a replacement filter that is sold in both OEM and third‑party multi‑pack options. No official filter part code or HEPA grade is listed in the titles, but all listed items are compatible with the Vital 100 model for indoor air purification.",
+    "key_takeaways": [
+      "Compatible with Levoit Vital 100 air purifier",
+      "OEM and third‑party multi‑pack replacement filters are available",
+      "No specific filter part code or HEPA grade is listed in the titles"
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B0G3F44F6P",
+        "title": "3 Pack Vital 100 Replacement Filter for LEVOIT Vital 100 Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 43,
+        "pros": [
+          "3‑pack replacement filter",
+          "For Vital 100"
+        ],
+        "cons": [
+          "No official filter code listed",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B0859VX3R2",
+        "title": "Vital 100 Replacement Filter for LEVOIT Vital 100 Air Purifier, LINNIW",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 29,
+        "pros": [
+          "Replacement filter for Vital 100",
+          "Single pack"
+        ],
+        "cons": [
+          "No official filter code listed",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B09P89VYB2",
+        "title": "Vital 100 Replacement Filter for LEVOIT Vital 100 Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 13,
+        "pros": [
+          "Replacement filter for Vital 100",
+          "Single pack"
+        ],
+        "cons": [
+          "No official filter code listed",
+          "No HEPA grade specified"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "300S",
+    "slug": "levoit-300s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model number on your Levoit 300S unit or the original filter part number before ordering, as listings reference several Core 300 variants (300‑P, 300S‑P, etc.).",
+    "faqs": [
+      {
+        "q": "What filter part code fits the Levoit 300S?",
+        "a": "The listings do not provide a specific part code; the filter is identified as the Core 300‑P compatible replacement."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party filters?",
+        "a": "OEM filters are labeled genuine Levoit and sold singly, while third‑party options often come in multi‑packs and may lack official branding."
+      },
+      {
+        "q": "What filtration level do these replacement filters offer?",
+        "a": "One listing specifies a 3‑in‑1 H13 True HEPA and activated carbon filter; other listings do not state a grade."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Core 300S uses a replacement filter compatible with the Core 300‑P series; no specific part code is listed in the titles. Filters are rated H13 True HEPA and include activated carbon. Both genuine OEM filters and multi‑pack third‑party options are sold widely available.",
+    "key_takeaways": [
+      "Compatible with Core 300‑P and Core 300S models as indicated in all listings",
+      "Filters provide H13 True HEPA plus activated carbon filtration where specified",
+      "Buyers can choose OEM genuine filters or value‑pack third‑party replacements"
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B07RSZSYNC",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 265,
+        "pros": [
+          "Genuine Levoit filter ensures proper fit",
+          "Designed for Core 300‑P and compatible with 300S"
+        ],
+        "cons": [
+          "Higher price than third‑party alternatives",
+          "Typically sold singly, no multi‑pack"
+        ]
+      },
+      {
+        "asin": "B08Q3VZX9X",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 265,
+        "pros": [
+          "Genuine Levoit filter ensures proper fit",
+          "Designed for Core 300‑P and compatible with 300S"
+        ],
+        "cons": [
+          "Higher price than third‑party alternatives",
+          "Typically sold singly, no multi‑pack"
+        ]
+      },
+      {
+        "asin": "B08CXFL9RK",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300-P Core 300S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 73,
+        "pros": [
+          "Specifically lists Core 300‑P and 300S‑P compatibility",
+          "Simple replacement filter design"
+        ],
+        "cons": [
+          "HEPA grade not mentioned",
+          "Unclear OEM quality assurance"
+        ]
+      },
+      {
+        "asin": "B0BV6VY9LW",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300,Core 300S,Core P350,Core300-P, Core 300 Replacement Filter,3-in-1 H13 True HEPA & Activated Carbon Filter, Core 300-RF,2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 13,
+        "pros": [
+          "Includes H13 True HEPA and activated carbon filtration",
+          "Sold as a 2‑pack value set"
+        ],
+        "cons": [
+          "Not an official Levoit OEM product",
+          "Fit may vary for specific model variants"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "400S",
+    "slug": "levoit-400s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should verify the exact model number and part code on their Levoit 400S unit, as some listings reference the 400S‑P or 400S‑rf variants which may require specific filters.",
+    "faqs": [
+      {
+        "q": "What part code is required for a Levoit Core 400S replacement filter?",
+        "a": "The listings do not specify a part code; customers should check the model sticker on their unit for the correct code."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party filters for the 400S?",
+        "a": "OEM filters are labeled genuine Levoit, while third‑party packs are compatible but not branded, offering cost savings."
+      },
+      {
+        "q": "What filtration level do the listed filters provide?",
+        "a": "One listing mentions an H13 HEPA rating, indicating high‑efficiency filtration; other listings do not specify a grade."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Levoit Core 400S (including the 400S‑P variant) are available as both genuine OEM parts and third‑party multi‑pack options. No specific part code is listed in the titles, but an H13 HEPA grade is mentioned for at least one filter in the product line.",
+    "key_takeaways": [
+      "All listed filters are compatible with the Levoit Core 400S and its 400S‑P variant.",
+      "One product explicitly states an H13 HEPA filtration rating, while others do not specify grade.",
+      "Buyers can choose between single‑pack OEM filters and value‑pack third‑party replacements."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B08SQQK6K7",
+        "title": "Levoit Core 400S-P Air Purifier Replacement Filter,Genuine Air Filter,1Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 53,
+        "pros": [
+          "Genuine Levoit OEM filter",
+          "Single pack ensures original fit"
+        ],
+        "cons": [
+          "Only one filter per pack",
+          "No multi‑pack discount"
+        ]
+      },
+      {
+        "asin": "B0B5YZ2ZKC",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 785,
+        "pros": [
+          "Designed for Core 400S‑P model",
+          "Replacement filter"
+        ],
+        "cons": [
+          "No HEPA grade mentioned",
+          "Pack quantity not indicated (assumed single)"
+        ]
+      },
+      {
+        "asin": "B0BFQKQ788",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S and Core400S-P/Core 400S-rf Smart WiFi Air Purifier,3-in-1 True H13 HEPA Activated Carbon Pre-Filter,1Pack,White",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 507,
+        "pros": [
+          "H13 HEPA filtration rating",
+          "Includes activated carbon pre‑filter"
+        ],
+        "cons": [
+          "Single pack only",
+          "Color specified (white) may not match"
+        ]
+      },
+      {
+        "asin": "B0C6LKHDMG",
+        "title": "2 Pack Core 400S Replacement Filter Compatible with LEVOIT Core 400S",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 180,
+        "pros": [
+          "Includes two filters for value",
+          "Compatible with Core 400S"
+        ],
+        "cons": [
+          "Not OEM (no genuine label)",
+          "Potential fit variations not specified"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "brand_name": "Coway",
+    "brand_slug": "coway",
+    "model_name": "Ap 1512HH",
+    "slug": "coway-ap-1512hh-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "3304899",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model and part number on their Airmega AP‑1512HH unit (e.g., 3304899) before ordering, as some listings bundle additional deodorization filters or use alternate codes like AP‑1518R.",
+    "faqs": [
+      {
+        "q": "What part number identifies the replacement filter for a Coway Airmega AP‑1512HH?",
+        "a": "The official filter is listed under part number 3304899; some third‑party listings also reference this number or the code AP‑1518R."
+      },
+      {
+        "q": "Is there a difference between OEM Coway filters and third‑party replacements?",
+        "a": "OEM filters are manufactured by Coway and carry the brand name, while third‑party filters are compatible replacements that may lack Coway branding and can be sold in multi‑pack value sets."
+      },
+      {
+        "q": "What filtration features do the listed replacement filters provide?",
+        "a": "The titles mention a HEPA filter element and, in some sets, an additional deodorization or carbon pre‑filter, but no specific HEPA grade is stated."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Coway Airmega AP‑1512HH are identified by part number 3304899. The official Coway filter carries this code and includes a HEPA element, while third‑party packs also list the same part number and offer multi‑pack options. Both OEM and compatible replacements are available.",
+    "key_takeaways": [
+      "Official Coway replacement uses part #3304899 and includes a HEPA filter.",
+      "Third‑party listings also reference #3304899 (or AP‑1518R) and often sell multi‑pack value sets.",
+      "All items are marketed for the AP‑1512HH model, but OEM vs aftermarket differ in brand and potential performance."
+    ],
+    "published_at": "2026-11-25 01:58:02",
+    "updated_at": "2026-11-25 01:58:02",
+    "products": [
+      {
+        "asin": "B00C7WMQTW",
+        "title": "COWAY Airmega AP-1512HH & 200M Filter Replacement Set, HEPA Filter and Deodorization Filter, AP-1512HH-FP Fresh Starter, 3304899",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 83,
+        "pros": [
+          "Contains both HEPA and deodorization filters",
+          "Official Coway part number ensures compatibility"
+        ],
+        "cons": [
+          "Potentially higher cost than third‑party packs",
+          "May include starter components not needed"
+        ]
+      },
+      {
+        "asin": "B0BFHDX2T9",
+        "title": "AP-1512HH Replacement Filter for Coway Airmega AP-1512HH & Airmega 200M Air Purifiers, 2 Pack Main Filters with 6 Carbon Pre-Filters, Fit for Coway Filter Replacement Part # 3304899 AP-1518R",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 440,
+        "pros": [
+          "Includes two main filters and six carbon pre‑filters",
+          "Lists official part numbers (3304899, AP‑1518R) for compatibility"
+        ],
+        "cons": [
+          "Not manufactured by Coway",
+          "May differ in HEPA grade or build quality"
+        ]
+      },
+      {
+        "asin": "B0CCV9BVZL",
+        "title": "AP-1512HH Replacement Filter Compatible with Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 291,
+        "pros": [
+          "Specifically labeled for AP‑1512HH model",
+          "Third‑party compatible replacement"
+        ],
+        "cons": [
+          "No official Coway part number listed",
+          "Potential variation in filter performance"
+        ]
+      },
+      {
+        "asin": "B07Z67NG78",
+        "title": "AP-1512HH Air Purifier Replacement Filter Set for Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 19,
+        "pros": [
+          "Pack includes replacement filter set",
+          "Marketed for AP‑1512HH"
+        ],
+        "cons": [
+          "Lacks OEM branding",
+          "Unclear if includes deodorization filter"
+        ]
+      }
+    ]
+  },
+  {
     "id": 158,
     "brand_name": "Blueair",
     "brand_slug": "blueair",
