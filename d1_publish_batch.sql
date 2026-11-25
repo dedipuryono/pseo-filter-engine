@@ -1,16 +1,16 @@
--- Drip-Feed Batch (15 pages) - 2026-11-24 23:13:47 UTC
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'levoit-vital-200s-p-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'levoit-core-300-rac-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'levoit-core-200s-p-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'levoit-core-300-p-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'levoit-300-rac-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'levoit-core-300-p-toxin-absorber-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'levoit-core-300-pet-care-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'coway-airmega-ap-1512hh-w-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'winix-d3-for-d360-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'winix-d4-for-d480-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'winix-e-for-p450-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'winix-h-for-5500-2-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'winix-o-for-a230-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'winix-o-for-a231-and-a230-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-24 23:13:47', updated_at = '2026-11-24 23:13:47' WHERE slug = 'honeywell-hev615-and-hev620-humidifiers-replacement-filter';
+-- Drip-Feed Batch (15 pages) - 2026-11-25 01:12:38 UTC
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-211i-max-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-311i-max-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-blue-pure-211-air-purifiers-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-replacement-air-blue-3250i-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-blue-pure-511i-max-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-blue-pure-211i-max-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-blue-pure-max-3250i-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-blue-pure-max-3650i-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'blueair-f4max-411i-max-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'dyson-pure-cool-link-tm-tower-tp03-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'miele-c3-cat-and-dog-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'miele-plinth-replacement-for-t1-dryer-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'roborock-water-s8-pro-ultra-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'roborock-water-s7-max-ultra-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-25 01:12:38', updated_at = '2026-11-25 01:12:38' WHERE slug = 'eufy-homevac-kit-for-s11-replacement-filter';

@@ -1,4 +1,4 @@
-import json
+﻿import json
 import os
 import sqlite3
 import subprocess
@@ -9,11 +9,10 @@ from typing import Any, Dict, List
 DB_FILE = "pseo_staging.db"
 BATCH_SQL_FILE = "d1_publish_batch.sql"
 ASTRO_DATA_FILE = os.path.join("web-app", "src", "data", "catalog.json")
-DAILY_LIMIT = 15  # Jumlah halaman baru yang dirilis per eksekusi
+DAILY_LIMIT = 15
 
 
 def is_low_competition_variant(model_name: str) -> int:
-    """Prioritas 1 untuk sub-varian (persaingan paling kosong), 2 untuk seri utama."""
     tokens = model_name.split()
     if len(tokens) >= 2 and any(len(t) <= 3 and t.isalpha() for t in tokens[1:]):
         return 1
@@ -25,7 +24,6 @@ def publish_next_batch(limit: int = DAILY_LIMIT, sync_remote: bool = True) -> No
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
 
-    # Ambil kandidat 'enriched' dan urutkan berdasarkan prioritas persaingan rendah
     cur.execute("""
         SELECT d.id, b.name AS brand_name, b.slug AS brand_slug, d.model_name, d.slug
         FROM devices d
@@ -39,9 +37,7 @@ def publish_next_batch(limit: int = DAILY_LIMIT, sync_remote: bool = True) -> No
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
 
     if batch:
-        sql_lines = [
-            f"-- Drip-Feed Batch ({len(batch)} pages) - {now_iso} UTC",
-        ]
+        sql_lines = [f"-- Drip-Feed Batch ({len(batch)} pages) - {now_iso} UTC"]
         for item in batch:
             cur.execute(
                 "UPDATE devices SET status = 'published', published_at = ?, updated_at = ? WHERE id = ?",
@@ -62,13 +58,12 @@ def publish_next_batch(limit: int = DAILY_LIMIT, sync_remote: bool = True) -> No
             print("\nMenyinkronkan status 'published' ke Cloudflare D1...")
             subprocess.run(
                 ["npx", "wrangler", "d1", "execute", "pseo-filter-db", "--remote", f"--file={BATCH_SQL_FILE}"],
-                shell=True,
-                check=False
+                shell=(os.name == "nt"),
+                check=True
             )
     else:
-        print("Tidak ada antrean 'enriched' baru. Mengekspor ulang katalog yang sudah 'published'...")
+        print("Seluruh antrean 'enriched' sudah terbit. Mengekspor ulang katalog 'published'...")
 
-    # Ekspor seluruh halaman berstatus 'published' untuk Astro SSG
     export_astro_catalog(conn)
     conn.close()
 
@@ -95,9 +90,8 @@ def export_astro_catalog(conn: sqlite3.Connection) -> None:
             WHERE device_id = ? AND is_verified = 1
             ORDER BY is_oem DESC, review_count DESC
         """, (d["id"],))
-        products = []
-        for p in cur.fetchall():
-            products.append({
+        products = [
+            {
                 "asin": p["asin"],
                 "title": p["raw_title"],
                 "is_oem": bool(p["is_oem"]),
@@ -105,7 +99,9 @@ def export_astro_catalog(conn: sqlite3.Connection) -> None:
                 "review_count": p["review_count"] or 0,
                 "pros": json.loads(p["pros_json"] or "[]"),
                 "cons": json.loads(p["cons_json"] or "[]"),
-            })
+            }
+            for p in cur.fetchall()
+        ]
 
         catalog.append({
             "id": d["id"],

@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://godedi.net',
+  site: 'https://filters.godedi.net',
   output: 'static',
   integrations: [sitemap()],
   build: {
