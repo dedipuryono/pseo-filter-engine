@@ -1,0 +1,7 @@
+﻿name = "pseo-filter-engine"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pseo-filter-db"
+database_id = "73cfe94d-05bd-4060-81f3-f836b5850b47"
