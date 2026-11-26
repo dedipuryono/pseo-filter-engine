@@ -1,16 +1,16 @@
--- Drip-Feed Batch (15 pages) - 2026-11-25 11:06:38 UTC
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-s-for-c545-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-c610-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-c545-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-5510-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-c535-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-a231-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-d480-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-d360-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-5520-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'winix-5500-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'honeywell-hpa300-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'honeywell-hcm-890-humidifier-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'blueair-blue-pure-411-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'blueair-3210-replacement-filter';
-UPDATE devices SET status = 'published', published_at = '2026-11-25 11:06:38', updated_at = '2026-11-25 11:06:38' WHERE slug = 'blueair-511-replacement-filter';
+-- Drip-Feed Batch (15 pages) - 2026-11-26 10:43:14 UTC
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'blueair-211-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'blueair-replacement-particle-500-600-series-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'medify-ma-40-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-v8-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-v10-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-animal-2-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-am11-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-animal-3-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-ball-animal-2-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-ball-animal-3-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-cyclone-v10-animal-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-cyclone-v10-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-cyclone-v10-absolute-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-dc14-replacement-filter';
+UPDATE devices SET status = 'published', published_at = '2026-11-26 10:43:14', updated_at = '2026-11-26 10:43:14' WHERE slug = 'dyson-dc07-replacement-filter';

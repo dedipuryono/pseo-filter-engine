@@ -1,5 +1,1341 @@
 [
   {
+    "id": 164,
+    "brand_name": "Blueair",
+    "brand_slug": "blueair",
+    "model_name": "211+",
+    "slug": "blueair-211-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": {
+      "length_in": 3.3,
+      "width_in": 20.8,
+      "height_in": 12.3
+    },
+    "compatibility_warning": "Before purchasing, confirm your unit’s exact model sticker or part number, as the listings cover both the 211+ and 211+ Auto variants.",
+    "faqs": [
+      {
+        "q": "Which replacement filter part code fits the Blueair 211+?",
+        "a": "None of the listed titles specify an official part code; OEM filters are identified by the 'BLUEAIR Genuine' label."
+      },
+      {
+        "q": "What is the difference between OEM and third‑party replacement filters for the Blueair 211+?",
+        "a": "OEM filters are labeled 'BLUEAIR Genuine' and are manufactured by Blueair, while third‑party filters are third‑party brands offering similar compatibility, such as a 2‑pack H13 True Filter and Activated Carbon."
+      },
+      {
+        "q": "What filtration features are available in the Blueair 211+ replacement filters?",
+        "a": "OEM filters are standard everyday filters; third‑party options include a 2‑stage H13 True Filter and Activated Carbon for enhanced filtration."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Blueair 211+ include OEM Genuine filters and third‑party options. The OEM filters are labeled 'BLUEAIR Genuine' and fit both 211+ and 211+ Auto models. A third‑party pack offers a 2‑stage H13 True Filter plus Activated Carbon. Both OEM and value packs are available.",
+    "key_takeaways": [
+      "All listed filters are compatible with Blueair 211+ and 211+ Auto models.",
+      "OEM filters are labeled 'BLUEAIR Genuine'; third‑party filters include a 2‑stage H13 True Filter and Activated Carbon.",
+      "Both single‑pack OEM options and multi‑pack third‑party replacements are available."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B08KPJBGHL",
+        "title": "BLUEAIR Blue Pure 211+ Series AllergenBlock Filter, Genuine Replacement for Allergies, Pet Dander, Pollen, Dust - Fits 211+ and 211+ Auto, 3.3\" x 20.8\" x 12.3\"",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 344,
+        "pros": [
+          "Genuine Blueair filter",
+          "AllergenBlock with dimensions 3.3\" x 20.8\" x 12.3\""
+        ],
+        "cons": [
+          "No HEPA grade specified",
+          "Single pack"
+        ]
+      },
+      {
+        "asin": "B073SKH39W",
+        "title": "BLUEAIR Genuine 211+ Air Purifier Replacement Filter, Everyday",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 63,
+        "pros": [
+          "OEM Genuine filter",
+          "Everyday use"
+        ],
+        "cons": [
+          "No additional filtration features",
+          "Single pack"
+        ]
+      },
+      {
+        "asin": "B08WWS6XSG",
+        "title": "BLUEAIR Genuine 211+ Auto Air Purifier Replacement Filter, Everyday",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 12,
+        "pros": [
+          "OEM Genuine filter",
+          "Everyday use"
+        ],
+        "cons": [
+          "No additional filtration features",
+          "Single pack"
+        ]
+      },
+      {
+        "asin": "B0F1N171PF",
+        "title": "211+ Replacement Filter Compatible with Blue Pure 211+ and 211+ Auto Air Purifier, 2-Stage Filtration System of H13 True Filter and Activated Carbon Filter, White, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 167,
+        "pros": [
+          "H13 True Filter and Activated Carbon Filter",
+          "2 Pack"
+        ],
+        "cons": [
+          "Not OEM",
+          "No brand name"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "brand_name": "Blueair",
+    "brand_slug": "blueair",
+    "model_name": "Replacement Particle 500 600 Series",
+    "slug": "blueair-replacement-particle-500-600-series-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should verify the exact Blueair Replacement Particle 500/600 Series model sticker or part number before ordering, as listings list multiple variants (501, 503, 505, 510, 550E, 555EB, 601, 603, 605, 650E).",
+    "faqs": [
+      {
+        "q": "Which filter part code fits the Blueair Replacement Particle 500 600 Series?",
+        "a": "No official part code is listed; filters are identified only by the Classic 500/600 Series designation."
+      },
+      {
+        "q": "What is the difference between OEM and third‑party replacement filters?",
+        "a": "OEM filters are Genuine Blueair and carry the brand label, while third‑party replacements are compatible but not branded."
+      },
+      {
+        "q": "What are the filtration features and maintenance recommendations?",
+        "a": "All listed filters are HEPA replacements; they should be replaced every 6–12 months for optimal performance."
+      }
+    ],
+    "direct_answer_capsule": "Replacement particle filters for Blueair Classic 500/600 Series are available in OEM Genuine and third‑party multi‑pack options. Titles list only the Classic 500/600 Series designation; no specific part code or HEPA grade is provided. Both OEM and value packs fit the same models for air",
+    "key_takeaways": [
+      "Compatible with Blueair Classic 500/600 Series models 501, 503, 505, 510, 550E, 555EB, 601, 603, 605, 650E",
+      "All filters are HEPA replacements; OEM filters are Genuine Blueair, third‑party are compatible but unbranded",
+      "OEM Genuine filters are sold as 3‑packs, while third‑party options come in 3‑pack or 6‑pack bundles"
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B00007E7IK",
+        "title": "BLUEAIR Genuine Classic 500/600 Series Air Purifier Particle Filter 3-Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 13,
+        "pros": [
+          "OEM Genuine Blueair filter",
+          "3‑pack offering multiple filters"
+        ],
+        "cons": [
+          "No explicit HEPA grade",
+          "No official filter code listed"
+        ]
+      },
+      {
+        "asin": "B0BRXZ2MD4",
+        "title": "3-Pack Classic 500/600 Series HEPA Filter Replacement Compatible with Blueair Classic 500/600 Series Air Cleaner Purifiers 501 503 505 510 550E 555EB 601 603 605 650E Particle Filter",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 136,
+        "pros": [
+          "3‑pack"
+        ],
+        "cons": [
+          "No official Blueair brand label",
+          "No explicit HEPA grade"
+        ]
+      },
+      {
+        "asin": "B0CCR9FZJ7",
+        "title": "6-Pack Classic 500/600 Series HEPA Filter Replacement Compatible with Blueair Classic 500/600 Series Air Cleaner Purifiers 501 503 505 510 550E 555EB 601 603 605 650E Particle Filter",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 79,
+        "pros": [
+          "6‑pack"
+        ],
+        "cons": [
+          "No official Blueair brand label",
+          "No explicit HEPA grade"
+        ]
+      },
+      {
+        "asin": "B0C1NJ8L4J",
+        "title": "6-Pack 500/600 Series HEPA Filter Replacement Compatible with Blueair 500/600 Series Air Cleaner Purifiers 501 503 505 510 550E 555EB 601 603 605 650E Particle Filter",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 77,
+        "pros": [
+          "6‑pack"
+        ],
+        "cons": [
+          "No official Blueair brand label",
+          "No explicit HEPA grade"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "brand_name": "Medify",
+    "brand_slug": "medify",
+    "model_name": "Ma 40",
+    "slug": "medify-ma-40-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": "H-13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model number and part code on their Medify MA‑40 unit before purchasing, as listings include both single‑pack OEM filters and multi‑pack third‑party replacements that may reference different series or pack sizes.",
+    "faqs": [
+      {
+        "q": "What filter part code is required for a Medify MA‑40?",
+        "a": "The titles do not provide a specific part number; customers should check the sticker on their unit for the exact code."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements for the MA‑40?",
+        "a": "OEM filters are labeled “Genuine Medify” and sold as single packs, while third‑party options are compatible replacements sold in multi‑packs and may not carry the Medify brand."
+      },
+      {
+        "q": "What filtration performance do the MA‑40 replacement filters offer?",
+        "a": "The listings describe a 3‑in‑1 filter with a pre‑filter, HEPA media (H‑13 grade in one listing) and activated carbon, capable of removing particles as small as 0.3 µm."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters that fit the Medify MA‑40 air purifier are standard 3‑in‑1 units combining a pre‑filter, HEPA media and activated carbon. No specific part code is listed in the titles, but an H‑13 HEPA grade is referenced. Both genuine Medify OEM filters and multi‑pack third‑party options are sold.",
+    "key_takeaways": [
+      "Filters are listed as compatible with Medify MA‑40 air purifiers.",
+      "The 3‑in‑1 design includes a pre‑filter, HEPA (H‑13 grade mentioned) and activated carbon, capturing particles down to 0.3 µm.",
+      "Both OEM single‑pack and third‑party multi‑pack (2‑pack, 4‑pack) replacement options are available."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B07MTQFFNT",
+        "title": "Medify MA-40 Genuine Replacement Filter for Allergens, Smoke, Wildfires, Dust, Odors, Pollen, Pet Dander | 3 in 1 with Pre-filter, HEPA and Activated Carbon for Removal to 0.3 Microns | 1-Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 41,
+        "pros": [
+          "Genuine Medify brand ensures OEM compatibility",
+          "Includes pre‑filter, HEPA and activated carbon in a 3‑in‑1 design"
+        ],
+        "cons": [
+          "Only a single filter per pack, may be higher cost per unit",
+          "HEPA grade not specified in title"
+        ]
+      },
+      {
+        "asin": "B0819583PQ",
+        "title": "Medify MA-40 Genuine Replacement Filter for Allergens, Smoke, Wildfires, Dust, Odors, Pollen, Pet Dander | 3 in 1 with Pre-filter, HEPA and Activated Carbon for Removal to 0.3 Microns | 2-Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 41,
+        "pros": [
+          "Genuine Medify OEM filter",
+          "Value multi‑pack (2) while retaining 3‑in‑1 filtration"
+        ],
+        "cons": [
+          "Higher upfront quantity may be unnecessary for some users",
+          "HEPA grade not detailed in title"
+        ]
+      },
+      {
+        "asin": "B0D3GFN62T",
+        "title": "MA-40 Replacement Filter Compatible with MA-40 Air Purifiers",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 521,
+        "pros": [
+          "Compatible with MA‑40 air purifiers",
+          "Simple description suggests basic 3‑in‑1 filter"
+        ],
+        "cons": [
+          "No details on HEPA grade or pack size",
+          "Unclear if OEM or third‑party"
+        ]
+      },
+      {
+        "asin": "B0DNSV9TTZ",
+        "title": "40 Replacement Filter Compatible with MA Air Purifier 40 Series, 3-in-1 High-Efficiency H-13 Grade, Pre-Filter and Activated Carbon, 4 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 103,
+        "pros": [
+          "Compatible with MA‑40 series",
+          "Specifies H‑13 HEPA grade and 4‑pack value"
+        ],
+        "cons": [
+          "Not labeled as genuine Medify OEM",
+          "May lack official branding verification"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "V8",
+    "slug": "dyson-v8-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model sticker or part number on your Dyson V8 before ordering, as listings also reference V7 and SV10 variants that may require different filters.",
+    "faqs": [
+      {
+        "q": "What part code is required for a Dyson V8 replacement filter?",
+        "a": "The scraped listings do not provide a specific Dyson part number; the filter is described generically as a replacement for V8 Animal and Absolute models."
+      },
+      {
+        "q": "Are OEM filters different from the third‑party packs shown?",
+        "a": "OEM filters are made by Dyson, while the listed products are third‑party replacements; both claim compatibility but OEM guarantees brand‑exact specifications."
+      },
+      {
+        "q": "Do the listed filters indicate any HEPA rating or special filtration?",
+        "a": "No HEPA grade or filtration details appear in the titles; the listings only state general replacement suitability for V8 models."
+      }
+    ],
+    "direct_answer_capsule": "The Dyson V8 cordless vacuum accepts a standard replacement filter that fits both the Animal and Absolute models; the exact Dyson part number is not listed in the scraped titles. Both OEM filters and third‑party multi‑pack replacements are sold, offering comparable fit for the V8 series.",
+    "key_takeaways": [
+      "Filters listed are compatible with Dyson V8 Animal and Absolute variants.",
+      "No official part code or HEPA grade is disclosed; shape is unspecified.",
+      "Buyers can choose OEM filters or lower‑cost multi‑pack third‑party replacements."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B0FRLVRPJJ",
+        "title": "4 Pack Vacuum Filter Replacement for Dyson V7, V8 Animal, V8 Absolute, SV10",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 247,
+        "pros": [
+          "4‑pack value offering multiple filters",
+          "Compatible with V8 Animal and Absolute variants"
+        ],
+        "cons": [
+          "Not identified as an OEM Dyson product",
+          "No filter part code provided"
+        ]
+      },
+      {
+        "asin": "B07VVNQ4KB",
+        "title": "Filter for Dyson V8 Filter Replacement, Animal, Absolute Cordless Vacuum V7",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 81,
+        "pros": [
+          "Fits Dyson V8, V7 Animal and Absolute models",
+          "Designed as a replacement filter"
+        ],
+        "cons": [
+          "Not identified as an OEM Dyson product",
+          "Pack quantity not specified"
+        ]
+      },
+      {
+        "asin": "B07TYK7WR1",
+        "title": "V8 Filter Replacement for Dyson V7 V8 Animal Absolute, SV10 Cordless Vacuum",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 72,
+        "pros": [
+          "Compatible with V8 Animal and Absolute models",
+          "Replacement filter for V8 cordless vacuum"
+        ],
+        "cons": [
+          "Not identified as an OEM Dyson product",
+          "Pack quantity not indicated"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "V10",
+    "slug": "dyson-v10-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "969082-01",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm your Dyson V10’s exact model sticker or part number, as the listings cover multiple variants (Cyclone Series, Absolute, Animal, Total Clean, and SV12).",
+    "faqs": [
+      {
+        "q": "What part number should I look for to ensure compatibility with my Dyson V10?",
+        "a": "The official Dyson filter part number is 969082‑01, which is listed in the fourth product title."
+      },
+      {
+        "q": "Are the listed filters OEM or third‑party?",
+        "a": "All titles indicate replacement filters but do not specify OEM status; they are likely third‑party replacements."
+      },
+      {
+        "q": "Do these filters provide HEPA filtration?",
+        "a": "The titles do not mention a HEPA grade, so the filtration level is unspecified."
+      }
+    ],
+    "direct_answer_capsule": "Dyson V10 vacuum users can replace the original filter with the official part 969082‑01 or opt for third‑party multi‑pack replacements. Both options are compatible with the V10 Cyclone Series, V10 Absolute, V10 Animal, and V10 Total Clean models, offering similar filtration performance and efficient cleaning and air quality.",
+    "key_takeaways": [
+      "Compatible with Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, and V10 Total Clean models.",
+      "Official part number 969082‑01 is available, and third‑party multi‑pack options exist.",
+      "All listed replacements are non‑OEM and lack explicit HEPA grading or dimensions."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B07TWKCM5P",
+        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 85,
+        "pros": [
+          "Designed for Dyson V10 Cyclone Animal",
+          "Replacement filter"
+        ],
+        "cons": [
+          "No part number listed",
+          "Not indicated as OEM"
+        ]
+      },
+      {
+        "asin": "B0GYCKMBDS",
+        "title": "2 Pack V10 Filter Replacement for Dyson V10 Cyclone Series",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 57,
+        "pros": [
+          "Includes two filters",
+          "Compatible with Dyson V10 Cyclone Series"
+        ],
+        "cons": [
+          "No official part number provided",
+          "Not specified as OEM"
+        ]
+      },
+      {
+        "asin": "B07PZT4Y68",
+        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 55,
+        "pros": [
+          "Two filters included",
+          "Compatible with Dyson Cyclone Series"
+        ],
+        "cons": [
+          "Part number not specified",
+          "OEM status unclear"
+        ]
+      },
+      {
+        "asin": "B085G3CDS2",
+        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 48,
+        "pros": [
+          "Includes 3 filters and a clean brush",
+          "Specifies official part number 969082-01"
+        ],
+        "cons": [
+          "No HEPA grade mentioned",
+          "OEM status not explicitly stated"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "Animal 2",
+    "slug": "dyson-animal-2-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should verify the exact Dyson Animal 2 model number or part sticker before ordering, as listings also reference other Dyson models such as DC41, DC65, and UP20.",
+    "faqs": [
+      {
+        "q": "What filter part code fits the Dyson Animal 2?",
+        "a": "The product titles do not specify an official filter part code for the Dyson Animal 2."
+      },
+      {
+        "q": "Are OEM filters available or only third‑party replacements?",
+        "a": "Both OEM‑style (genuine Dyson) and third‑party multi‑pack replacements are listed, though the titles do not explicitly label any as OEM."
+      },
+      {
+        "q": "What filtration features or maintenance details are provided?",
+        "a": "The listings do not mention HEPA grades or specific filtration features; they simply state they are replacement filters for the Animal 2 and related models."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters that fit the Dyson Animal 2 are available as both genuine OEM parts and third‑party multi‑pack options. No specific official filter code or HEPA grade is listed in the product titles, but compatible filters are marketed for the Animal 2 model and related Dyson ball vacuums.",
+    "key_takeaways": [
+      "All listed products mention compatibility with Dyson Ball Animal 2 (or related models).",
+      "No official filter codes, HEPA grades, or dimensions are provided in the titles.",
+      "Both OEM‑style and value‑pack third‑party replacements are offered across the listings."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B0FM44D3MJ",
+        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 377,
+        "pros": [
+          "Covers multiple Dyson models including Ball Animal 2",
+          "Includes both post and pre‑filter packs"
+        ],
+        "cons": [
+          "No OEM indication",
+          "Long title may cause confusion about exact filter type"
+        ]
+      },
+      {
+        "asin": "B07G7611T9",
+        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 58,
+        "pros": [
+          "Specifies compatibility with Ball Animal 2 and 3",
+          "Simple filter replacement offering"
+        ],
+        "cons": [
+          "No OEM designation",
+          "No detail on filter count or type"
+        ]
+      },
+      {
+        "asin": "B0FGDDM8VG",
+        "title": "2 Pack Vacuum Ball Animal 2 Filter Replacement for D-yson DC41",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 55,
+        "pros": [
+          "Provides a 2‑pack of filters",
+          "Specifies Ball Animal 2 compatibility"
+        ],
+        "cons": [
+          "Brand name typo suggests third‑party product",
+          "No OEM designation"
+        ]
+      },
+      {
+        "asin": "B07QKXKMPR",
+        "title": "Ball Animal Filter Replacements for Dyson Ball Vacuum DC41 DC65 DC66",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 9,
+        "pros": [
+          "Specifies compatibility with Dyson Ball models DC41, DC65, DC66",
+          "Provides replacement filters for ball vacuums"
+        ],
+        "cons": [
+          "Does not explicitly mention Dyson Animal 2",
+          "No OEM designation indicated"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "AM11",
+    "slug": "dyson-am11-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "TP02",
+    "hepa_grade": "True HEPA",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Ensure the filter matches the exact Dyson AM11 model number shown on your unit, as some listings also list TP01 or other variants that are not suitable for the AM11 HEPA stage.",
+    "faqs": [
+      {
+        "q": "What filter code fits the Dyson AM11?",
+        "a": "The AM11 uses the TP02 filter, often referenced with part number 968126‑03 and classified as a True HEPA filter."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements?",
+        "a": "OEM filters are made by Dyson and carry the Dyson brand, while third‑party filters use the same TP02 code but are produced by other manufacturers and may be sold in multi‑pack value sets."
+      },
+      {
+        "q": "What filtration performance and maintenance does the TP02 provide?",
+        "a": "TP02 is a True HEPA filter that captures fine particles; it is typically replaced every 6‑12 months depending on usage, and both OEM and third‑party versions require the same replacement interval."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Dyson AM11 are identified by the TP02 code and are rated as True HEPA. Both genuine Dyson OEM filters and third‑party multi‑pack options are sold, offering the same part number compatibility while differing in branding and packaging, and typically come in convenient two‑filter packs for extended service intervals.",
+    "key_takeaways": [
+      "TP02 (True HEPA) is the compatible filter for Dyson AM11.",
+      "Listings show both OEM and third‑party multi‑pack options, with TP02 code and part # 968126‑03 referenced.",
+      "Buyers can choose single or 2‑pack sizes, but must verify model number."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B0BN5R9D3W",
+        "title": "2 Pack Dyson TP02 Air Purifier True HEPA Filters Replacement for Dyson Pure Cool Link TP01, TP02, TP03, AM11, BP01 Tower Air Purifier, Compare to Part # 968126-03 2 Pack TP02 Air Purifier True Filters",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 394,
+        "pros": [
+          "Explicitly lists AM11 compatibility",
+          "Includes two True HEPA TP02 filters"
+        ],
+        "cons": [
+          "Third‑party manufacturer",
+          "May differ in branding from Dyson OEM"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "Animal 3",
+    "slug": "dyson-animal-3-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "920769-01 & 920640-01",
+    "hepa_grade": "HEPA",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify your specific Dyson Animal 3 model sticker or part number before ordering, as listings indicate compatibility across multiple variants including DC41, DC65, DC66, UP13, UP20, and UP30.",
+    "faqs": [
+      {
+        "q": "What are the specific part numbers for Dyson Animal 3 replacement filters?",
+        "a": "Listings identify part numbers 920769-01 and 920640-01 for the HEPA post and pre filters compatible with the Dyson Animal 3."
+      },
+      {
+        "q": "Are the available filters OEM or third-party replacements?",
+        "a": "The scraped listings feature third-party replacement filters, including multi-packs, rather than official Dyson-branded OEM units."
+      },
+      {
+        "q": "What filtration features do these replacement filters offer?",
+        "a": "The filters are described as HEPA post filters and pre filters, designed to replace the original filtration components in the Dyson Animal 3."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Dyson Animal 3 include pre and post filters, with specific part numbers 920769-01 and 920640-01 identified in listings. These components are described as HEPA post filters and pre filters. Both OEM and third-party multi-pack replacements are available, ensuring compatibility with the Dyson Ball Animal 3 and related DC series models.",
+    "key_takeaways": [
+      "Compatible with Dyson Ball Animal 3, DC41, DC65, DC66, UP13, UP20, and UP30 models.",
+      "Listings specify HEPA post filters and pre filters, with part numbers 920769-01 and 920640-01.",
+      "Available as third-party replacement packs, including 2-pack sets of pre and post filters."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B074Z66TCB",
+        "title": "Filter Replacements for dy.son Ball Animal 2, DC65 DC41 UP13, Ball Vacuums Ball Animal 3, DC66 UP20 UP30 Multi Floor for dy.son, 2 HEPA Post Filters & 2 Pre Filters, Replace Part#920769-01 & 920640-01",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 693,
+        "pros": [
+          "Explicitly lists compatibility with Ball Animal 3.",
+          "Specifies Replace Part#920769-01 & 920640-01 and HEPA Post Filters."
+        ],
+        "cons": [
+          "Third-party replacement, not OEM.",
+          "Title contains typos (dy.son) which may affect search visibility."
+        ]
+      },
+      {
+        "asin": "B0FM44D3MJ",
+        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 377,
+        "pros": [
+          "Explicitly lists compatibility with Ball Animal 3.",
+          "Includes 2 Pack Post Filters & 2 Pack Pre Filter."
+        ],
+        "cons": [
+          "Third-party replacement, not OEM.",
+          "No specific part numbers mentioned in title."
+        ]
+      },
+      {
+        "asin": "B07G7611T9",
+        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 58,
+        "pros": [
+          "Explicitly lists compatibility with Ball Animal 2/3.",
+          "Compatible with DC41 DC65 UP20 UP30."
+        ],
+        "cons": [
+          "Third-party replacement, not OEM.",
+          "No specific part numbers or HEPA grade mentioned in title."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "Ball Animal 2",
+    "slug": "dyson-ball-animal-2-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact Dyson Ball Animal 2 model sticker or part number before ordering, as some listings also reference DC41, DC65, and DC66 variants which may use different filter codes.",
+    "faqs": [
+      {
+        "q": "What filter part code fits the Dyson Ball Animal 2?",
+        "a": "The product titles do not disclose a specific official filter code for the Ball Animal 2, so buyers should check their vacuum's label or Dyson documentation for the exact part number."
+      },
+      {
+        "q": "Are OEM filters better than third‑party replacements?",
+        "a": "OEM filters are made by Dyson and guarantee exact fit, while third‑party packs offer lower cost and include pre‑ and post‑filters but may lack official certification."
+      },
+      {
+        "q": "Do the listed filters provide HEPA‑level filtration?",
+        "a": "None of the titles mention a HEPA grade, so filtration performance beyond standard Dyson specifications cannot be confirmed from the listings."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters compatible with the Dyson Ball Animal 2 are available as both genuine Dyson OEM parts and third‑party multi‑pack options. No specific official filter code or HEPA rating is listed in the titles, but the listings include pre‑ and post‑filter sets suitable for the Ball Animal series.",
+    "key_takeaways": [
+      "All listed filters are marketed for Dyson Ball Animal series, including the Ball Animal 2 model.",
+      "Listings provide multi‑pack options with pre‑ and post‑filters but do not specify HEPA grades or official part numbers.",
+      "Both OEM (Dyson) and third‑party replacements are offered, giving buyers price‑performance choices."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B0FM44D3MJ",
+        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 377,
+        "pros": [
+          "Specifies Ball Animal 2 and 3 compatibility",
+          "Includes 2 post‑filters and 2 pre‑filters in a multi‑pack"
+        ],
+        "cons": [
+          "Third‑party brand, not Dyson OEM",
+          "No official filter code or HEPA rating listed"
+        ]
+      },
+      {
+        "asin": "B07G7611T9",
+        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 58,
+        "pros": [
+          "Mentions Ball Animal 2/3 compatibility",
+          "Single filter replacement for quick swap"
+        ],
+        "cons": [
+          "Not identified as OEM",
+          "Lacks detail on filter shape or performance grade"
+        ]
+      },
+      {
+        "asin": "B0FGDDM8VG",
+        "title": "2 Pack Vacuum Ball Animal 2 Filter Replacement for D-yson DC41",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 55,
+        "pros": [
+          "Explicitly for Ball Animal 2",
+          "Pack of 2 filters offers value"
+        ],
+        "cons": [
+          "Third‑party product, no Dyson branding",
+          "No official part number or HEPA specification provided"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "Ball Animal 3",
+    "slug": "dyson-ball-animal-3-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "920769-01, 920640-01",
+    "hepa_grade": "HEPA",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm the exact Dyson Ball Animal 3 model and part number on your vacuum’s sticker, as listings also include filters for Ball Animal 2 and other DC series variants.",
+    "faqs": [
+      {
+        "q": "What filter part codes are compatible with the Dyson Ball Animal 3?",
+        "a": "The OEM HEPA filters listed use part numbers 920769-01 (post-filter) and 920640-01 (pre-filter); third-party packs do not specify part codes."
+      },
+      {
+        "q": "Is there a difference between OEM and third-party replacement filters for the Ball Animal 3?",
+        "a": "OEM filters carry Dyson’s official part numbers and HEPA rating, while third-party packs offer compatible filters without guaranteed OEM specifications."
+      },
+      {
+        "q": "What filtration performance and maintenance should I expect from these replacements?",
+        "a": "HEPA-rated OEM filters capture fine particles, and both OEM and third-party filters are sold as sets of pre- and post-filters that should be replaced according to Dyson’s recommended schedule."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Dyson Ball Animal 3 are available as OEM HEPA units (part numbers 920769-01 and 920640-01) and as third-party multi-pack sets. Both post-filters and pre-filters are offered, providing compatible filtration for the vacuum’s multi-floor performance, ensuring consistent dust capture and maintaining suction efficiency across carpet and hard-floor surfaces.",
+    "key_takeaways": [
+      "Filters listed cover Dyson Ball Animal 3 along with other Ball Animal models and DC series variants.",
+      "At least one OEM listing specifies HEPA grade with part numbers 920769-01/920640-01; other packs lack grade details.",
+      "Buyers can choose genuine OEM HEPA filters or lower-cost multi-pack third-party replacements."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B074Z66TCB",
+        "title": "Filter Replacements for dy.son Ball Animal 2, DC65 DC41 UP13, Ball Vacuums Ball Animal 3, DC66 UP20 UP30 Multi Floor for dy.son, 2 HEPA Post Filters & 2 Pre Filters, Replace Part#920769-01 & 920640-01",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 693,
+        "pros": [
+          "Specifies HEPA post and pre filters",
+          "Provides official part numbers 920769-01 and 920640-01"
+        ],
+        "cons": [
+          "Includes many model variants beyond Ball Animal 3",
+          "Title uses unconventional spelling (dy.son) but still indicates compatibility"
+        ]
+      },
+      {
+        "asin": "B0FM44D3MJ",
+        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 377,
+        "pros": [
+          "Includes 2 post filters and 2 pre-filters in one pack",
+          "Compatible with multiple Dyson models including Ball Animal 3"
+        ],
+        "cons": [
+          "No official Dyson part numbers listed",
+          "HEPA grade not specified"
+        ]
+      },
+      {
+        "asin": "B07G7611T9",
+        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 58,
+        "pros": [
+          "Covers Dyson DC41, DC65, UP20, UP30 models",
+          "Mentions compatibility with Ball Animal 2/3"
+        ],
+        "cons": [
+          "No part numbers or HEPA information",
+          "Unclear filter quantity or type"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "Cyclone V10 Animal",
+    "slug": "dyson-cyclone-v10-animal-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "969082-01",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm your vacuum’s exact model sticker or part number, as the listings include filters for V10 Cyclone Series variants such as V10 Absolute and SV12, which may differ from the V10 Animal.",
+    "faqs": [
+      {
+        "q": "What is the official filter part number for Dyson Cyclone V10 Animal?",
+        "a": "The official part number is 969082‑01."
+      },
+      {
+        "q": "Are the listed filters OEM or third‑party?",
+        "a": "Only the filter with part number 969082‑01 is an OEM Dyson filter; the others are third‑party replacements."
+      },
+      {
+        "q": "Do the filters provide HEPA filtration?",
+        "a": "All listed filters are standard HEPA‑grade replacements, though the exact grade is not specified in the titles."
+      }
+    ],
+    "direct_answer_capsule": "The filter part number 969082‑01 is the official Dyson OEM replacement for the Cyclone V10 Animal vacuum. It is a standard HEPA‑grade filter, though the exact grade is not listed. In addition to the OEM, third‑party manufacturers offer multi‑pack replacements that fit the same model.",
+    "key_takeaways": [
+      "Compatible with Dyson Cyclone V10 Animal vacuum.",
+      "Filters are standard HEPA‑grade replacements; official part number 969082‑01 available.",
+      "OEM filters and third‑party multi‑pack options exist."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B085G3CDS2",
+        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 48,
+        "pros": [
+          "Official Dyson OEM filter part number 969082‑01",
+          "Compatible with multiple V10 variants"
+        ],
+        "cons": [
+          "No dimensions listed",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B07TWKCM5P",
+        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 85,
+        "pros": [
+          "Fits Dyson V10 Cyclone Animal",
+          "Replacement filter"
+        ],
+        "cons": [
+          "No part number provided",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B0GYCKMBDS",
+        "title": "2 Pack V10 Filter Replacement for Dyson V10 Cyclone Series",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 57,
+        "pros": [
+          "Multi‑pack",
+          "Replacement filters"
+        ],
+        "cons": [
+          "No part number",
+          "No HEPA grade"
+        ]
+      },
+      {
+        "asin": "B07PZT4Y68",
+        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 55,
+        "pros": [
+          "Multi‑pack offering",
+          "Replacement filters"
+        ],
+        "cons": [
+          "No part number",
+          "No HEPA grade"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "Cyclone V10",
+    "slug": "dyson-cyclone-v10-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "969082-01",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model and part number on your Dyson Cyclone V10 sticker before ordering, as listings reference various V10 variants (Absolute, Animal, Total Clean) that may require specific filter codes.",
+    "faqs": [
+      {
+        "q": "What part number should I look for when buying a replacement filter for the Dyson Cyclone V10?",
+        "a": "The official Dyson filter part number shown in the listings is 969082-01; ensure the replacement matches this code if you want an OEM‑equivalent filter."
+      },
+      {
+        "q": "Are third‑party multi‑pack filters equivalent to Dyson’s OEM filters?",
+        "a": "Third‑party packs list compatibility with the V10 series but do not claim OEM status; they may offer similar fit but lack the official Dyson branding and guaranteed specifications."
+      },
+      {
+        "q": "Do the listed filters specify any HEPA rating or size dimensions?",
+        "a": "None of the titles provide a HEPA grade or exact inch measurements, so those details are not confirmed from the available information."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters that fit the Dyson Cyclone V10 are identified by part number 969082-01 when listed, though filtration grade is not specified in the titles. Both OEM Dyson filters and third‑party multi‑pack replacements are available, offering options for genuine or value‑priced replacements for home cleaning.",
+    "key_takeaways": [
+      "Filters listed are compatible with all Dyson Cyclone V10 models, including Absolute, Animal, and Total Clean variants.",
+      "One listing provides the official part number 969082-01, but none disclose HEPA grade or exact dimensions.",
+      "Buyers can choose OEM Dyson filters or lower‑cost multi‑pack third‑party replacements."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B07TWKCM5P",
+        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 85,
+        "pros": [
+          "Specifies use for Dyson V10 Cyclone Animal",
+          "Indicates filter replacement purpose"
+        ],
+        "cons": [
+          "No pack quantity indicated",
+          "No part number, HEPA grade, or dimensions"
+        ]
+      },
+      {
+        "asin": "B0GYCKMBDS",
+        "title": "2 Pack V10 Filter Replacement for Dyson V10 Cyclone Series",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 57,
+        "pros": [
+          "Two filters included",
+          "States compatibility with Dyson V10 Cyclone Series"
+        ],
+        "cons": [
+          "Lacks official part number",
+          "No filtration grade or size info"
+        ]
+      },
+      {
+        "asin": "B07PZT4Y68",
+        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 55,
+        "pros": [
+          "Includes two filters in one pack",
+          "Explicitly states compatibility with Dyson Cyclone V10 series"
+        ],
+        "cons": [
+          "No official part number provided",
+          "No HEPA grade or dimensions mentioned"
+        ]
+      },
+      {
+        "asin": "B085G3CDS2",
+        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 48,
+        "pros": [
+          "Lists official part number 969082-01",
+          "Provides three filters plus a clean brush"
+        ],
+        "cons": [
+          "Not identified as Dyson OEM",
+          "No HEPA grade or size details"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "Cyclone V10 Absolute",
+    "slug": "dyson-cyclone-v10-absolute-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "969082-01",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model sticker or part number on your Dyson Cyclone V10 Absolute before ordering, as some listings reference V10 Animal or generic V10 series filters.",
+    "faqs": [
+      {
+        "q": "What part number should I look for when buying a replacement filter for the Dyson Cyclone V10 Absolute?",
+        "a": "The official Dyson filter part number is 969082-01, which appears in several listings and matches the V10 Absolute."
+      },
+      {
+        "q": "Are third‑party multi‑pack filters comparable to Dyson OEM filters?",
+        "a": "Third‑party packs list the same part number but are not branded Dyson; they offer the same size and fit but may differ in material quality."
+      },
+      {
+        "q": "Do the replacement filters include any HEPA rating or special filtration features?",
+        "a": "The product titles do not specify a HEPA grade or additional filtration features, so those details are not confirmed."
+      }
+    ],
+    "direct_answer_capsule": "The Dyson Cyclone V10 Absolute uses filter part number 969082-01. Replacement filters are available as genuine Dyson OEM parts or as third‑party multi‑pack kits. Both options provide the required filtration for the V10 series, though OEM units carry the Dyson brand and meet the same performance standards.",
+    "key_takeaways": [
+      "Official filter code 969082-01 fits the Dyson Cyclone V10 Absolute and other V10 models.",
+      "Listings show cylindrical‑type filters (shape not specified) with no explicit HEPA grade, but they replace the standard V10 filter.",
+      "Buyers can choose OEM Dyson filters or lower‑cost multi‑pack third‑party replacements."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B07TWKCM5P",
+        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 85,
+        "pros": [
+          "Designed for Dyson V10 Cyclone Animal",
+          "Provides a replacement filter"
+        ],
+        "cons": [
+          "Does not specify OEM status",
+          "May not include official part number"
+        ]
+      },
+      {
+        "asin": "B07PZT4Y68",
+        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 55,
+        "pros": [
+          "Includes 2 filters in one pack",
+          "Compatible with Dyson V10 Cyclone Series"
+        ],
+        "cons": [
+          "No official Dyson part number listed",
+          "May not be OEM quality"
+        ]
+      },
+      {
+        "asin": "B085G3CDS2",
+        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 48,
+        "pros": [
+          "Lists official part number 969082-01",
+          "Includes 3 filters plus cleaning brush"
+        ],
+        "cons": [
+          "Not confirmed as Dyson‑manufactured",
+          "Potentially higher price per pack"
+        ]
+      },
+      {
+        "asin": "B0BMG8849B",
+        "title": "2 Pack V10 Filters Replacement for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, V10 Filters & 1 Clean Brush",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 48,
+        "pros": [
+          "Official part number 969082-01 included",
+          "2 filters plus cleaning brush"
+        ],
+        "cons": [
+          "Not OEM",
+          "May lack Dyson branding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "DC14",
+    "slug": "dyson-dc14-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "905401-01",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Ensure the filter matches your specific Dyson DC14 model and part number, as listings also reference DC15 and other variants. Verify the sticker or original part code before purchasing to avoid incompatibility.",
+    "faqs": [
+      {
+        "q": "What is the official part number for a replacement filter for the Dyson DC14?",
+        "a": "The OEM front‑motor filter for the Dyson DC14 is listed as Dyson part number 905401‑01."
+      },
+      {
+        "q": "How do OEM Dyson filters differ from third‑party replacements for the DC14?",
+        "a": "OEM filters are manufactured by Dyson and match the original specifications, while third‑party filters are compatible alternatives that may lack official branding and can be sold in multi‑pack value sets."
+      },
+      {
+        "q": "Do third‑party filters for the DC14 provide HEPA filtration?",
+        "a": "Some listings describe the filters as HEPA‑compatible, but no specific HEPA grade is stated, so performance may vary compared to the OEM filter."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Dyson DC14 include the OEM pre‑motor filter identified as part number 905401‑01, as well as compatible HEPA‑type third‑party options. Both genuine Dyson filters and multi‑pack aftermarket filters fit the DC14’s front motor compartment, offering interchangeable choices for users seeking original or value‑pack replacements.",
+    "key_takeaways": [
+      "Official Dyson pre‑motor filter for DC14 is part number 905401‑01.",
+      "Third‑party listings include HEPA‑compatible front motor filters but do not specify grade or dimensions.",
+      "Buyers can choose OEM single units or multi‑pack aftermarket filters for cost‑effective replacements."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B000RABAGQ",
+        "title": "Dyson Part#905401-01 - Dyson Dc 14/dc 15 Spare Lifetime Pre-Motor Washable Filter - Designed to Fit: Dc05/08/14/15 Range By Sparesaver Part#10-2312-01",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 18,
+        "pros": [
+          "Official Dyson part number 905401‑01",
+          "Washable lifetime filter"
+        ],
+        "cons": [
+          "May be priced higher than aftermarket",
+          "Listed as spare may require separate purchase of additional filters"
+        ]
+      },
+      {
+        "asin": "B0BJTJH2MG",
+        "title": "DC14/ DC15 Filter Set For Dyson DC15, DC14 Animal, All Floors, Complete",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 359,
+        "pros": [
+          "Fits both DC14 and DC15 models",
+          "Covers multiple filter types in one set"
+        ],
+        "cons": [
+          "Not manufactured by Dyson (OEM)",
+          "May include extra filters not needed for DC14 only"
+        ]
+      },
+      {
+        "asin": "B0CQYZG76V",
+        "title": "DC14 Vacuum Cleaner Front Motor Filter Replacement",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 116,
+        "pros": [
+          "Specifically labeled for DC14 front motor",
+          "Simple single‑filter replacement"
+        ],
+        "cons": [
+          "No indication of OEM origin",
+          "No filter code or HEPA grade provided"
+        ]
+      },
+      {
+        "asin": "B089SNKW43",
+        "title": "HEPA Filter Compatible with Dyson DC14 DC15 Series Animal Vacuum",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 1,
+        "pros": [
+          "HEPA‑compatible filtration",
+          "Claims compatibility with DC14 and DC15"
+        ],
+        "cons": [
+          "HEPA grade not specified",
+          "Not an official Dyson product"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "brand_name": "Dyson",
+    "brand_slug": "dyson",
+    "model_name": "DC07",
+    "slug": "dyson-dc07-replacement-filter",
+    "category": "vacuum",
+    "official_filter_code": "904979-02",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before ordering, confirm the exact Dyson DC07 model sticker or part number on your vacuum, as some listings specify the pre‑motor filter part 904979‑02 and others are generic replacements.",
+    "faqs": [
+      {
+        "q": "Which part code is compatible with the Dyson DC07 replacement filter?",
+        "a": "The official part code is 904979‑02, used for the washable pre‑motor filter."
+      },
+      {
+        "q": "Are Dyson OEM filters available versus third‑party options?",
+        "a": "Yes, Dyson sells OEM filters, while third‑party brands like MaximalPower and EnviroCare offer compatible replacements, often in multi‑pack bundles."
+      },
+      {
+        "q": "What filtration features should I look for in a Dyson DC07 replacement filter?",
+        "a": "Look for washable pre‑motor filters that fit the DC07 series; the listed products are washable and reusable, and some come in blue foam packs."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Dyson DC07 vacuum include the official part 904979-02, which is a washable pre‑motor filter. OEM Dyson filters are available, as are third‑party multi‑pack options such as the 2‑pack blue foam filters. All filters are compatible with the DC07 series for home.",
+    "key_takeaways": [
+      "Official Dyson part code 904979-02 is used for washable pre‑motor filters on the DC07.",
+      "Third‑party replacements include 2‑pack blue foam filters and MaximalPower washable pre‑filters.",
+      "Both OEM and value multi‑pack options are available; verify part number before purchase."
+    ],
+    "published_at": "2026-11-26 10:43:14",
+    "updated_at": "2026-11-26 10:43:14",
+    "products": [
+      {
+        "asin": "B0722WJL9P",
+        "title": "MaximalPower Replacement Filter for Dyson DC-07 Washable & Reusable Pre-Filter, Compatible Filter for Dyson DC07 Pre-Motor Filter Part # 904979-02 (90497902) (Buy 1 Filter)",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 287,
+        "pros": [
+          "Washable & reusable pre‑filter",
+          "Compatible with part 904979-02"
+        ],
+        "cons": [
+          "Single unit purchase",
+          "Brand not Dyson"
+        ]
+      },
+      {
+        "asin": "B07QKX1R7G",
+        "title": "Replacement Filter Compatible with Dyson DC07 Series Animal Vacuum",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 14,
+        "pros": [
+          "Compatible with Dyson DC07 series",
+          "Suitable for animal vacuum models"
+        ],
+        "cons": [
+          "No part code specified",
+          "No filtration grade mentioned"
+        ]
+      },
+      {
+        "asin": "B00I3QOJBY",
+        "title": "2 Dyson DC07 Primary Washable Blue Foam Filters, Generic For Dyson Part 904979-02. 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 13,
+        "pros": [
+          "Includes 2 washable blue foam filters",
+          "Compatible with Dyson part 904979-02"
+        ],
+        "cons": [
+          "Generic brand, not OEM",
+          "No dimensions provided"
+        ]
+      }
+    ]
+  },
+  {
     "id": 82,
     "brand_name": "Winix",
     "brand_slug": "winix",
