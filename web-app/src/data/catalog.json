@@ -1,1336 +1,1290 @@
 [
   {
-    "id": 164,
-    "brand_name": "Blueair",
-    "brand_slug": "blueair",
-    "model_name": "211+",
-    "slug": "blueair-211-replacement-filter",
+    "id": 416,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Lv H 128",
+    "slug": "levoit-lv-h-128-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm that their unit’s model sticker matches LV‑H128 before purchasing, as the listings only reference the LV‑H128 designation and do not list part numbers or size details.",
+    "faqs": [
+      {
+        "q": "What is the part code for the LV‑H128 replacement filter?",
+        "a": "The Amazon titles do not provide a specific part number; the filter is identified only by the LV‑H128 model designation."
+      },
+      {
+        "q": "Are OEM filters different from third‑party packs?",
+        "a": "OEM listings describe the filter as “genuine,” while other listings offer 4‑pack or 6‑pack replacements that are not labeled as OEM, indicating they are third‑party alternatives."
+      },
+      {
+        "q": "What filtration grade and shape do these filters have?",
+        "a": "The titles do not mention a HEPA grade or shape, so those specifications are not disclosed in the product information."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit LV‑H128 air purifier uses a replacement filter designated for the LV‑H128 model; no specific part code or HEPA grade is provided in the listings. Both genuine OEM filters and third‑party multi‑pack replacements (4‑pack or 6‑pack) are offered for this unit compatible with the original design.",
+    "key_takeaways": [
+      "Filters labeled LV‑H128 fit the Levoit LV‑H128 purifier.",
+      "Listings do not specify HEPA grade, dimensions, or filter shape.",
+      "Both OEM genuine filters and value multi‑pack (4‑pack, 6‑pack) third‑party replacements are available."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B08H8QNW1S",
+        "title": "Levoit LV-H128 Air Purifier Replacement Filter, Genuine Air Purifier Filter",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 121,
+        "pros": [
+          "Official Levoit genuine filter",
+          "Designed for LV‑H128 purifier"
+        ],
+        "cons": [
+          "Only single filter per listing",
+          "No pack quantity indicated"
+        ]
+      },
+      {
+        "asin": "B0CTY7NHBY",
+        "title": "4 Pack LV-H128 Replacement Filter for Levoit Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 160,
+        "pros": [
+          "Provides four replacement filters",
+          "Matches LV‑H128 model"
+        ],
+        "cons": [
+          "Not identified as OEM",
+          "No HEPA grade or dimensions stated"
+        ]
+      },
+      {
+        "asin": "B0D9CDPXJ5",
+        "title": "6 Pack LV-H128 Replacement Filter for Levoit Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 160,
+        "pros": [
+          "Offers six filters in one pack",
+          "Compatible with LV‑H128 purifier"
+        ],
+        "cons": [
+          "No OEM claim",
+          "Lacks detailed specifications such as size or grade"
+        ]
+      },
+      {
+        "asin": "B08RBL8QFD",
+        "title": "LV-H128 Replacement Filter for LEVOIT LV-H128 Air Purifier, 4 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 15,
+        "pros": [
+          "Includes four filters per purchase",
+          "Specifically labeled for LV‑H128 model"
+        ],
+        "cons": [
+          "No OEM designation provided",
+          "No rating information listed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Lv H 134",
+    "slug": "levoit-lv-h-134-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "LV-H134-RF",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify that your air purifier is the exact Levoit LV‑H134 model, as similar LV‑H135 filters are not interchangeable. Check the model sticker or part number before ordering to ensure proper fit.",
+    "faqs": [
+      {
+        "q": "What is the correct replacement filter part number for a Levoit LV‑H134?",
+        "a": "The filter for the LV‑H134 is identified as the LV‑H134‑RF model; OEM listings use this code, and compatible third‑party filters reference the same designation."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party replacement filters for the LV‑H134?",
+        "a": "OEM filters are manufactured by Levoit and labeled genuine, while third‑party filters are compatible alternatives that may offer multi‑pack options or added features but are not officially branded."
+      },
+      {
+        "q": "Do the listed replacement filters include any specific filtration features or maintenance details?",
+        "a": "One third‑party listing mentions an activated filter for smoke and odor removal; otherwise, titles do not specify HEPA grades or dimensions, so users should refer to product details for performance and replacement intervals."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Levoit LV‑H134 use the LV‑H134‑RF part code. While Levoit offers genuine OEM filters, several third‑party sellers provide compatible single‑pack or multi‑pack options. Choose based on brand preference and price, noting that filtration performance may vary significantly between OEM and aftermarket units.",
+    "key_takeaways": [
+      "The LV‑H134 uses the LV‑H134‑RF filter model, compatible with both OEM and third‑party replacements.",
+      "OEM filters are labeled genuine Levoit, while third‑party listings note compatibility and added features like activated odor removal.",
+      "Buyers can select single‑pack OEM units or multi‑pack value packs from aftermarket sellers."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B07DVYFBNY",
+        "title": "Levoit LV-H134 Replacement Filter, Genuine Air Purifier Filters, 1 Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 121,
+        "pros": [
+          "Genuine Levoit OEM filter",
+          "Exact LV‑H134 match"
+        ],
+        "cons": [
+          "Single pack only",
+          "No multi‑pack option listed"
+        ]
+      },
+      {
+        "asin": "B0GV45G8YB",
+        "title": "1 Pack Replacement Filter，Compatible For Levoit，Air Purifier LV-H134 LV-H134-RF，Activated For Smoke Odor Removal",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 0,
+        "pros": [
+          "Compatible with LV‑H134",
+          "Claims activated smoke/odor removal"
+        ],
+        "cons": [
+          "Not OEM (third‑party)",
+          "Part code not confirmed as official"
+        ]
+      },
+      {
+        "asin": "B0FWKQKLY7",
+        "title": "Replacement Filter，Compatible For Levoit，LV-H134 Air Purifier For LV-H134-RF, Air Purifier Parts",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 0,
+        "pros": [
+          "Compatible with LV‑H134",
+          "Listed as replacement filter"
+        ],
+        "cons": [
+          "Not OEM (third‑party)",
+          "No filtration grade or dimensions provided"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "2.5 L Humidifier Replacement",
+    "slug": "levoit-2-5-l-humidifier-replacement-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model number or part number on their Levoit 2.5 L humidifier before purchasing, as listings include filters for other Levoit models such as Classic160, Dual150, and LV600S.",
+    "faqs": [
+      {
+        "q": "What filter part code fits the Levoit 2.5 L humidifier?",
+        "a": "The titles do not provide a specific official part code; customers should check the humidifier’s label for the exact code."
+      },
+      {
+        "q": "Are OEM filters different from third‑party multi‑packs?",
+        "a": "OEM filters are made by Levoit and sold in single or small packs, while third‑party sellers offer larger quantity packs that claim compatibility but may lack the official branding."
+      },
+      {
+        "q": "What filtration features do these replacement filters have?",
+        "a": "The listings describe the filters as “top‑fill” and capable of capturing particles, but they do not specify a HEPA rating or exact dimensions."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Levoit 2.5 L humidifier are sold as single OEM units and as multi‑pack third‑party sets. No specific official filter part code or HEPA grade is listed in the available titles. Filters are top‑fill designs compatible with the 2.5 L model, offering particle capture.",
+    "key_takeaways": [
+      "Top‑fill filters are compatible with the Levoit 2.5 L humidifier, though no official part code is disclosed.",
+      "Listings describe particle‑capture capability but do not specify HEPA grade or dimensions.",
+      "Both OEM single packs and larger third‑party multi‑packs are offered for purchase."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B09ZY9N6PD",
+        "title": "Levoit 10-Pack Top Fill Humidifier Replacement Filters, Capture Particles",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 66,
+        "pros": [
+          "Levoit branded OEM filter",
+          "10‑pack provides long‑term supply"
+        ],
+        "cons": [
+          "No official part number listed",
+          "Shape and dimensions not specified"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "2.5 L Humidifier",
+    "slug": "levoit-2-5-l-humidifier-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model number on their Levoit 2.5 L humidifier (e.g., Classic300S) and the corresponding filter part number, as listings reference several variants such as Classic160, Dual150, and LV600S.",
+    "faqs": [
+      {
+        "q": "What filter part code fits the Levoit 2.5 L humidifier?",
+        "a": "The listings do not provide an official part code; users should check the humidifier’s label or manual for the correct code."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements?",
+        "a": "OEM filters are manufactured by Levoit and guarantee original specifications, while third‑party packs are compatible replacements that may lack official branding and detailed specs."
+      },
+      {
+        "q": "What filtration features and maintenance are indicated?",
+        "a": "Titles mention a top‑fill design and particle capture, but no HEPA rating or size details; filters should be replaced according to the manufacturer’s recommended interval."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit 2.5 L humidifier uses a top‑fill replacement filter; no official part code or HEPA grade is specified in the available listings. Both genuine OEM filters and third‑party multi‑pack replacements are sold, offering options for standard replacement or bulk purchase for home or office use.",
+    "key_takeaways": [
+      "Filters listed for Classic300S and other Levoit models indicate compatibility with the 2.5 L humidifier.",
+      "Titles only claim particle capture; no HEPA grade or dimensions are provided.",
+      "Both OEM filters and third‑party multi‑pack (10‑, 30‑pack) options are available for purchase."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B0C96JGWH9",
+        "title": "Humidifier Replacement Filter for Levoit Classic160 Classic300S Dual150",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 758,
+        "pros": [
+          "Compatible with Classic300S (2.5 L) and other models",
+          "Top‑fill replacement filter"
+        ],
+        "cons": [
+          "Not identified as OEM Levoit product",
+          "No official part code or HEPA grade listed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "400S P",
+    "slug": "levoit-400s-p-replacement-filter",
     "category": "air_purifier",
     "official_filter_code": null,
     "hepa_grade": "H13",
     "filter_shape": null,
-    "dimensions": {
-      "length_in": 3.3,
-      "width_in": 20.8,
-      "height_in": 12.3
-    },
-    "compatibility_warning": "Before purchasing, confirm your unit’s exact model sticker or part number, as the listings cover both the 211+ and 211+ Auto variants.",
+    "dimensions": null,
+    "compatibility_warning": "Verify your specific unit is the Levoit Core 400S-P or Core 400S-rf variant, as listings indicate compatibility with these specific smart WiFi models. Do not assume cross-compatibility with other Levoit series without checking the model sticker.",
     "faqs": [
       {
-        "q": "Which replacement filter part code fits the Blueair 211+?",
-        "a": "None of the listed titles specify an official part code; OEM filters are identified by the 'BLUEAIR Genuine' label."
+        "q": "What filter is compatible with the Levoit 400S P?",
+        "a": "The Levoit 400S P uses a 3-in-1 replacement filter that includes a True H13 HEPA layer, activated carbon, and a pre-filter. Listings confirm compatibility with the Core 400S-P and Core 400S-rf models."
       },
       {
-        "q": "What is the difference between OEM and third‑party replacement filters for the Blueair 211+?",
-        "a": "OEM filters are labeled 'BLUEAIR Genuine' and are manufactured by Blueair, while third‑party filters are third‑party brands offering similar compatibility, such as a 2‑pack H13 True Filter and Activated Carbon."
+        "q": "Is there a difference between OEM and third-party filters for this model?",
+        "a": "Yes, genuine Levoit filters are available as official replacements, while third-party options offer similar 3-in-1 H13 HEPA filtration. Third-party listings often have higher review counts, but OEM filters are manufactured by Levoit."
       },
       {
-        "q": "What filtration features are available in the Blueair 211+ replacement filters?",
-        "a": "OEM filters are standard everyday filters; third‑party options include a 2‑stage H13 True Filter and Activated Carbon for enhanced filtration."
+        "q": "What filtration features do these replacement filters have?",
+        "a": "The filters are described as 3-in-1 systems containing a True H13 HEPA filter, activated carbon for odor removal, and a pre-filter. This multi-layer design is standard for the Levoit Core 400S series."
       }
     ],
-    "direct_answer_capsule": "Replacement filters for the Blueair 211+ include OEM Genuine filters and third‑party options. The OEM filters are labeled 'BLUEAIR Genuine' and fit both 211+ and 211+ Auto models. A third‑party pack offers a 2‑stage H13 True Filter plus Activated Carbon. Both OEM and value packs are available.",
+    "direct_answer_capsule": "The Levoit 400S P utilizes a 3-in-1 replacement filter assembly featuring a True H13 HEPA layer, activated carbon, and a pre-filter. While specific official part codes are not explicitly listed in the provided data, genuine Levoit filters and third-party replacements are available. Buyers should verify compatibility with the Core 400S-P variant to ensure proper fit and filtration performance for their smart WiFi air purifier.",
     "key_takeaways": [
-      "All listed filters are compatible with Blueair 211+ and 211+ Auto models.",
-      "OEM filters are labeled 'BLUEAIR Genuine'; third‑party filters include a 2‑stage H13 True Filter and Activated Carbon.",
-      "Both single‑pack OEM options and multi‑pack third‑party replacements are available."
+      "Compatible with Levoit Core 400S, Core 400S-P, and Core 400S-rf models.",
+      "Filters feature a 3-in-1 design including True H13 HEPA, activated carbon, and pre-filter layers.",
+      "Options include genuine Levoit single packs and third-party replacements with varying review counts."
     ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
     "products": [
       {
-        "asin": "B08KPJBGHL",
-        "title": "BLUEAIR Blue Pure 211+ Series AllergenBlock Filter, Genuine Replacement for Allergies, Pet Dander, Pollen, Dust - Fits 211+ and 211+ Auto, 3.3\" x 20.8\" x 12.3\"",
+        "asin": "B08SQQK6K7",
+        "title": "Levoit Core 400S-P Air Purifier Replacement Filter,Genuine Air Filter,1Pack",
         "is_oem": true,
         "rating": null,
-        "review_count": 344,
+        "review_count": 53,
         "pros": [
-          "Genuine Blueair filter",
-          "AllergenBlock with dimensions 3.3\" x 20.8\" x 12.3\""
+          "Identified as a Genuine Air Filter by Levoit.",
+          "Specifically titled for the Levoit Core 400S-P model."
         ],
         "cons": [
-          "No HEPA grade specified",
-          "Single pack"
+          "Lower review count (53) compared to third-party alternatives.",
+          "Title does not explicitly detail the 3-in-1 filtration layers."
         ]
       },
       {
-        "asin": "B073SKH39W",
-        "title": "BLUEAIR Genuine 211+ Air Purifier Replacement Filter, Everyday",
-        "is_oem": true,
-        "rating": null,
-        "review_count": 63,
-        "pros": [
-          "OEM Genuine filter",
-          "Everyday use"
-        ],
-        "cons": [
-          "No additional filtration features",
-          "Single pack"
-        ]
-      },
-      {
-        "asin": "B08WWS6XSG",
-        "title": "BLUEAIR Genuine 211+ Auto Air Purifier Replacement Filter, Everyday",
-        "is_oem": true,
-        "rating": null,
-        "review_count": 12,
-        "pros": [
-          "OEM Genuine filter",
-          "Everyday use"
-        ],
-        "cons": [
-          "No additional filtration features",
-          "Single pack"
-        ]
-      },
-      {
-        "asin": "B0F1N171PF",
-        "title": "211+ Replacement Filter Compatible with Blue Pure 211+ and 211+ Auto Air Purifier, 2-Stage Filtration System of H13 True Filter and Activated Carbon Filter, White, 2 Pack",
+        "asin": "B0B5YZ2ZKC",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
         "is_oem": false,
         "rating": null,
-        "review_count": 167,
+        "review_count": 785,
         "pros": [
-          "H13 True Filter and Activated Carbon Filter",
-          "2 Pack"
+          "Highest review count (785) among listed products.",
+          "Clearly labeled for the Levoit Core 400S-P Air Purifier."
         ],
         "cons": [
-          "Not OEM",
-          "No brand name"
+          "Third-party replacement, not manufactured by Levoit.",
+          "Title lacks specific filtration grade details like H13 or carbon composition."
+        ]
+      },
+      {
+        "asin": "B0BFQKQ788",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S and Core400S-P/Core 400S-rf Smart WiFi Air Purifier,3-in-1 True H13 HEPA Activated Carbon Pre-Filter,1Pack,White",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 507,
+        "pros": [
+          "High review count (507) indicating broad user adoption.",
+          "Explicitly lists 3-in-1 True H13 HEPA and Activated Carbon features."
+        ],
+        "cons": [
+          "Third-party replacement, not manufactured by Levoit.",
+          "Title is lengthy and lists multiple model variants (Core 400S, 400S-P, 400S-rf)."
+        ]
+      },
+      {
+        "asin": "B0B3XBZ8ZJ",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 264,
+        "pros": [
+          "Substantial review count (264) suggesting reliability.",
+          "Directly targets the Levoit Core 400S-P model."
+        ],
+        "cons": [
+          "Third-party replacement, not manufactured by Levoit.",
+          "Title does not specify filtration layers or HEPA grade."
         ]
       }
     ]
   },
   {
-    "id": 190,
-    "brand_name": "Blueair",
-    "brand_slug": "blueair",
-    "model_name": "Replacement Particle 500 600 Series",
-    "slug": "blueair-replacement-particle-500-600-series-replacement-filter",
+    "id": 431,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "300 P",
+    "slug": "levoit-300-p-replacement-filter",
     "category": "air_purifier",
-    "official_filter_code": null,
-    "hepa_grade": null,
+    "official_filter_code": "Core 300-RF",
+    "hepa_grade": "H13",
     "filter_shape": null,
     "dimensions": null,
-    "compatibility_warning": "Buyers should verify the exact Blueair Replacement Particle 500/600 Series model sticker or part number before ordering, as listings list multiple variants (501, 503, 505, 510, 550E, 555EB, 601, 603, 605, 650E).",
+    "compatibility_warning": "Verify the exact model sticker or part number on your Levoit 300 P unit before ordering, as listings also reference Core 300, Core 300S and other variants.",
     "faqs": [
       {
-        "q": "Which filter part code fits the Blueair Replacement Particle 500 600 Series?",
-        "a": "No official part code is listed; filters are identified only by the Classic 500/600 Series designation."
+        "q": "What filter part code fits the Levoit Core 300‑P?",
+        "a": "The filter identified in the listings is the Core 300‑RF model."
       },
       {
-        "q": "What is the difference between OEM and third‑party replacement filters?",
-        "a": "OEM filters are Genuine Blueair and carry the brand label, while third‑party replacements are compatible but not branded."
+        "q": "Is there a difference between OEM and third‑party filters?",
+        "a": "OEM filters are labeled as genuine Levoit products, while third‑party filters are unbranded but list compatibility with multiple Core models."
       },
       {
-        "q": "What are the filtration features and maintenance recommendations?",
-        "a": "All listed filters are HEPA replacements; they should be replaced every 6–12 months for optimal performance."
+        "q": "What filtration grade and features do these filters provide?",
+        "a": "The listed filters include an H13 True HEPA rating and an activated carbon layer for high‑efficiency particle and odor removal."
       }
     ],
-    "direct_answer_capsule": "Replacement particle filters for Blueair Classic 500/600 Series are available in OEM Genuine and third‑party multi‑pack options. Titles list only the Classic 500/600 Series designation; no specific part code or HEPA grade is provided. Both OEM and value packs fit the same models for air",
+    "direct_answer_capsule": "Replacement filters for the Levoit Core 300‑P air purifier use the Core 300‑RF model, featuring an H13 True HEPA rating. Both OEM genuine filters and third‑party multi‑pack options are sold, offering compatible filtration while varying in branding and packaging. Customers should verify the part number before purchase.",
     "key_takeaways": [
-      "Compatible with Blueair Classic 500/600 Series models 501, 503, 505, 510, 550E, 555EB, 601, 603, 605, 650E",
-      "All filters are HEPA replacements; OEM filters are Genuine Blueair, third‑party are compatible but unbranded",
-      "OEM Genuine filters are sold as 3‑packs, while third‑party options come in 3‑pack or 6‑pack bundles"
+      "Compatible with Levoit Core 300‑P using the Core 300‑RF filter code",
+      "Filters listed include H13 True HEPA and activated carbon layers",
+      "Both OEM single units and third‑party 2‑pack value sets are available"
     ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
     "products": [
       {
-        "asin": "B00007E7IK",
-        "title": "BLUEAIR Genuine Classic 500/600 Series Air Purifier Particle Filter 3-Pack",
+        "asin": "B07RSZSYNC",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
         "is_oem": true,
+        "rating": null,
+        "review_count": 265,
+        "pros": [
+          "Genuine Levoit filter ensures exact compatibility",
+          "Specifically labeled for Core 300‑P"
+        ],
+        "cons": [
+          "Single filter per package",
+          "No multi‑pack indicated"
+        ]
+      },
+      {
+        "asin": "B08Q3VZX9X",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 265,
+        "pros": [
+          "Genuine Levoit filter ensures exact compatibility",
+          "Specifically labeled for Core 300‑P"
+        ],
+        "cons": [
+          "Single filter per package",
+          "No multi‑pack indicated"
+        ]
+      },
+      {
+        "asin": "B09RJ2L994",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300 Core 300-P Core 300S Core 300S-P Air Purifier for Home Bedroom Large Room, 3-in-1 High Efficiency and Activated Carbon Filter, Core 300-RF, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 43,
+        "pros": [
+          "Covers multiple Core models (300, 300‑P, 300S, 300S‑P)",
+          "Offered as a 2‑pack value set"
+        ],
+        "cons": [
+          "Not branded as Levoit (potential compatibility risk)",
+          "May lack official certification"
+        ]
+      },
+      {
+        "asin": "B0BV6VY9LW",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300,Core 300S,Core P350,Core300-P, Core 300 Replacement Filter,3-in-1 H13 True HEPA & Activated Carbon Filter, Core 300-RF,2 Pack",
+        "is_oem": false,
         "rating": null,
         "review_count": 13,
         "pros": [
-          "OEM Genuine Blueair filter",
-          "3‑pack offering multiple filters"
+          "Fits Core 300, Core 300S, Core P350, Core300‑P variants",
+          "Includes H13 True HEPA and activated carbon in a 2‑pack"
         ],
         "cons": [
-          "No explicit HEPA grade",
-          "No official filter code listed"
-        ]
-      },
-      {
-        "asin": "B0BRXZ2MD4",
-        "title": "3-Pack Classic 500/600 Series HEPA Filter Replacement Compatible with Blueair Classic 500/600 Series Air Cleaner Purifiers 501 503 505 510 550E 555EB 601 603 605 650E Particle Filter",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 136,
-        "pros": [
-          "3‑pack"
-        ],
-        "cons": [
-          "No official Blueair brand label",
-          "No explicit HEPA grade"
-        ]
-      },
-      {
-        "asin": "B0CCR9FZJ7",
-        "title": "6-Pack Classic 500/600 Series HEPA Filter Replacement Compatible with Blueair Classic 500/600 Series Air Cleaner Purifiers 501 503 505 510 550E 555EB 601 603 605 650E Particle Filter",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 79,
-        "pros": [
-          "6‑pack"
-        ],
-        "cons": [
-          "No official Blueair brand label",
-          "No explicit HEPA grade"
-        ]
-      },
-      {
-        "asin": "B0C1NJ8L4J",
-        "title": "6-Pack 500/600 Series HEPA Filter Replacement Compatible with Blueair 500/600 Series Air Cleaner Purifiers 501 503 505 510 550E 555EB 601 603 605 650E Particle Filter",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 77,
-        "pros": [
-          "6‑pack"
-        ],
-        "cons": [
-          "No official Blueair brand label",
-          "No explicit HEPA grade"
+          "Third‑party brand, not OEM",
+          "Packaging lists multiple models which could cause confusion"
         ]
       }
     ]
   },
   {
-    "id": 215,
-    "brand_name": "Medify",
-    "brand_slug": "medify",
-    "model_name": "Ma 40",
-    "slug": "medify-ma-40-replacement-filter",
+    "id": 433,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "100S P",
+    "slug": "levoit-100s-p-replacement-filter",
     "category": "air_purifier",
     "official_filter_code": null,
-    "hepa_grade": "H-13",
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Buyers should confirm the exact model number and part code on their Medify MA‑40 unit before purchasing, as listings include both single‑pack OEM filters and multi‑pack third‑party replacements that may reference different series or pack sizes.",
-    "faqs": [
-      {
-        "q": "What filter part code is required for a Medify MA‑40?",
-        "a": "The titles do not provide a specific part number; customers should check the sticker on their unit for the exact code."
-      },
-      {
-        "q": "Are OEM filters different from third‑party replacements for the MA‑40?",
-        "a": "OEM filters are labeled “Genuine Medify” and sold as single packs, while third‑party options are compatible replacements sold in multi‑packs and may not carry the Medify brand."
-      },
-      {
-        "q": "What filtration performance do the MA‑40 replacement filters offer?",
-        "a": "The listings describe a 3‑in‑1 filter with a pre‑filter, HEPA media (H‑13 grade in one listing) and activated carbon, capable of removing particles as small as 0.3 µm."
-      }
-    ],
-    "direct_answer_capsule": "Replacement filters that fit the Medify MA‑40 air purifier are standard 3‑in‑1 units combining a pre‑filter, HEPA media and activated carbon. No specific part code is listed in the titles, but an H‑13 HEPA grade is referenced. Both genuine Medify OEM filters and multi‑pack third‑party options are sold.",
-    "key_takeaways": [
-      "Filters are listed as compatible with Medify MA‑40 air purifiers.",
-      "The 3‑in‑1 design includes a pre‑filter, HEPA (H‑13 grade mentioned) and activated carbon, capturing particles down to 0.3 µm.",
-      "Both OEM single‑pack and third‑party multi‑pack (2‑pack, 4‑pack) replacement options are available."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B07MTQFFNT",
-        "title": "Medify MA-40 Genuine Replacement Filter for Allergens, Smoke, Wildfires, Dust, Odors, Pollen, Pet Dander | 3 in 1 with Pre-filter, HEPA and Activated Carbon for Removal to 0.3 Microns | 1-Pack",
-        "is_oem": true,
-        "rating": null,
-        "review_count": 41,
-        "pros": [
-          "Genuine Medify brand ensures OEM compatibility",
-          "Includes pre‑filter, HEPA and activated carbon in a 3‑in‑1 design"
-        ],
-        "cons": [
-          "Only a single filter per pack, may be higher cost per unit",
-          "HEPA grade not specified in title"
-        ]
-      },
-      {
-        "asin": "B0819583PQ",
-        "title": "Medify MA-40 Genuine Replacement Filter for Allergens, Smoke, Wildfires, Dust, Odors, Pollen, Pet Dander | 3 in 1 with Pre-filter, HEPA and Activated Carbon for Removal to 0.3 Microns | 2-Pack",
-        "is_oem": true,
-        "rating": null,
-        "review_count": 41,
-        "pros": [
-          "Genuine Medify OEM filter",
-          "Value multi‑pack (2) while retaining 3‑in‑1 filtration"
-        ],
-        "cons": [
-          "Higher upfront quantity may be unnecessary for some users",
-          "HEPA grade not detailed in title"
-        ]
-      },
-      {
-        "asin": "B0D3GFN62T",
-        "title": "MA-40 Replacement Filter Compatible with MA-40 Air Purifiers",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 521,
-        "pros": [
-          "Compatible with MA‑40 air purifiers",
-          "Simple description suggests basic 3‑in‑1 filter"
-        ],
-        "cons": [
-          "No details on HEPA grade or pack size",
-          "Unclear if OEM or third‑party"
-        ]
-      },
-      {
-        "asin": "B0DNSV9TTZ",
-        "title": "40 Replacement Filter Compatible with MA Air Purifier 40 Series, 3-in-1 High-Efficiency H-13 Grade, Pre-Filter and Activated Carbon, 4 Pack",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 103,
-        "pros": [
-          "Compatible with MA‑40 series",
-          "Specifies H‑13 HEPA grade and 4‑pack value"
-        ],
-        "cons": [
-          "Not labeled as genuine Medify OEM",
-          "May lack official branding verification"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 222,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "V8",
-    "slug": "dyson-v8-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": null,
     "hepa_grade": null,
     "filter_shape": null,
     "dimensions": null,
-    "compatibility_warning": "Verify the exact model sticker or part number on your Dyson V8 before ordering, as listings also reference V7 and SV10 variants that may require different filters.",
+    "compatibility_warning": "Buyers should confirm the exact model number on their unit’s sticker (e.g., Vital 100S‑P) before purchasing, as listings include both standard 100S and 100S‑P variants and third‑party brands.",
     "faqs": [
       {
-        "q": "What part code is required for a Dyson V8 replacement filter?",
-        "a": "The scraped listings do not provide a specific Dyson part number; the filter is described generically as a replacement for V8 Animal and Absolute models."
+        "q": "What filter part code fits the Levoit 100S P?",
+        "a": "No official part code is listed; the compatible filter is identified as the Vital 100S model."
       },
       {
-        "q": "Are OEM filters different from the third‑party packs shown?",
-        "a": "OEM filters are made by Dyson, while the listed products are third‑party replacements; both claim compatibility but OEM guarantees brand‑exact specifications."
-      },
-      {
-        "q": "Do the listed filters indicate any HEPA rating or special filtration?",
-        "a": "No HEPA grade or filtration details appear in the titles; the listings only state general replacement suitability for V8 models."
-      }
-    ],
-    "direct_answer_capsule": "The Dyson V8 cordless vacuum accepts a standard replacement filter that fits both the Animal and Absolute models; the exact Dyson part number is not listed in the scraped titles. Both OEM filters and third‑party multi‑pack replacements are sold, offering comparable fit for the V8 series.",
-    "key_takeaways": [
-      "Filters listed are compatible with Dyson V8 Animal and Absolute variants.",
-      "No official part code or HEPA grade is disclosed; shape is unspecified.",
-      "Buyers can choose OEM filters or lower‑cost multi‑pack third‑party replacements."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B0FRLVRPJJ",
-        "title": "4 Pack Vacuum Filter Replacement for Dyson V7, V8 Animal, V8 Absolute, SV10",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 247,
-        "pros": [
-          "4‑pack value offering multiple filters",
-          "Compatible with V8 Animal and Absolute variants"
-        ],
-        "cons": [
-          "Not identified as an OEM Dyson product",
-          "No filter part code provided"
-        ]
-      },
-      {
-        "asin": "B07VVNQ4KB",
-        "title": "Filter for Dyson V8 Filter Replacement, Animal, Absolute Cordless Vacuum V7",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 81,
-        "pros": [
-          "Fits Dyson V8, V7 Animal and Absolute models",
-          "Designed as a replacement filter"
-        ],
-        "cons": [
-          "Not identified as an OEM Dyson product",
-          "Pack quantity not specified"
-        ]
-      },
-      {
-        "asin": "B07TYK7WR1",
-        "title": "V8 Filter Replacement for Dyson V7 V8 Animal Absolute, SV10 Cordless Vacuum",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 72,
-        "pros": [
-          "Compatible with V8 Animal and Absolute models",
-          "Replacement filter for V8 cordless vacuum"
-        ],
-        "cons": [
-          "Not identified as an OEM Dyson product",
-          "Pack quantity not indicated"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 223,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "V10",
-    "slug": "dyson-v10-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "969082-01",
-    "hepa_grade": null,
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Before purchasing, confirm your Dyson V10’s exact model sticker or part number, as the listings cover multiple variants (Cyclone Series, Absolute, Animal, Total Clean, and SV12).",
-    "faqs": [
-      {
-        "q": "What part number should I look for to ensure compatibility with my Dyson V10?",
-        "a": "The official Dyson filter part number is 969082‑01, which is listed in the fourth product title."
-      },
-      {
-        "q": "Are the listed filters OEM or third‑party?",
-        "a": "All titles indicate replacement filters but do not specify OEM status; they are likely third‑party replacements."
-      },
-      {
-        "q": "Do these filters provide HEPA filtration?",
-        "a": "The titles do not mention a HEPA grade, so the filtration level is unspecified."
-      }
-    ],
-    "direct_answer_capsule": "Dyson V10 vacuum users can replace the original filter with the official part 969082‑01 or opt for third‑party multi‑pack replacements. Both options are compatible with the V10 Cyclone Series, V10 Absolute, V10 Animal, and V10 Total Clean models, offering similar filtration performance and efficient cleaning and air quality.",
-    "key_takeaways": [
-      "Compatible with Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, and V10 Total Clean models.",
-      "Official part number 969082‑01 is available, and third‑party multi‑pack options exist.",
-      "All listed replacements are non‑OEM and lack explicit HEPA grading or dimensions."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B07TWKCM5P",
-        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 85,
-        "pros": [
-          "Designed for Dyson V10 Cyclone Animal",
-          "Replacement filter"
-        ],
-        "cons": [
-          "No part number listed",
-          "Not indicated as OEM"
-        ]
-      },
-      {
-        "asin": "B0GYCKMBDS",
-        "title": "2 Pack V10 Filter Replacement for Dyson V10 Cyclone Series",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 57,
-        "pros": [
-          "Includes two filters",
-          "Compatible with Dyson V10 Cyclone Series"
-        ],
-        "cons": [
-          "No official part number provided",
-          "Not specified as OEM"
-        ]
-      },
-      {
-        "asin": "B07PZT4Y68",
-        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 55,
-        "pros": [
-          "Two filters included",
-          "Compatible with Dyson Cyclone Series"
-        ],
-        "cons": [
-          "Part number not specified",
-          "OEM status unclear"
-        ]
-      },
-      {
-        "asin": "B085G3CDS2",
-        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 48,
-        "pros": [
-          "Includes 3 filters and a clean brush",
-          "Specifies official part number 969082-01"
-        ],
-        "cons": [
-          "No HEPA grade mentioned",
-          "OEM status not explicitly stated"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 224,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "Animal 2",
-    "slug": "dyson-animal-2-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": null,
-    "hepa_grade": null,
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Buyers should verify the exact Dyson Animal 2 model number or part sticker before ordering, as listings also reference other Dyson models such as DC41, DC65, and UP20.",
-    "faqs": [
-      {
-        "q": "What filter part code fits the Dyson Animal 2?",
-        "a": "The product titles do not specify an official filter part code for the Dyson Animal 2."
-      },
-      {
-        "q": "Are OEM filters available or only third‑party replacements?",
-        "a": "Both OEM‑style (genuine Dyson) and third‑party multi‑pack replacements are listed, though the titles do not explicitly label any as OEM."
+        "q": "Is there a difference between OEM and third‑party filters?",
+        "a": "OEM filters are genuine Levoit products, while third‑party replacements (e.g., Cabiclean, Pet Care) are compatible but not manufactured by Levoit."
       },
       {
         "q": "What filtration features or maintenance details are provided?",
-        "a": "The listings do not mention HEPA grades or specific filtration features; they simply state they are replacement filters for the Animal 2 and related models."
+        "a": "Listings only mention “Vital 100S” and “Pet Care” without specifying HEPA grade or dimensions; follow the purifier’s manual for replacement intervals."
       }
     ],
-    "direct_answer_capsule": "Replacement filters that fit the Dyson Animal 2 are available as both genuine OEM parts and third‑party multi‑pack options. No specific official filter code or HEPA grade is listed in the product titles, but compatible filters are marketed for the Animal 2 model and related Dyson ball vacuums.",
+    "direct_answer_capsule": "The replacement filter compatible with the Levoit Vital 100S‑P air purifier is a standard Vital 100S model filter; no official part code or HEPA grade is specified in the listings. Both OEM genuine Levoit filters and third‑party multi‑pack replacements are currently offered for this unit.",
     "key_takeaways": [
-      "All listed products mention compatibility with Dyson Ball Animal 2 (or related models).",
-      "No official filter codes, HEPA grades, or dimensions are provided in the titles.",
-      "Both OEM‑style and value‑pack third‑party replacements are offered across the listings."
+      "Fits Levoit Vital 100S‑P (and standard 100S) air purifier models.",
+      "Listings provide no explicit HEPA grade or dimensions; filter shape is unknown.",
+      "Both OEM genuine Levoit filters and third‑party multi‑pack replacements are available."
     ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
     "products": [
       {
-        "asin": "B0FM44D3MJ",
-        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
-        "is_oem": false,
+        "asin": "B0BNTKJV78",
+        "title": "Levoit Vital 100S-P Air Purifier Replacement Filter, Genuine Air Filter",
+        "is_oem": true,
         "rating": null,
-        "review_count": 377,
+        "review_count": 11,
         "pros": [
-          "Covers multiple Dyson models including Ball Animal 2",
-          "Includes both post and pre‑filter packs"
+          "Official Levoit genuine filter",
+          "Specifically for Vital 100S‑P model"
         ],
         "cons": [
-          "No OEM indication",
-          "Long title may cause confusion about exact filter type"
+          "No filter code or HEPA grade in title",
+          "Dimensions not specified"
         ]
       },
       {
-        "asin": "B07G7611T9",
-        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
+        "asin": "B0CWQMBQN3",
+        "title": "Vital 100S Pet Care Replacement Filter for LEVOIT Vital 100S-P Air Purifier",
         "is_oem": false,
         "rating": null,
-        "review_count": 58,
+        "review_count": 653,
         "pros": [
-          "Specifies compatibility with Ball Animal 2 and 3",
-          "Simple filter replacement offering"
+          "Pet Care variant for Vital 100S‑P",
+          "Replacement filter"
         ],
         "cons": [
-          "No OEM designation",
-          "No detail on filter count or type"
+          "Not OEM",
+          "No specifications provided"
         ]
       },
       {
-        "asin": "B0FGDDM8VG",
-        "title": "2 Pack Vacuum Ball Animal 2 Filter Replacement for D-yson DC41",
+        "asin": "B0DK56GDGL",
+        "title": "Vital 100S Pet Care Replacement Filter for LEVOIT Vital 100S-P Air Purifier",
         "is_oem": false,
         "rating": null,
-        "review_count": 55,
+        "review_count": 256,
         "pros": [
-          "Provides a 2‑pack of filters",
-          "Specifies Ball Animal 2 compatibility"
+          "Pet Care variant for Vital 100S‑P",
+          "Replacement filter"
         ],
         "cons": [
-          "Brand name typo suggests third‑party product",
-          "No OEM designation"
+          "Not OEM",
+          "No specifications provided"
         ]
       },
       {
-        "asin": "B07QKXKMPR",
-        "title": "Ball Animal Filter Replacements for Dyson Ball Vacuum DC41 DC65 DC66",
+        "asin": "B0C24796D2",
+        "title": "Vital 100S Replacement Filter for LEVOIT Vital 100S Air Purifier, Cabiclean",
         "is_oem": false,
         "rating": null,
-        "review_count": 9,
+        "review_count": 26,
         "pros": [
-          "Specifies compatibility with Dyson Ball models DC41, DC65, DC66",
-          "Provides replacement filters for ball vacuums"
+          "Designed for LEVOIT Vital 100S Air Purifier",
+          "Cabiclean brand replacement"
         ],
         "cons": [
-          "Does not explicitly mention Dyson Animal 2",
-          "No OEM designation indicated"
+          "Not indicated as OEM",
+          "No HEPA grade or dimensions listed"
         ]
       }
     ]
   },
   {
-    "id": 225,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "AM11",
-    "slug": "dyson-am11-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "TP02",
-    "hepa_grade": "True HEPA",
+    "id": 434,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "200S P Nearby",
+    "slug": "levoit-200s-p-nearby-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Core 200S-RF",
+    "hepa_grade": "H13",
     "filter_shape": null,
     "dimensions": null,
-    "compatibility_warning": "Ensure the filter matches the exact Dyson AM11 model number shown on your unit, as some listings also list TP01 or other variants that are not suitable for the AM11 HEPA stage.",
+    "compatibility_warning": "Verify your specific unit is the Levoit Core 200S or Core 200S-P Smart WiFi model, as listings distinguish these variants. Ensure the filter part number matches the Core 200S-RF specification to guarantee proper fit.",
     "faqs": [
       {
-        "q": "What filter code fits the Dyson AM11?",
-        "a": "The AM11 uses the TP02 filter, often referenced with part number 968126‑03 and classified as a True HEPA filter."
+        "q": "What is the official filter part number for the Levoit 200S P Nearby?",
+        "a": "The listings identify the filter as Core 200S-RF, which is compatible with the Levoit Core 200S and Core 200S-P models."
       },
       {
-        "q": "Are OEM filters different from third‑party replacements?",
-        "a": "OEM filters are made by Dyson and carry the Dyson brand, while third‑party filters use the same TP02 code but are produced by other manufacturers and may be sold in multi‑pack value sets."
+        "q": "Is there a difference between OEM and third-party filters for this model?",
+        "a": "OEM filters are sold as genuine single-packs by Levoit, while third-party options often offer 2-pack bundles with the same H13 HEPA specifications."
       },
       {
-        "q": "What filtration performance and maintenance does the TP02 provide?",
-        "a": "TP02 is a True HEPA filter that captures fine particles; it is typically replaced every 6‑12 months depending on usage, and both OEM and third‑party versions require the same replacement interval."
+        "q": "What filtration grade does the Levoit 200S P Nearby filter use?",
+        "a": "The replacement filters are specified as 3-Stage H13 Grade True HEPA filters in the product listings."
       }
     ],
-    "direct_answer_capsule": "Replacement filters for the Dyson AM11 are identified by the TP02 code and are rated as True HEPA. Both genuine Dyson OEM filters and third‑party multi‑pack options are sold, offering the same part number compatibility while differing in branding and packaging, and typically come in convenient two‑filter packs for extended service intervals.",
+    "direct_answer_capsule": "The Levoit Core 200S P Nearby utilizes the Core 200S-RF replacement filter. Listings confirm compatibility with 3-Stage H13 Grade True HEPA filtration systems. Both genuine OEM single-packs and third-party multi-pack replacements are available for this smart WiFi air purifier model, ensuring consistent air quality maintenance for users.",
     "key_takeaways": [
-      "TP02 (True HEPA) is the compatible filter for Dyson AM11.",
-      "Listings show both OEM and third‑party multi‑pack options, with TP02 code and part # 968126‑03 referenced.",
-      "Buyers can choose single or 2‑pack sizes, but must verify model number."
+      "Compatible with Levoit Core 200S and Core 200S-P Smart WiFi Air Purifiers.",
+      "Features 3-Stage H13 Grade True HEPA filtration as specified in product titles.",
+      "Available as genuine OEM single-packs or third-party 2-pack value replacements."
     ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
     "products": [
       {
-        "asin": "B0BN5R9D3W",
-        "title": "2 Pack Dyson TP02 Air Purifier True HEPA Filters Replacement for Dyson Pure Cool Link TP01, TP02, TP03, AM11, BP01 Tower Air Purifier, Compare to Part # 968126-03 2 Pack TP02 Air Purifier True Filters",
-        "is_oem": false,
+        "asin": "B08L971Z4L",
+        "title": "Levoit Core 200S-P Air Purifier Replacement Filter,Genuine Air Filter,1Pack",
+        "is_oem": true,
         "rating": null,
-        "review_count": 394,
+        "review_count": 76,
         "pros": [
-          "Explicitly lists AM11 compatibility",
-          "Includes two True HEPA TP02 filters"
+          "Genuine Levoit manufactured filter.",
+          "Specifically listed for Core 200S-P model."
         ],
         "cons": [
-          "Third‑party manufacturer",
-          "May differ in branding from Dyson OEM"
+          "Sold as a single pack only.",
+          "Does not explicitly state HEPA grade in title."
+        ]
+      },
+      {
+        "asin": "B0BX6K63TS",
+        "title": "Core 200S Replacement Filter for LEVOIT Core 200S-P Air Purifier Smart WiFi",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 447,
+        "pros": [
+          "High review count (447) indicates popularity.",
+          "Compatible with Smart WiFi Core 200S-P."
+        ],
+        "cons": [
+          "Third-party replacement.",
+          "Does not specify pack quantity or HEPA grade in title."
+        ]
+      },
+      {
+        "asin": "B0924FD74V",
+        "title": "Core 200S Replacement Filter for LEVOIT Core 200S-P Smart WiFi Air PuriFier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 24,
+        "pros": [
+          "Compatible with Smart WiFi Core 200S-P.",
+          "Third-party option potentially offering value."
+        ],
+        "cons": [
+          "Title contains a typo ('PuriFier').",
+          "Does not specify pack quantity or HEPA grade in title."
+        ]
+      },
+      {
+        "asin": "B0B6ZVJBQY",
+        "title": "Core 200S Replacement Filter Compatible with LEVOIT Core 200S Core 200S-P Smart WiFi Air Purifier, Fit for Levoit Core 200s Replacement Filter, 2Pack 3-Stage H13 Grade True HEPA Filter, Core 200S-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 21,
+        "pros": [
+          "Includes a 2-pack of filters for extended usage.",
+          "Explicitly lists H13 Grade True HEPA filtration."
+        ],
+        "cons": [
+          "Third-party replacement rather than genuine OEM.",
+          "Title contains redundant model name repetitions."
         ]
       }
     ]
   },
   {
-    "id": 227,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "Animal 3",
-    "slug": "dyson-animal-3-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "920769-01 & 920640-01",
-    "hepa_grade": "HEPA",
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Verify your specific Dyson Animal 3 model sticker or part number before ordering, as listings indicate compatibility across multiple variants including DC41, DC65, DC66, UP13, UP20, and UP30.",
-    "faqs": [
-      {
-        "q": "What are the specific part numbers for Dyson Animal 3 replacement filters?",
-        "a": "Listings identify part numbers 920769-01 and 920640-01 for the HEPA post and pre filters compatible with the Dyson Animal 3."
-      },
-      {
-        "q": "Are the available filters OEM or third-party replacements?",
-        "a": "The scraped listings feature third-party replacement filters, including multi-packs, rather than official Dyson-branded OEM units."
-      },
-      {
-        "q": "What filtration features do these replacement filters offer?",
-        "a": "The filters are described as HEPA post filters and pre filters, designed to replace the original filtration components in the Dyson Animal 3."
-      }
-    ],
-    "direct_answer_capsule": "Replacement filters for the Dyson Animal 3 include pre and post filters, with specific part numbers 920769-01 and 920640-01 identified in listings. These components are described as HEPA post filters and pre filters. Both OEM and third-party multi-pack replacements are available, ensuring compatibility with the Dyson Ball Animal 3 and related DC series models.",
-    "key_takeaways": [
-      "Compatible with Dyson Ball Animal 3, DC41, DC65, DC66, UP13, UP20, and UP30 models.",
-      "Listings specify HEPA post filters and pre filters, with part numbers 920769-01 and 920640-01.",
-      "Available as third-party replacement packs, including 2-pack sets of pre and post filters."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B074Z66TCB",
-        "title": "Filter Replacements for dy.son Ball Animal 2, DC65 DC41 UP13, Ball Vacuums Ball Animal 3, DC66 UP20 UP30 Multi Floor for dy.son, 2 HEPA Post Filters & 2 Pre Filters, Replace Part#920769-01 & 920640-01",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 693,
-        "pros": [
-          "Explicitly lists compatibility with Ball Animal 3.",
-          "Specifies Replace Part#920769-01 & 920640-01 and HEPA Post Filters."
-        ],
-        "cons": [
-          "Third-party replacement, not OEM.",
-          "Title contains typos (dy.son) which may affect search visibility."
-        ]
-      },
-      {
-        "asin": "B0FM44D3MJ",
-        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 377,
-        "pros": [
-          "Explicitly lists compatibility with Ball Animal 3.",
-          "Includes 2 Pack Post Filters & 2 Pack Pre Filter."
-        ],
-        "cons": [
-          "Third-party replacement, not OEM.",
-          "No specific part numbers mentioned in title."
-        ]
-      },
-      {
-        "asin": "B07G7611T9",
-        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 58,
-        "pros": [
-          "Explicitly lists compatibility with Ball Animal 2/3.",
-          "Compatible with DC41 DC65 UP20 UP30."
-        ],
-        "cons": [
-          "Third-party replacement, not OEM.",
-          "No specific part numbers or HEPA grade mentioned in title."
-        ]
-      }
-    ]
-  },
-  {
-    "id": 228,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "Ball Animal 2",
-    "slug": "dyson-ball-animal-2-replacement-filter",
-    "category": "vacuum",
+    "id": 442,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Does 200S P Have",
+    "slug": "levoit-does-200s-p-have-replacement-filter",
+    "category": "air_purifier",
     "official_filter_code": null,
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model number and part code on your Levoit Does 200S‑P unit before ordering, as listings vary between Core 200S‑P and Vital 200S‑P variants.",
+    "faqs": [
+      {
+        "q": "What filter part code fits the Levoit Does 200S‑P?",
+        "a": "No explicit official filter code appears in the product titles; filters are identified by the model name Core 200S‑P."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party replacement filters?",
+        "a": "OEM listings label the filter as genuine Levoit and usually come in single packs, while third‑party listings are compatible, often sold in multi‑packs and may lack brand labeling."
+      },
+      {
+        "q": "What filtration grade do these replacement filters provide?",
+        "a": "Only one product mentions an H13 True HEPA grade; other listings do not specify a HEPA grade."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Levoit Does 200S‑P model are available as both OEM genuine parts and third‑party multi‑pack options. No specific official filter code is listed, but the filters are identified as H13‑grade True HEPA. Choose OEM for brand assurance or value packs for savings.",
+    "key_takeaways": [
+      "All listed filters are compatible with the Levoit Does 200S‑P (Core 200S‑P) air purifier.",
+      "Only one listing specifies an H13 True HEPA grade; others omit filtration details.",
+      "Buyers can select OEM genuine filters or lower‑cost multi‑pack third‑party replacements."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B08L971Z4L",
+        "title": "Levoit Core 200S-P Air Purifier Replacement Filter,Genuine Air Filter,1Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 76,
+        "pros": [
+          "Genuine Levoit filter",
+          "Single pack"
+        ],
+        "cons": [
+          "No HEPA grade mentioned",
+          "No size specifications"
+        ]
+      },
+      {
+        "asin": "B0BJPJ94MM",
+        "title": "Levoit Vital 200S-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 15,
+        "pros": [
+          "Genuine Levoit Vital filter",
+          "Replacement filter"
+        ],
+        "cons": [
+          "No HEPA grade stated",
+          "No pack quantity indicated"
+        ]
+      },
+      {
+        "asin": "B0924FD74V",
+        "title": "Core 200S Replacement Filter for LEVOIT Core 200S-P Smart WiFi Air PuriFier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 24,
+        "pros": [
+          "Designed for Core 200S‑P Smart WiFi model",
+          "Replacement filter"
+        ],
+        "cons": [
+          "No OEM claim",
+          "No grade or pack quantity indicated"
+        ]
+      },
+      {
+        "asin": "B0B6ZVJBQY",
+        "title": "Core 200S Replacement Filter Compatible with LEVOIT Core 200S Core 200S-P Smart WiFi Air Purifier, Fit for Levoit Core 200s Replacement Filter, 2Pack 3-Stage H13 Grade True HEPA Filter, Core 200S-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 21,
+        "pros": [
+          "Includes 2‑pack replacement filters",
+          "H13 grade True HEPA filtration (3‑stage)"
+        ],
+        "cons": [
+          "Not explicitly OEM (compatible only)",
+          "No dimensions or shape details in title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Does 300 P Have",
+    "slug": "levoit-does-300-p-have-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Core 300-RF",
     "hepa_grade": null,
     "filter_shape": null,
     "dimensions": null,
-    "compatibility_warning": "Verify the exact Dyson Ball Animal 2 model sticker or part number before ordering, as some listings also reference DC41, DC65, and DC66 variants which may use different filter codes.",
+    "compatibility_warning": "Verify the exact model sticker or part number on your Levoit Does 300 P Have unit before ordering, as listings reference both Core 300‑P and Core 300S‑P variants.",
     "faqs": [
       {
-        "q": "What filter part code fits the Dyson Ball Animal 2?",
-        "a": "The product titles do not disclose a specific official filter code for the Ball Animal 2, so buyers should check their vacuum's label or Dyson documentation for the exact part number."
+        "q": "What part code fits the Levoit Does 300 P Have air purifier?",
+        "a": "The listings identify the Core 300‑RF filter as the compatible part for the Core 300‑P (Does 300 P) model."
       },
       {
-        "q": "Are OEM filters better than third‑party replacements?",
-        "a": "OEM filters are made by Dyson and guarantee exact fit, while third‑party packs offer lower cost and include pre‑ and post‑filters but may lack official certification."
+        "q": "Is there a difference between OEM and third‑party replacement filters?",
+        "a": "OEM filters are labeled as genuine Levoit products, while third‑party filters are generic replacements without an official OEM designation."
       },
       {
-        "q": "Do the listed filters provide HEPA‑level filtration?",
-        "a": "None of the titles mention a HEPA grade, so filtration performance beyond standard Dyson specifications cannot be confirmed from the listings."
+        "q": "What filtration features do the replacement filters provide?",
+        "a": "One listing describes a 3‑in‑1 high‑efficiency and activated carbon filter; other titles only specify a standard replacement filter without detailed grade information."
       }
     ],
-    "direct_answer_capsule": "Replacement filters compatible with the Dyson Ball Animal 2 are available as both genuine Dyson OEM parts and third‑party multi‑pack options. No specific official filter code or HEPA rating is listed in the titles, but the listings include pre‑ and post‑filter sets suitable for the Ball Animal series.",
+    "direct_answer_capsule": "Replacement filters for the Levoit Core 300‑P (also listed as Does 300 P) use the Core 300‑RF part code; the exact HEPA grade is not specified in the titles. Both OEM genuine filters and multi‑pack third‑party replacements are sold, offering options for original or value‑pack purchases today.",
     "key_takeaways": [
-      "All listed filters are marketed for Dyson Ball Animal series, including the Ball Animal 2 model.",
-      "Listings provide multi‑pack options with pre‑ and post‑filters but do not specify HEPA grades or official part numbers.",
-      "Both OEM (Dyson) and third‑party replacements are offered, giving buyers price‑performance choices."
+      "Compatible with Levoit Core 300‑P (Does 300 P) models as indicated by the titles.",
+      "Listings mention a 3‑in‑1 high‑efficiency and activated carbon design for some packs.",
+      "Both genuine OEM filters and multi‑pack third‑party options are available."
     ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
     "products": [
       {
-        "asin": "B0FM44D3MJ",
-        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 377,
-        "pros": [
-          "Specifies Ball Animal 2 and 3 compatibility",
-          "Includes 2 post‑filters and 2 pre‑filters in a multi‑pack"
-        ],
-        "cons": [
-          "Third‑party brand, not Dyson OEM",
-          "No official filter code or HEPA rating listed"
-        ]
-      },
-      {
-        "asin": "B07G7611T9",
-        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 58,
-        "pros": [
-          "Mentions Ball Animal 2/3 compatibility",
-          "Single filter replacement for quick swap"
-        ],
-        "cons": [
-          "Not identified as OEM",
-          "Lacks detail on filter shape or performance grade"
-        ]
-      },
-      {
-        "asin": "B0FGDDM8VG",
-        "title": "2 Pack Vacuum Ball Animal 2 Filter Replacement for D-yson DC41",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 55,
-        "pros": [
-          "Explicitly for Ball Animal 2",
-          "Pack of 2 filters offers value"
-        ],
-        "cons": [
-          "Third‑party product, no Dyson branding",
-          "No official part number or HEPA specification provided"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 229,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "Ball Animal 3",
-    "slug": "dyson-ball-animal-3-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "920769-01, 920640-01",
-    "hepa_grade": "HEPA",
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Before purchasing, confirm the exact Dyson Ball Animal 3 model and part number on your vacuum’s sticker, as listings also include filters for Ball Animal 2 and other DC series variants.",
-    "faqs": [
-      {
-        "q": "What filter part codes are compatible with the Dyson Ball Animal 3?",
-        "a": "The OEM HEPA filters listed use part numbers 920769-01 (post-filter) and 920640-01 (pre-filter); third-party packs do not specify part codes."
-      },
-      {
-        "q": "Is there a difference between OEM and third-party replacement filters for the Ball Animal 3?",
-        "a": "OEM filters carry Dyson’s official part numbers and HEPA rating, while third-party packs offer compatible filters without guaranteed OEM specifications."
-      },
-      {
-        "q": "What filtration performance and maintenance should I expect from these replacements?",
-        "a": "HEPA-rated OEM filters capture fine particles, and both OEM and third-party filters are sold as sets of pre- and post-filters that should be replaced according to Dyson’s recommended schedule."
-      }
-    ],
-    "direct_answer_capsule": "Replacement filters for the Dyson Ball Animal 3 are available as OEM HEPA units (part numbers 920769-01 and 920640-01) and as third-party multi-pack sets. Both post-filters and pre-filters are offered, providing compatible filtration for the vacuum’s multi-floor performance, ensuring consistent dust capture and maintaining suction efficiency across carpet and hard-floor surfaces.",
-    "key_takeaways": [
-      "Filters listed cover Dyson Ball Animal 3 along with other Ball Animal models and DC series variants.",
-      "At least one OEM listing specifies HEPA grade with part numbers 920769-01/920640-01; other packs lack grade details.",
-      "Buyers can choose genuine OEM HEPA filters or lower-cost multi-pack third-party replacements."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B074Z66TCB",
-        "title": "Filter Replacements for dy.son Ball Animal 2, DC65 DC41 UP13, Ball Vacuums Ball Animal 3, DC66 UP20 UP30 Multi Floor for dy.son, 2 HEPA Post Filters & 2 Pre Filters, Replace Part#920769-01 & 920640-01",
+        "asin": "B07RSZSYNC",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
         "is_oem": true,
         "rating": null,
-        "review_count": 693,
+        "review_count": 265,
         "pros": [
-          "Specifies HEPA post and pre filters",
-          "Provides official part numbers 920769-01 and 920640-01"
+          "Genuine Levoit filter",
+          "Designed for Core 300‑P"
         ],
         "cons": [
-          "Includes many model variants beyond Ball Animal 3",
-          "Title uses unconventional spelling (dy.son) but still indicates compatibility"
-        ]
-      },
-      {
-        "asin": "B0FM44D3MJ",
-        "title": "Filters Replacement for Dyson DC41 DC65 DC66 UP13 UP20 UP30 Animal, Multi Floor and Ball Vacuum Ball Animal 2 Ball Animal 3, 2 Pack Post Filters & 2 Pack Pre Filter Replacement Parts",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 377,
-        "pros": [
-          "Includes 2 post filters and 2 pre-filters in one pack",
-          "Compatible with multiple Dyson models including Ball Animal 3"
-        ],
-        "cons": [
-          "No official Dyson part numbers listed",
+          "No pack quantity indicated",
           "HEPA grade not specified"
         ]
       },
       {
-        "asin": "B07G7611T9",
-        "title": "Filter Replacement for Dyson DC41 DC65 UP20 UP30 Ball Animal 2/3 Vacuum",
+        "asin": "B08CXFL9RK",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300-P Core 300S-P Air Purifier",
         "is_oem": false,
         "rating": null,
-        "review_count": 58,
+        "review_count": 73,
         "pros": [
-          "Covers Dyson DC41, DC65, UP20, UP30 models",
-          "Mentions compatibility with Ball Animal 2/3"
+          "Replacement filter compatible with Core 300‑P and 300S‑P",
+          "Fits listed models"
         ],
         "cons": [
-          "No part numbers or HEPA information",
-          "Unclear filter quantity or type"
+          "OEM status not specified",
+          "HEPA grade not mentioned"
+        ]
+      },
+      {
+        "asin": "B09RJ2L994",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300 Core 300-P Core 300S Core 300S-P Air Purifier for Home Bedroom Large Room, 3-in-1 High Efficiency and Activated Carbon Filter, Core 300-RF, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 43,
+        "pros": [
+          "3‑in‑1 high efficiency and activated carbon filter",
+          "Includes 2‑pack value pack"
+        ],
+        "cons": [
+          "No OEM designation",
+          "HEPA grade not provided"
+        ]
+      },
+      {
+        "asin": "B08D8D1CZZ",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300-P Core 300S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 3,
+        "pros": [
+          "Replacement filter for Core 300‑P and 300S‑P",
+          "Fits listed models"
+        ],
+        "cons": [
+          "OEM status unclear",
+          "No pack size indicated"
         ]
       }
     ]
   },
   {
-    "id": 232,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "Cyclone V10 Animal",
-    "slug": "dyson-cyclone-v10-animal-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "969082-01",
-    "hepa_grade": null,
+    "id": 446,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "200S P Replacement",
+    "slug": "levoit-200s-p-replacement-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Core 200S-RF",
+    "hepa_grade": "H13",
     "filter_shape": null,
     "dimensions": null,
-    "compatibility_warning": "Before purchasing, confirm your vacuum’s exact model sticker or part number, as the listings include filters for V10 Cyclone Series variants such as V10 Absolute and SV12, which may differ from the V10 Animal.",
+    "compatibility_warning": "Verify your device is specifically the Levoit Core 200S or Core 200S-P, as listings also reference the Vital 200S-P which may require different parts. Check the model sticker on your unit to ensure it matches the Core 200S-RF filter designation before ordering.",
     "faqs": [
       {
-        "q": "What is the official filter part number for Dyson Cyclone V10 Animal?",
-        "a": "The official part number is 969082‑01."
+        "q": "What is the official filter part number for the Levoit Core 200S-P?",
+        "a": "The listings identify the filter as the Core 200S-RF, which is compatible with the Levoit Core 200S and Core 200S-P Smart WiFi Air Purifiers."
       },
       {
-        "q": "Are the listed filters OEM or third‑party?",
-        "a": "Only the filter with part number 969082‑01 is an OEM Dyson filter; the others are third‑party replacements."
+        "q": "Are there differences between OEM and third-party filters for this model?",
+        "a": "OEM filters are sold as genuine single packs by Levoit, while third-party options often offer 2-pack configurations. Both are listed as compatible with the Core 200S-P, but buyers should verify the seller's authenticity if brand preference is a priority."
       },
       {
-        "q": "Do the filters provide HEPA filtration?",
-        "a": "All listed filters are standard HEPA‑grade replacements, though the exact grade is not specified in the titles."
+        "q": "What filtration grade does the Levoit Core 200S-P replacement filter use?",
+        "a": "The replacement filters are specified as 3-Stage H13 Grade True HEPA filters, designed to capture fine particulates effectively."
       }
     ],
-    "direct_answer_capsule": "The filter part number 969082‑01 is the official Dyson OEM replacement for the Cyclone V10 Animal vacuum. It is a standard HEPA‑grade filter, though the exact grade is not listed. In addition to the OEM, third‑party manufacturers offer multi‑pack replacements that fit the same model.",
+    "direct_answer_capsule": "The Levoit Core 200S-P Smart WiFi Air Purifier utilizes the Core 200S-RF replacement filter. Listings indicate this unit features a 3-Stage H13 Grade True HEPA filtration system. Consumers can purchase either genuine single-pack OEM filters or third-party compatible options, including 2-pack value sets, ensuring availability for both budget-conscious and brand-loyal buyers seeking maintenance parts.",
     "key_takeaways": [
-      "Compatible with Dyson Cyclone V10 Animal vacuum.",
-      "Filters are standard HEPA‑grade replacements; official part number 969082‑01 available.",
-      "OEM filters and third‑party multi‑pack options exist."
+      "The specific filter part code identified in listings is Core 200S-RF, compatible with the Levoit Core 200S and Core 200S-P models.",
+      "The filtration system is specified as 3-Stage H13 Grade True HEPA, providing high-efficiency particulate capture.",
+      "Buying options include genuine Levoit single-pack filters and third-party 2-pack replacements, allowing for cost-effective bulk purchasing."
     ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
     "products": [
       {
-        "asin": "B085G3CDS2",
-        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
+        "asin": "B08L971Z4L",
+        "title": "Levoit Core 200S-P Air Purifier Replacement Filter,Genuine Air Filter,1Pack",
         "is_oem": true,
         "rating": null,
-        "review_count": 48,
+        "review_count": 76,
         "pros": [
-          "Official Dyson OEM filter part number 969082‑01",
-          "Compatible with multiple V10 variants"
+          "Genuine Levoit air filter ensuring exact manufacturer compatibility.",
+          "Official brand product for the Core 200S-P model."
         ],
         "cons": [
-          "No dimensions listed",
-          "No HEPA grade specified"
+          "Sold as a single pack, requiring more frequent repurchasing.",
+          "Title does not explicitly state HEPA grade or stage count."
         ]
       },
       {
-        "asin": "B07TWKCM5P",
-        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
+        "asin": "B0924FD74V",
+        "title": "Core 200S Replacement Filter for LEVOIT Core 200S-P Smart WiFi Air PuriFier",
         "is_oem": false,
         "rating": null,
-        "review_count": 85,
+        "review_count": 24,
         "pros": [
-          "Fits Dyson V10 Cyclone Animal",
-          "Replacement filter"
+          "Compatible with both Core 200S and Core 200S-P models.",
+          "Identified as a replacement filter for the Smart WiFi version."
         ],
         "cons": [
-          "No part number provided",
-          "No HEPA grade specified"
+          "Third-party product without explicit HEPA grade mentioned in title.",
+          "Lack of pack quantity details in the title compared to other listings."
         ]
       },
       {
-        "asin": "B0GYCKMBDS",
-        "title": "2 Pack V10 Filter Replacement for Dyson V10 Cyclone Series",
+        "asin": "B0B6ZVJBQY",
+        "title": "Core 200S Replacement Filter Compatible with LEVOIT Core 200S Core 200S-P Smart WiFi Air Purifier, Fit for Levoit Core 200s Replacement Filter, 2Pack 3-Stage H13 Grade True HEPA Filter, Core 200S-RF",
         "is_oem": false,
         "rating": null,
-        "review_count": 57,
+        "review_count": 21,
         "pros": [
-          "Multi‑pack",
-          "Replacement filters"
+          "Includes a 2-pack of filters for extended maintenance intervals.",
+          "Explicitly lists H13 Grade True HEPA and 3-Stage filtration specifications."
         ],
         "cons": [
-          "No part number",
-          "No HEPA grade"
-        ]
-      },
-      {
-        "asin": "B07PZT4Y68",
-        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 55,
-        "pros": [
-          "Multi‑pack offering",
-          "Replacement filters"
-        ],
-        "cons": [
-          "No part number",
-          "No HEPA grade"
+          "Third-party replacement rather than genuine Levoit OEM product.",
+          "Title contains repetitive model naming which may indicate lower editorial quality."
         ]
       }
     ]
   },
   {
-    "id": 233,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "Cyclone V10",
-    "slug": "dyson-cyclone-v10-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "969082-01",
-    "hepa_grade": null,
+    "id": 450,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "300 P Replacement",
+    "slug": "levoit-300-p-replacement-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": "H13",
     "filter_shape": null,
     "dimensions": null,
-    "compatibility_warning": "Verify the exact model and part number on your Dyson Cyclone V10 sticker before ordering, as listings reference various V10 variants (Absolute, Animal, Total Clean) that may require specific filter codes.",
+    "compatibility_warning": "Ensure the filter matches the exact Levoit Core 300‑P model number on your unit, as listings also reference Core 300, Core 300S, and other variants. Verify the part code or sticker before purchasing.",
     "faqs": [
       {
-        "q": "What part number should I look for when buying a replacement filter for the Dyson Cyclone V10?",
-        "a": "The official Dyson filter part number shown in the listings is 969082-01; ensure the replacement matches this code if you want an OEM‑equivalent filter."
+        "q": "Is there an official part code for the Levoit Core 300‑P replacement filter?",
+        "a": "The product titles do not list a specific part code; check the model sticker on your unit for the correct identifier."
       },
       {
-        "q": "Are third‑party multi‑pack filters equivalent to Dyson’s OEM filters?",
-        "a": "Third‑party packs list compatibility with the V10 series but do not claim OEM status; they may offer similar fit but lack the official Dyson branding and guaranteed specifications."
+        "q": "What is the difference between OEM and third‑party replacement filters?",
+        "a": "OEM filters are genuine Levoit products, while third‑party filters are compatible alternatives that may offer multi‑pack options but are not branded as Levoit."
       },
       {
-        "q": "Do the listed filters specify any HEPA rating or size dimensions?",
-        "a": "None of the titles provide a HEPA grade or exact inch measurements, so those details are not confirmed from the available information."
+        "q": "What filtration grade do these replacement filters provide and how often should they be changed?",
+        "a": "All listed filters combine H13 True HEPA with activated carbon; replace according to Levoit’s recommended schedule, typically every 6‑8 months depending on usage."
       }
     ],
-    "direct_answer_capsule": "Replacement filters that fit the Dyson Cyclone V10 are identified by part number 969082-01 when listed, though filtration grade is not specified in the titles. Both OEM Dyson filters and third‑party multi‑pack replacements are available, offering options for genuine or value‑priced replacements for home cleaning.",
+    "direct_answer_capsule": "Replacement filters that fit the Levoit Core 300‑P air purifier are identified by the model’s filter series, though no explicit part code appears in the listings. The available filters use an H13 True HEPA grade combined with activated carbon, and buyers can choose genuine OEM units or multi‑pack third‑party alternatives.",
     "key_takeaways": [
-      "Filters listed are compatible with all Dyson Cyclone V10 models, including Absolute, Animal, and Total Clean variants.",
-      "One listing provides the official part number 969082-01, but none disclose HEPA grade or exact dimensions.",
-      "Buyers can choose OEM Dyson filters or lower‑cost multi‑pack third‑party replacements."
+      "Both OEM and third‑party filters are compatible with the Levoit Core 300‑P.",
+      "Filters feature H13 True HEPA and activated carbon filtration.",
+      "Third‑party options often come in 2‑pack value sets, while OEM are sold singly."
     ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
     "products": [
       {
-        "asin": "B07TWKCM5P",
-        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 85,
-        "pros": [
-          "Specifies use for Dyson V10 Cyclone Animal",
-          "Indicates filter replacement purpose"
-        ],
-        "cons": [
-          "No pack quantity indicated",
-          "No part number, HEPA grade, or dimensions"
-        ]
-      },
-      {
-        "asin": "B0GYCKMBDS",
-        "title": "2 Pack V10 Filter Replacement for Dyson V10 Cyclone Series",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 57,
-        "pros": [
-          "Two filters included",
-          "States compatibility with Dyson V10 Cyclone Series"
-        ],
-        "cons": [
-          "Lacks official part number",
-          "No filtration grade or size info"
-        ]
-      },
-      {
-        "asin": "B07PZT4Y68",
-        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 55,
-        "pros": [
-          "Includes two filters in one pack",
-          "Explicitly states compatibility with Dyson Cyclone V10 series"
-        ],
-        "cons": [
-          "No official part number provided",
-          "No HEPA grade or dimensions mentioned"
-        ]
-      },
-      {
-        "asin": "B085G3CDS2",
-        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 48,
-        "pros": [
-          "Lists official part number 969082-01",
-          "Provides three filters plus a clean brush"
-        ],
-        "cons": [
-          "Not identified as Dyson OEM",
-          "No HEPA grade or size details"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 234,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "Cyclone V10 Absolute",
-    "slug": "dyson-cyclone-v10-absolute-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "969082-01",
-    "hepa_grade": null,
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Verify the exact model sticker or part number on your Dyson Cyclone V10 Absolute before ordering, as some listings reference V10 Animal or generic V10 series filters.",
-    "faqs": [
-      {
-        "q": "What part number should I look for when buying a replacement filter for the Dyson Cyclone V10 Absolute?",
-        "a": "The official Dyson filter part number is 969082-01, which appears in several listings and matches the V10 Absolute."
-      },
-      {
-        "q": "Are third‑party multi‑pack filters comparable to Dyson OEM filters?",
-        "a": "Third‑party packs list the same part number but are not branded Dyson; they offer the same size and fit but may differ in material quality."
-      },
-      {
-        "q": "Do the replacement filters include any HEPA rating or special filtration features?",
-        "a": "The product titles do not specify a HEPA grade or additional filtration features, so those details are not confirmed."
-      }
-    ],
-    "direct_answer_capsule": "The Dyson Cyclone V10 Absolute uses filter part number 969082-01. Replacement filters are available as genuine Dyson OEM parts or as third‑party multi‑pack kits. Both options provide the required filtration for the V10 series, though OEM units carry the Dyson brand and meet the same performance standards.",
-    "key_takeaways": [
-      "Official filter code 969082-01 fits the Dyson Cyclone V10 Absolute and other V10 models.",
-      "Listings show cylindrical‑type filters (shape not specified) with no explicit HEPA grade, but they replace the standard V10 filter.",
-      "Buyers can choose OEM Dyson filters or lower‑cost multi‑pack third‑party replacements."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B07TWKCM5P",
-        "title": "Vacuum Filter Replacement for Dyson V10 Cyclone Animal",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 85,
-        "pros": [
-          "Designed for Dyson V10 Cyclone Animal",
-          "Provides a replacement filter"
-        ],
-        "cons": [
-          "Does not specify OEM status",
-          "May not include official part number"
-        ]
-      },
-      {
-        "asin": "B07PZT4Y68",
-        "title": "2 Pack V10 Filters Replacement for Dyson Cyclone Series",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 55,
-        "pros": [
-          "Includes 2 filters in one pack",
-          "Compatible with Dyson V10 Cyclone Series"
-        ],
-        "cons": [
-          "No official Dyson part number listed",
-          "May not be OEM quality"
-        ]
-      },
-      {
-        "asin": "B085G3CDS2",
-        "title": "Replacement V10 Filters for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, 3 Pack Filters and 1 Clean Brush",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 48,
-        "pros": [
-          "Lists official part number 969082-01",
-          "Includes 3 filters plus cleaning brush"
-        ],
-        "cons": [
-          "Not confirmed as Dyson‑manufactured",
-          "Potentially higher price per pack"
-        ]
-      },
-      {
-        "asin": "B0BMG8849B",
-        "title": "2 Pack V10 Filters Replacement for Dyson V10 Cyclone Series, V10 Absolute, V10 Animal, V10 Total Clean, SV12, Replace Part No. 969082-01, V10 Filters & 1 Clean Brush",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 48,
-        "pros": [
-          "Official part number 969082-01 included",
-          "2 filters plus cleaning brush"
-        ],
-        "cons": [
-          "Not OEM",
-          "May lack Dyson branding"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 236,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "DC14",
-    "slug": "dyson-dc14-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "905401-01",
-    "hepa_grade": null,
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Ensure the filter matches your specific Dyson DC14 model and part number, as listings also reference DC15 and other variants. Verify the sticker or original part code before purchasing to avoid incompatibility.",
-    "faqs": [
-      {
-        "q": "What is the official part number for a replacement filter for the Dyson DC14?",
-        "a": "The OEM front‑motor filter for the Dyson DC14 is listed as Dyson part number 905401‑01."
-      },
-      {
-        "q": "How do OEM Dyson filters differ from third‑party replacements for the DC14?",
-        "a": "OEM filters are manufactured by Dyson and match the original specifications, while third‑party filters are compatible alternatives that may lack official branding and can be sold in multi‑pack value sets."
-      },
-      {
-        "q": "Do third‑party filters for the DC14 provide HEPA filtration?",
-        "a": "Some listings describe the filters as HEPA‑compatible, but no specific HEPA grade is stated, so performance may vary compared to the OEM filter."
-      }
-    ],
-    "direct_answer_capsule": "Replacement filters for the Dyson DC14 include the OEM pre‑motor filter identified as part number 905401‑01, as well as compatible HEPA‑type third‑party options. Both genuine Dyson filters and multi‑pack aftermarket filters fit the DC14’s front motor compartment, offering interchangeable choices for users seeking original or value‑pack replacements.",
-    "key_takeaways": [
-      "Official Dyson pre‑motor filter for DC14 is part number 905401‑01.",
-      "Third‑party listings include HEPA‑compatible front motor filters but do not specify grade or dimensions.",
-      "Buyers can choose OEM single units or multi‑pack aftermarket filters for cost‑effective replacements."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B000RABAGQ",
-        "title": "Dyson Part#905401-01 - Dyson Dc 14/dc 15 Spare Lifetime Pre-Motor Washable Filter - Designed to Fit: Dc05/08/14/15 Range By Sparesaver Part#10-2312-01",
+        "asin": "B07RSZSYNC",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
         "is_oem": true,
         "rating": null,
-        "review_count": 18,
+        "review_count": 265,
         "pros": [
-          "Official Dyson part number 905401‑01",
-          "Washable lifetime filter"
+          "Genuine Levoit filter ensures proper fit",
+          "Designed specifically for Core 300‑P"
         ],
         "cons": [
-          "May be priced higher than aftermarket",
-          "Listed as spare may require separate purchase of additional filters"
+          "Sold as single filter (no multi‑pack indicated)",
+          "May be higher priced than third‑party options"
         ]
       },
       {
-        "asin": "B0BJTJH2MG",
-        "title": "DC14/ DC15 Filter Set For Dyson DC15, DC14 Animal, All Floors, Complete",
+        "asin": "B08Q3VZX9X",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 265,
+        "pros": [
+          "Genuine Levoit filter ensures proper fit",
+          "Designed specifically for Core 300‑P"
+        ],
+        "cons": [
+          "Sold as single filter (no multi‑pack indicated)",
+          "May be higher priced than third‑party options"
+        ]
+      },
+      {
+        "asin": "B09RJ2L994",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300 Core 300-P Core 300S Core 300S-P Air Purifier for Home Bedroom Large Room, 3-in-1 High Efficiency and Activated Carbon Filter, Core 300-RF, 2 Pack",
         "is_oem": false,
         "rating": null,
-        "review_count": 359,
+        "review_count": 43,
         "pros": [
-          "Fits both DC14 and DC15 models",
-          "Covers multiple filter types in one set"
+          "Provides high‑efficiency filtration with activated carbon",
+          "Offered in a 2‑pack for better value"
         ],
         "cons": [
-          "Not manufactured by Dyson (OEM)",
-          "May include extra filters not needed for DC14 only"
+          "Not specified as genuine Levoit product",
+          "Listed for multiple Core models, requiring verification"
         ]
       },
       {
-        "asin": "B0CQYZG76V",
-        "title": "DC14 Vacuum Cleaner Front Motor Filter Replacement",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 116,
-        "pros": [
-          "Specifically labeled for DC14 front motor",
-          "Simple single‑filter replacement"
-        ],
-        "cons": [
-          "No indication of OEM origin",
-          "No filter code or HEPA grade provided"
-        ]
-      },
-      {
-        "asin": "B089SNKW43",
-        "title": "HEPA Filter Compatible with Dyson DC14 DC15 Series Animal Vacuum",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 1,
-        "pros": [
-          "HEPA‑compatible filtration",
-          "Claims compatibility with DC14 and DC15"
-        ],
-        "cons": [
-          "HEPA grade not specified",
-          "Not an official Dyson product"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 237,
-    "brand_name": "Dyson",
-    "brand_slug": "dyson",
-    "model_name": "DC07",
-    "slug": "dyson-dc07-replacement-filter",
-    "category": "vacuum",
-    "official_filter_code": "904979-02",
-    "hepa_grade": null,
-    "filter_shape": null,
-    "dimensions": null,
-    "compatibility_warning": "Before ordering, confirm the exact Dyson DC07 model sticker or part number on your vacuum, as some listings specify the pre‑motor filter part 904979‑02 and others are generic replacements.",
-    "faqs": [
-      {
-        "q": "Which part code is compatible with the Dyson DC07 replacement filter?",
-        "a": "The official part code is 904979‑02, used for the washable pre‑motor filter."
-      },
-      {
-        "q": "Are Dyson OEM filters available versus third‑party options?",
-        "a": "Yes, Dyson sells OEM filters, while third‑party brands like MaximalPower and EnviroCare offer compatible replacements, often in multi‑pack bundles."
-      },
-      {
-        "q": "What filtration features should I look for in a Dyson DC07 replacement filter?",
-        "a": "Look for washable pre‑motor filters that fit the DC07 series; the listed products are washable and reusable, and some come in blue foam packs."
-      }
-    ],
-    "direct_answer_capsule": "Replacement filters for the Dyson DC07 vacuum include the official part 904979-02, which is a washable pre‑motor filter. OEM Dyson filters are available, as are third‑party multi‑pack options such as the 2‑pack blue foam filters. All filters are compatible with the DC07 series for home.",
-    "key_takeaways": [
-      "Official Dyson part code 904979-02 is used for washable pre‑motor filters on the DC07.",
-      "Third‑party replacements include 2‑pack blue foam filters and MaximalPower washable pre‑filters.",
-      "Both OEM and value multi‑pack options are available; verify part number before purchase."
-    ],
-    "published_at": "2026-11-26 10:43:14",
-    "updated_at": "2026-11-26 10:43:14",
-    "products": [
-      {
-        "asin": "B0722WJL9P",
-        "title": "MaximalPower Replacement Filter for Dyson DC-07 Washable & Reusable Pre-Filter, Compatible Filter for Dyson DC07 Pre-Motor Filter Part # 904979-02 (90497902) (Buy 1 Filter)",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 287,
-        "pros": [
-          "Washable & reusable pre‑filter",
-          "Compatible with part 904979-02"
-        ],
-        "cons": [
-          "Single unit purchase",
-          "Brand not Dyson"
-        ]
-      },
-      {
-        "asin": "B07QKX1R7G",
-        "title": "Replacement Filter Compatible with Dyson DC07 Series Animal Vacuum",
-        "is_oem": false,
-        "rating": null,
-        "review_count": 14,
-        "pros": [
-          "Compatible with Dyson DC07 series",
-          "Suitable for animal vacuum models"
-        ],
-        "cons": [
-          "No part code specified",
-          "No filtration grade mentioned"
-        ]
-      },
-      {
-        "asin": "B00I3QOJBY",
-        "title": "2 Dyson DC07 Primary Washable Blue Foam Filters, Generic For Dyson Part 904979-02. 2 Pack",
+        "asin": "B0BV6VY9LW",
+        "title": "Core 300 Replacement Filter for LEVOIT Core 300,Core 300S,Core P350,Core300-P, Core 300 Replacement Filter,3-in-1 H13 True HEPA & Activated Carbon Filter, Core 300-RF,2 Pack",
         "is_oem": false,
         "rating": null,
         "review_count": 13,
         "pros": [
-          "Includes 2 washable blue foam filters",
-          "Compatible with Dyson part 904979-02"
+          "Includes H13 True HEPA grade",
+          "Comes in a 2‑pack value set"
         ],
         "cons": [
-          "Generic brand, not OEM",
-          "No dimensions provided"
+          "Covers multiple Levoit models, may not be exact match",
+          "Not labeled as genuine Levoit product"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "200 S",
+    "slug": "levoit-200-s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Core 200S-RF",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, verify the exact Levoit 200 S model sticker or part number on your unit, as some listings reference the 200S‑P variant and may not fit all 200 S configurations.",
+    "faqs": [
+      {
+        "q": "Which filter part code is compatible with the Levoit 200 S?",
+        "a": "The OEM Core 200S‑RF filter is the official part code for the Levoit 200 S and 200S‑P models."
+      },
+      {
+        "q": "Are OEM Levoit filters different from third‑party replacements?",
+        "a": "OEM Levoit filters are manufactured by Levoit and carry the Core 200S‑RF code, while third‑party filters such as the 2‑pack 3‑Stage H13 are sold by other brands and lack the OEM code."
+      },
+      {
+        "q": "What filtration level do the listed filters provide?",
+        "a": "The OEM Core 200S‑RF and the third‑party 2‑pack 3‑Stage filters both specify an H13 True HEPA rating, which captures 99.95 % of airborne particles."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Levoit 200 S include the OEM Core 200S‑RF filter, which carries an H13 True HEPA rating. Third‑party options such as the 2‑pack 3‑Stage H13 filter are also compatible. Both single‑pack OEM and value multi‑pack third‑party filters are available for purchase in the U.S. market.",
+    "key_takeaways": [
+      "OEM Core 200S‑RF filter offers H13 True HEPA filtration and is compatible with Levoit 200 S and 200S‑P models.",
+      "Third‑party 2‑pack 3‑Stage H13 filters provide a cost‑effective alternative while matching the same compatibility.",
+      "Both single‑pack OEM and multi‑pack third‑party options are available, but buyers should confirm model sticker before ordering."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B0B6ZVJBQY",
+        "title": "Core 200S Replacement Filter Compatible with LEVOIT Core 200S Core 200S-P Smart WiFi Air Purifier, Fit for Levoit Core 200s Replacement Filter, 2Pack 3-Stage H13 Grade True HEPA Filter, Core 200S-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 21,
+        "pros": [
+          "Compatible with Levoit Core 200S and Core 200S‑P models",
+          "Includes 3‑Stage H13 Grade True HEPA filter"
+        ],
+        "cons": [
+          "Pack of 2 filters may require additional purchase for single use",
+          "No explicit dimensions provided"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "400 S",
+    "slug": "levoit-400-s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model designation on their unit (e.g., Core 400S‑P, Core 400, or Core 400S) before purchasing, as the listings use several variant names. Matching the model sticker or part number ensures the correct filter fits.",
+    "faqs": [
+      {
+        "q": "What part code or model number should I look for when buying a replacement filter for the Levoit 400 S?",
+        "a": "The listings do not provide a specific part code; look for a filter described as “Core 400S Replacement Filter” and verify it matches the model designation on your unit’s sticker."
+      },
+      {
+        "q": "Is there a difference between OEM Levoit filters and third‑party replacements?",
+        "a": "OEM filters are labeled as genuine Levoit, while other listings are generic third‑party replacements; both claim compatibility but OEM may guarantee original specifications."
+      },
+      {
+        "q": "What filtration grade or type does the Levoit 400 S filter have?",
+        "a": "The product titles do not specify a HEPA grade, filter shape, or other filtration details, so the exact rating is not disclosed in the listings."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters compatible with the Levoit Core 400S-P air purifier are sold under the generic description “Core 400S Replacement Filter.” No explicit part number or HEPA grade appears in the listings. Both genuine Levoit (OEM) filters and third‑party multi‑pack options are offered for this model.",
+    "key_takeaways": [
+      "Fits Levoit Core 400S-P (also referenced as Core 400 or Core 400S) air purifier models.",
+      "Listings provide no HEPA grade, filter shape, or dimensions; only a generic replacement filter description.",
+      "Both OEM genuine Levoit filters and third‑party multi‑pack replacements are available for purchase."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B08SQQK6K7",
+        "title": "Levoit Core 400S-P Air Purifier Replacement Filter,Genuine Air Filter,1Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 53,
+        "pros": [
+          "Genuine Levoit filter ensures OEM compatibility.",
+          "Sold as a single pack for direct replacement."
+        ],
+        "cons": [
+          "Title provides no HEPA grade or dimensions.",
+          "Only one filter per pack may be less cost‑effective for multiple units."
+        ]
+      },
+      {
+        "asin": "B0B5YZ2ZKC",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 785,
+        "pros": [
+          "Specifically labeled for Core 400S-P model.",
+          "Potentially lower price as a third‑party replacement."
+        ],
+        "cons": [
+          "Does not state OEM or genuine status.",
+          "No filter specifications such as grade or size are given."
+        ]
+      },
+      {
+        "asin": "B0B3XBZ8ZJ",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 264,
+        "pros": [
+          "Specifically labeled for Core 400S-P model.",
+          "Potentially lower price as a third‑party replacement."
+        ],
+        "cons": [
+          "Does not state OEM or genuine status.",
+          "No filter specifications such as grade or size are given."
+        ]
+      },
+      {
+        "asin": "B0GR5FLYDT",
+        "title": "Core 400S Replacement Filter for LEVOIT Air Purifier, Core 400, Core 400S-P",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 17,
+        "pros": [
+          "Mentions compatibility with Core 400, Core 400S, and Core 400S-P.",
+          "Indicates broader model coverage."
+        ],
+        "cons": [
+          "Lacks OEM designation.",
+          "No details on filter shape, grade, or dimensions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "600 S",
+    "slug": "levoit-600-s-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact model number on their unit (Core 600S or 600S‑P) and any part number printed on the original filter, as the listings use generic titles that may cover both variants.",
+    "faqs": [
+      {
+        "q": "What filter part code is required for a Levoit 600 S?",
+        "a": "The listings do not provide a specific part code; users should check the original filter or Levoit documentation for the exact code."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party replacement filters?",
+        "a": "OEM filters are labeled as genuine Levoit products, while third‑party listings are generic replacements; performance may vary but both are marketed as compatible."
+      },
+      {
+        "q": "What filtration features or maintenance schedule apply to these filters?",
+        "a": "The titles only mention “replacement filter” or “toxin absorber” without specifying HEPA grade; typically Levoit recommends replacing the filter every 6‑8 months, but buyers should follow the manufacturer’s guidance."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters compatible with the Levoit Core 600S (also sold as 600S‑P) are standard air‑purifier cartridges designed for that model. No explicit official part code or HEPA grade appears in the listings, but both genuine Levoit (OEM) filters and third‑party multi‑pack options are currently offered.",
+    "key_takeaways": [
+      "Fits Levoit Core 600S and 600S‑P models.",
+      "Listings provide only generic replacement filter information without specific HEPA grade or dimensions.",
+      "Both OEM genuine filters and third‑party multi‑pack replacements are available."
+    ],
+    "published_at": "2026-11-27 10:44:35",
+    "updated_at": "2026-11-27 10:44:35",
+    "products": [
+      {
+        "asin": "B09MK89TXN",
+        "title": "Levoit Core 600S-P Air Purifier Replacement Filter,Genuine Air Filter,1Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 13,
+        "pros": [
+          "Genuine Levoit product",
+          "Sold as 1‑pack"
+        ],
+        "cons": [
+          "No detailed specifications in title",
+          "May lack multi‑pack savings"
+        ]
+      },
+      {
+        "asin": "B0BQMZRCVQ",
+        "title": "Core 600S Replacement Filter for LEVOIT Core 600S-P Smart Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 433,
+        "pros": [
+          "Specifically mentions Core 600S compatibility",
+          "Potentially lower price"
+        ],
+        "cons": [
+          "Not identified as OEM",
+          "No filter code or grade listed"
+        ]
+      },
+      {
+        "asin": "B0CBTCTYRQ",
+        "title": "Core 600S Replacement Filter for LEVOIT Core 600S/600S-P Smart Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 341,
+        "pros": [
+          "Specifically mentions Core 600S compatibility",
+          "Potentially lower price"
+        ],
+        "cons": [
+          "Not identified as OEM",
+          "No filter code or grade listed"
+        ]
+      },
+      {
+        "asin": "B0CBTFDFF2",
+        "title": "Core 600S Toxin Absorber Replacement Filtër for LEVOIT Core 600S/600S-P",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 341,
+        "pros": [
+          "Highlights toxin‑absorbing feature",
+          "Fits Core 600S/600S‑P"
+        ],
+        "cons": [
+          "No OEM designation",
+          "No dimensions or HEPA grade provided"
         ]
       }
     ]
