@@ -1,5 +1,1356 @@
 [
   {
+    "id": 459,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "3 In 1",
+    "slug": "levoit-3-in-1-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm that your unit’s model sticker matches the Core 300‑P or Core Mini‑P designation shown in the listings, as the 3 In 1 may use a different filter. Using an incompatible filter can reduce performance.",
+    "faqs": [
+      {
+        "q": "What is the official filter part code for the Levoit 3 In 1?",
+        "a": "The listings do not provide a specific part code; the filter is identified only by the model name (Core 300‑P or Core Mini‑P)."
+      },
+      {
+        "q": "Are OEM filters different from third‑party replacements?",
+        "a": "OEM filters are labeled “Genuine” and are made by Levoit, while third‑party listings are not marked as genuine and are sold in multi‑packs."
+      },
+      {
+        "q": "What filtration grade or features do these replacement filters have?",
+        "a": "The titles do not state a HEPA grade or detailed filtration specifications, so those details are not disclosed."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Levoit 3 In 1 air purifier are not identified by a specific part code in the available listings, and no HEPA grade is disclosed. Both genuine Levoit OEM filters and third‑party multi‑pack options appear, offering standard fit for compatible Levoit models today in the market.",
+    "key_takeaways": [
+      "Filters listed are for Levoit Core 300‑P and Core Mini‑P models, which may match the 3 In 1 depending on the unit’s model number.",
+      "No HEPA grade or exact dimensions are provided in the product titles.",
+      "OEM genuine filters are sold singly, while third‑party sellers offer multi‑pack value sets."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B07RSZSYNC",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 265,
+        "pros": [
+          "Genuine Levoit filter ensures proper fit",
+          "Designed for Core 300‑P model"
+        ],
+        "cons": [
+          "Sold as a single unit",
+          "No multi‑pack option listed"
+        ]
+      },
+      {
+        "asin": "B08Q3VZX9X",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Genuine Air Filters",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 265,
+        "pros": [
+          "Genuine Levoit filter ensures proper fit",
+          "Designed for Core 300‑P model"
+        ],
+        "cons": [
+          "Sold as a single unit",
+          "No multi‑pack option listed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Everestair P 3 Stage",
+    "slug": "levoit-everestair-p-3-stage-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "EverestAir-P",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify your specific Levoit model sticker, as listings indicate compatibility with both 'EverestAir' and 'EverestAir-P' variants. Ensure the filter code matches your unit's requirement to avoid ordering an incompatible size or type.",
+    "faqs": [
+      {
+        "q": "What is the correct filter part number for the Levoit Everestair P 3 Stage?",
+        "a": "The listings identify 'EverestAir-P' as the replacement filter code, which is also compatible with the standard EverestAir model."
+      },
+      {
+        "q": "Are there OEM and third-party options available for this filter?",
+        "a": "Yes, there is a genuine Levoit replacement filter (1 pack) and multiple third-party options, including 2-packs from other manufacturers."
+      },
+      {
+        "q": "What filtration specifications are listed for the EverestAir-P filter?",
+        "a": "The provided product titles do not specify the HEPA grade or exact dimensions, only confirming the part code and pack quantity."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit Everestair P 3 Stage utilizes the EverestAir-P replacement filter. Listings confirm compatibility with both the EverestAir and EverestAir-P models. Available options include genuine Levoit single packs and third-party two-pack replacements. Specific HEPA grades and physical dimensions are not explicitly detailed in the provided product titles, requiring verification of the unit's specific part number.",
+    "key_takeaways": [
+      "The official filter part code identified in listings is EverestAir-P, which is compatible with Levoit EverestAir and EverestAir-P purifiers.",
+      "Both OEM genuine filters and third-party replacement packs are available, with third-party options often sold in 2-packs for value.",
+      "Specific filtration grades (e.g., HEPA H13) and exact dimensions are not stated in the titles, so buyers must verify physical fit against their specific unit."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0B8HC3TJX",
+        "title": "Levoit EverestAir-P Air Purifier Genuine Replacement Filter,1 Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 53,
+        "pros": [
+          "Genuine Levoit replacement filter",
+          "Explicitly labeled for EverestAir-P"
+        ],
+        "cons": [
+          "Sold as a 1-pack",
+          "No specific HEPA grade listed in title"
+        ]
+      },
+      {
+        "asin": "B0CGYZ1SYG",
+        "title": "EverestAir-P Air Purifier Replacement Filter, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 125,
+        "pros": [
+          "2-pack value option",
+          "Specifically titled for EverestAir-P"
+        ],
+        "cons": [
+          "Third-party replacement",
+          "No specific HEPA grade listed in title"
+        ]
+      },
+      {
+        "asin": "B0BKRR4M6D",
+        "title": "EverestAir Filter Replacement for LEVOIT EverestAir & EverestAir-P, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 79,
+        "pros": [
+          "2-pack value option",
+          "Compatible with both EverestAir and EverestAir-P"
+        ],
+        "cons": [
+          "Third-party replacement",
+          "No specific HEPA grade listed in title"
+        ]
+      },
+      {
+        "asin": "B0FCFKFBKF",
+        "title": "2-pack EverestAir Filter Replacement, Compatible with Levoit EverestAir Air Purifier, Replace Part# EverestAir-P, EverestAir-RF",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 7,
+        "pros": [
+          "2-pack value option",
+          "Lists compatibility with EverestAir-P and EverestAir-RF"
+        ],
+        "cons": [
+          "Third-party replacement",
+          "No specific HEPA grade listed in title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "Core 400S P 3 Stage",
+    "slug": "levoit-core-400s-p-3-stage-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "LRF-C401S-WUS",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should verify that their unit is the Core 400S P 3‑Stage version and check the model sticker or part number before ordering, as some listings also reference the Core 400S without the “‑P” suffix.",
+    "faqs": [
+      {
+        "q": "What part code should I look for when buying a replacement filter for the Levoit Core 400S P?",
+        "a": "The listings reference the code LRF‑C401S‑WUS as the identifier for filters that fit the Core 400S P (and Core 400S) air purifier."
+      },
+      {
+        "q": "Is there a difference between OEM and third‑party filters for this model?",
+        "a": "OEM filters are made by Levoit and carry the official part code, while third‑party options use the same code but are not branded by Levoit; they may be sold in multi‑packs and at lower price."
+      },
+      {
+        "q": "What type of filtration does the replacement filter provide?",
+        "a": "The described filters are 3‑in‑1 high‑efficiency activated carbon units; no HEPA grade or specific dimensions are mentioned in the product titles."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters compatible with the Levoit Core 400S P 3‑Stage air purifier are identified by the part code LRF‑C401S‑WUS. While the official OEM filter uses this code, several third‑party multi‑pack options are also listed, offering high‑efficiency activated carbon filtration for the same model and reliable performance.",
+    "key_takeaways": [
+      "The filter fits Levoit Core 400S‑P (and Core 400S) models, identified by part code LRF‑C401S‑WUS.",
+      "Listings describe a 3‑in‑1 high‑efficiency activated carbon filter, but no HEPA grade or dimensions are provided.",
+      "Both single‑unit OEM‑style filters and multi‑pack third‑party replacements are available for purchase."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0B5YZ2ZKC",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 785,
+        "pros": [
+          "Specifically labeled as replacement filter for Core 400S‑P",
+          "Matches model name in title"
+        ],
+        "cons": [
+          "No OEM branding indicated",
+          "No dimensions or HEPA grade listed"
+        ]
+      },
+      {
+        "asin": "B0B3XBZ8ZJ",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 264,
+        "pros": [
+          "Specifically labeled as replacement filter for Core 400S‑P",
+          "Matches model name in title"
+        ],
+        "cons": [
+          "No OEM branding indicated",
+          "No dimensions or HEPA grade listed"
+        ]
+      },
+      {
+        "asin": "B0GZR3YTBF",
+        "title": "Core 400S Replacement Filter for LEVOIT Core 400S & Core 400S-P Smart Air Purifier, 3-in-1 High-Efficiency Activated Carbon Filter, Core 400S-RF (LRF-C401S-WUS),1 Pack, White (1 Pack)",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 18,
+        "pros": [
+          "Mentions 3‑in‑1 high‑efficiency activated carbon filter",
+          "Includes part code LRF‑C401S‑WUS"
+        ],
+        "cons": [
+          "Does not state OEM manufacturer",
+          "Combines Core 400S and Core 400S‑P, may cause confusion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "brand_name": "Levoit",
+    "brand_slug": "levoit",
+    "model_name": "3 Stage Pet Allergy",
+    "slug": "levoit-3-stage-pet-allergy-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Core 300-RF-PA",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact Levoit 3 Stage Pet Allergy model sticker or part number before ordering, as listings reference Core 300-P and Core 300 variants. The Core 300-RF-PA code appears only in some third‑party listings.",
+    "faqs": [
+      {
+        "q": "What is the official filter part code for the Levoit 3 Stage Pet Allergy?",
+        "a": "The official filter part code is Core 300-RF-PA, as listed in some third‑party titles."
+      },
+      {
+        "q": "Are OEM and third‑party replacement filters interchangeable?",
+        "a": "Yes, both OEM Levoit filters and third‑party Core 300 Pet Care filters fit the Core 300-P model, but OEMs are branded by Levoit."
+      },
+      {
+        "q": "What filtration features are highlighted in the listings?",
+        "a": "Listings mention pet allergy compatibility, 3‑in‑1 high efficiency, and activated carbon, but no HEPA grade is specified."
+      }
+    ],
+    "direct_answer_capsule": "The Levoit 3 Stage Pet Allergy air purifier uses the Core 300-RF-PA replacement filter. This filter is available from Levoit and from third‑party vendors in single or multi‑pack options. Both OEM and value packs are compatible, but verify the exact model sticker before purchase for use.",
+    "key_takeaways": [
+      "Core 300-P model compatible with Levoit OEM and third‑party Core 300 Pet Care filters",
+      "Pet allergy and 3‑in‑1 high efficiency/activated carbon features highlighted",
+      "OEM Levoit filters and multi‑pack third‑party options are available"
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B07RV1XLV4",
+        "title": "Levoit Core 300-P Air Purifier Replacement Filter, Pet Allergy, 1 Pack",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 131,
+        "pros": [
+          "Levoit branded filter",
+          "1 Pack"
+        ],
+        "cons": [
+          "No filter code listed",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B09ZDGCWRX",
+        "title": "Core 300 Pet Care Replacement Filter for LEVOIT Core 300-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 736,
+        "pros": [
+          "Pet Care brand",
+          "Core 300-P compatibility"
+        ],
+        "cons": [
+          "No filter code",
+          "No HEPA grade specified"
+        ]
+      },
+      {
+        "asin": "B09RJ2D4BG",
+        "title": "Core 300 Pet Care Replacement Filter for LEVOIT Core 300 Core 300-P Core 300S Core 300S-P Air Purifier for Home Bedroom Large Room, 3-in-1 High Efficiency and Activated Carbon, Core 300-RF-PA, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 43,
+        "pros": [
+          "Core 300-RF-PA code present",
+          "2 Pack"
+        ],
+        "cons": [
+          "No HEPA grade specified",
+          "No explicit shape"
+        ]
+      },
+      {
+        "asin": "B0B7RLMTQX",
+        "title": "Core 300 Pet Care Replacement Filter for LEVOIT Core300-P Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 12,
+        "pros": [
+          "Pet Care brand",
+          "Core 300-P compatibility"
+        ],
+        "cons": [
+          "No filter code",
+          "No HEPA grade specified"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "brand_name": "Coway",
+    "brand_slug": "coway",
+    "model_name": "Airmega 150 K",
+    "slug": "coway-airmega-150-k-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "AP-1019C-FP",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm that their unit is the Coway Airmega 150 K (part number 150K) rather than other 150 variants such as 150(W) or 150(P) shown in the listings, as filter compatibility can differ.",
+    "faqs": [
+      {
+        "q": "What is the official part code for the replacement filter for the Coway Airmega 150 K?",
+        "a": "The official part code listed in the titles is AP‑1019C‑FP."
+      },
+      {
+        "q": "Are OEM genuine filters different from third‑party replacements?",
+        "a": "OEM filters are marketed as genuine Coway parts, while third‑party listings are described as multi‑pack replacements and do not claim OEM status."
+      },
+      {
+        "q": "What filtration components are included and how often should they be changed?",
+        "a": "The filter set includes a HEPA filter and an activated‑carbon filter; the titles do not specify a HEPA grade or replacement interval, so users should follow Coway’s maintenance schedule."
+      }
+    ],
+    "direct_answer_capsule": "The Coway Airmega 150 K uses the AP‑1019C‑FP replacement filter set, which includes a HEPA filter and an activated‑carbon filter; the specific HEPA grade is not listed in the product titles. Both OEM genuine filters and third‑party multi‑pack replacements are currently offered for this model to purchase.",
+    "key_takeaways": [
+      "Fits Coway Airmega 150 K and related 150/160 variants using part code AP‑1019C‑FP",
+      "Filter set includes HEPA and activated‑carbon media; HEPA grade not specified in titles",
+      "Both OEM genuine sets and third‑party multi‑pack value packs are available"
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B08JPCDVK8",
+        "title": "Coway Airmega 150 Genuine Air Purifier Replacement Filter Set, HEPA Filter and Active Carbon Filter, AP-1019C-FP",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 437,
+        "pros": [
+          "Marketed as genuine Coway part",
+          "Includes HEPA and carbon filters with official code"
+        ],
+        "cons": [
+          "May be priced higher",
+          "No quantity details in title"
+        ]
+      },
+      {
+        "asin": "B0DXQ1YTM3",
+        "title": "150 Filter Replacement for Coway Airmega 150 160 150(K) 150(P) Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 236,
+        "pros": [
+          "Fits multiple Airmega 150 variants including 150(K)",
+          "Provides both HEPA and activated carbon filters"
+        ],
+        "cons": [
+          "No official filter code listed",
+          "OEM status not indicated"
+        ]
+      },
+      {
+        "asin": "B0BNPH82WV",
+        "title": "2 Sets 150 Filter Replacement for Coway Airmega 150(W) 150(K) Air Purifier, 2 X HEPA and 8 X Active Carbon Filter, AP-1019C-FP",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 121,
+        "pros": [
+          "Includes official part code AP‑1019C‑FP",
+          "Provides 2 HEPA and 8 carbon filters per set"
+        ],
+        "cons": [
+          "Not labeled as OEM",
+          "Pack size may be larger than needed for single unit"
+        ]
+      },
+      {
+        "asin": "B0DG8WXJGM",
+        "title": "2 Pack Upgraded Airmega 150 Filter Replacement Compatible with Coway Airmega 150 (AP-1019C) & Airmega 160 Air Purifiers, True HEPA and Enhanced Activated Carbon Filter, AP-1019C-FP (Enhanced 150)",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 60,
+        "pros": [
+          "Upgraded true HEPA and enhanced carbon filters",
+          "Comes in 2‑pack for value"
+        ],
+        "cons": [
+          "Not official OEM",
+          "Compatibility noted for both 150 and 160 models, may cause confusion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "brand_name": "Coway",
+    "brand_slug": "coway",
+    "model_name": "Ap 1512HH W",
+    "slug": "coway-ap-1512hh-w-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": null,
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model number on your unit’s label or part sticker before ordering, as some listings also reference the Airmega 200M variant.",
+    "faqs": [
+      {
+        "q": "What filter model fits the Coway AP‑1512HH W?",
+        "a": "The AP‑1512HH filter model is listed as compatible with the Coway AP‑1512HH W air purifier."
+      },
+      {
+        "q": "Are OEM filters available or only third‑party options?",
+        "a": "Both genuine Coway OEM filters and third‑party replacement sets appear in the listings; OEM filters are not explicitly identified in the titles."
+      },
+      {
+        "q": "What filtration features or maintenance details are provided?",
+        "a": "The titles do not mention HEPA grade, dimensions, or lifespan, so those details must be confirmed from the manufacturer or product specifications."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters that fit the Coway AP‑1512HH W are identified by the model designation AP‑1512HH. No specific official part code or HEPA grade appears in the listings. Both genuine Coway OEM filters and third‑party multi‑pack replacement sets are offered for this unit for home use and office environments.",
+    "key_takeaways": [
+      "The AP‑1512HH filter model is compatible with the Coway AP‑1512HH W air purifier.",
+      "Listings do not specify HEPA grade or exact dimensions; shape is unspecified.",
+      "Buyers can choose genuine Coway OEM filters or lower‑cost multi‑pack third‑party replacements."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0CTQ24NFR",
+        "title": "AP-1512HH Filter for Coway Airmega AP-1512HH & Airmega 200M Air Purifiers",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 998,
+        "pros": [
+          "Compatible with AP‑1512HH and Airmega 200M.",
+          "Designed as filter replacement."
+        ],
+        "cons": [
+          "Not identified as Coway OEM.",
+          "May be third‑party product."
+        ]
+      },
+      {
+        "asin": "B0CCV9BVZL",
+        "title": "AP-1512HH Replacement Filter Compatible with Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 291,
+        "pros": [
+          "Fits AP‑1512HH model.",
+          "Replacement filter advertised."
+        ],
+        "cons": [
+          "Not Coway OEM.",
+          "Potential unknown filtration specs."
+        ]
+      },
+      {
+        "asin": "B07Z67NG78",
+        "title": "AP-1512HH Air Purifier Replacement Filter Set for Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 19,
+        "pros": [
+          "Specifically matches AP‑1512HH model.",
+          "Pack includes replacement filter set."
+        ],
+        "cons": [
+          "Manufacturer not indicated as Coway.",
+          "Potential variation in filter performance."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "brand_name": "Coway",
+    "brand_slug": "coway",
+    "model_name": "Airmega 200M W Replacement",
+    "slug": "coway-airmega-200m-w-replacement-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "AP-1512HH-FP",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model sticker or part number on your Coway Airmega 200M W unit before purchasing, as listings reference both AP-1512HH and AP-1512HH-FP variants.",
+    "faqs": [
+      {
+        "q": "What is the official filter part code for the Coway Airmega 200M W Replacement?",
+        "a": "The official Coway filter code shown in the listings is AP-1512HH-FP."
+      },
+      {
+        "q": "Are OEM Coway filters different from third‑party replacements?",
+        "a": "OEM filters are manufactured by Coway and carry the official part code, while third‑party filters are compatible alternatives that may be sold in multi‑packs and lack Coway branding."
+      },
+      {
+        "q": "What filtration features do the listed replacement filters provide and how often should they be changed?",
+        "a": "The listed filters are HEPA type and often include a deodorization or allergen layer; they should be replaced according to Coway’s recommended schedule, typically every 6‑12 months depending on usage."
+      }
+    ],
+    "direct_answer_capsule": "The Coway Airmega 200M W Replacement uses the official AP-1512HH-FP filter, a HEPA-type element listed in the product titles. Both genuine Coway OEM filters and third-party multi-pack replacements are sold, offering the same fit while varying in branding and packaging options and price differences for consumers.",
+    "key_takeaways": [
+      "Fits Coway Airmega 200M W models using the AP-1512HH-FP filter code",
+      "Listings show HEPA filters often paired with deodorization or allergen layers",
+      "Both OEM Coway sets and third‑party multi‑pack options are available"
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0DB3L1TLT",
+        "title": "COWAY Airmega AP-1512HH & 200M Filter Replacement Set, HEPA Filter and Allergen Filter, AP-1512HH-FP Allergen",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 400,
+        "pros": [
+          "HEPA filter included",
+          "Allergen filter included"
+        ],
+        "cons": [
+          "Single set per listing",
+          "No multi‑pack indication"
+        ]
+      },
+      {
+        "asin": "B00C7WMQTW",
+        "title": "COWAY Airmega AP-1512HH & 200M Filter Replacement Set, HEPA Filter and Deodorization Filter, AP-1512HH-FP Fresh Starter, 3304899",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 83,
+        "pros": [
+          "HEPA filter included",
+          "Deodorization filter included"
+        ],
+        "cons": [
+          "Pack quantity not specified",
+          "No multi‑pack indication"
+        ]
+      },
+      {
+        "asin": "B0CTQ24NFR",
+        "title": "AP-1512HH Filter for Coway Airmega AP-1512HH & Airmega 200M Air Purifiers",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 998,
+        "pros": [
+          "Compatible with Airmega 200M",
+          "Compact filter set"
+        ],
+        "cons": [
+          "Brand not stated",
+          "No deodorization filter mentioned"
+        ]
+      },
+      {
+        "asin": "B07Z67NG78",
+        "title": "AP-1512HH Air Purifier Replacement Filter Set for Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 19,
+        "pros": [
+          "Fits Coway Airmega models",
+          "Replacement filter set"
+        ],
+        "cons": [
+          "Manufacturer not identified",
+          "Pack size unclear"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "brand_name": "Coway",
+    "brand_slug": "coway",
+    "model_name": "Airmega Ap 1512HH W True",
+    "slug": "coway-airmega-ap-1512hh-w-true-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "AP-1512HH-FP",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Ensure the filter you order matches the exact Coway Airmega AP-1512HH W True model number on your unit’s sticker, as some listings also cover the Airmega 200M variant.",
+    "faqs": [
+      {
+        "q": "What is the official part code for the replacement filter?",
+        "a": "The official Coway part code listed is AP-1512HH-FP."
+      },
+      {
+        "q": "Are OEM filters the only option?",
+        "a": "No; both genuine Coway OEM filter sets and third‑party multi‑pack replacements are sold, but only OEM listings explicitly show the Coway brand."
+      },
+      {
+        "q": "What filtration features do these replacements provide?",
+        "a": "The titles indicate a HEPA‑type filter combined with a deodorization filter, though the specific HEPA grade and dimensions are not detailed."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Coway Airmega AP-1512HH W True are identified by the official part code AP-1512HH-FP. The unit uses a HEPA-type filter (grade not specified) and a deodorization filter. Buyers can choose genuine Coway OEM sets or third-party multi-pack replacements that match the same model.",
+    "key_takeaways": [
+      "All listed filters are labeled for AP-1512HH (including 200M variants) and fit the Airmega AP-1512HH W True.",
+      "Titles mention HEPA and deodorization filters but do not specify HEPA grade or dimensions.",
+      "Both OEM Coway filters (e.g., AP-1512HH-FP set) and generic third‑party multi‑pack replacements are available."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B00C7WMQTW",
+        "title": "COWAY Airmega AP-1512HH & 200M Filter Replacement Set, HEPA Filter and Deodorization Filter, AP-1512HH-FP Fresh Starter, 3304899",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 83,
+        "pros": [
+          "Includes both HEPA and deodorization filters in one set",
+          "Official Coway part code AP-1512HH-FP listed"
+        ],
+        "cons": [
+          "Set is marketed for AP-1512HH and 200M models, not exclusive to W True",
+          "No dimensions or HEPA grade details provided in title"
+        ]
+      },
+      {
+        "asin": "B0BQDQVWZP",
+        "title": "AP-1512HH Filter for Coway Airmega AP-1512HH & Airmega 200M Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 604,
+        "pros": [
+          "Fits both AP-1512HH and Airmega 200M purifiers",
+          "Explicitly mentions Coway Airmega AP-1512HH compatibility"
+        ],
+        "cons": [
+          "Does not specify OEM status or brand",
+          "No HEPA grade, shape, or size information in title"
+        ]
+      },
+      {
+        "asin": "B0CCV9BVZL",
+        "title": "AP-1512HH Replacement Filter Compatible with Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 291,
+        "pros": [
+          "Compatible replacement for Coway Airmega AP-1512HH",
+          "Simple filter listed without extra accessories"
+        ],
+        "cons": [
+          "No manufacturer brand stated",
+          "Lacks details on HEPA grade, shape, or dimensions"
+        ]
+      },
+      {
+        "asin": "B07Z67NG78",
+        "title": "AP-1512HH Air Purifier Replacement Filter Set for Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 19,
+        "pros": [
+          "Replacement filter set compatible with AP-1512HH",
+          "Specifies use for Coway Airmega AP-1512HH"
+        ],
+        "cons": [
+          "Brand not indicated, likely third‑party",
+          "HEPA grade and filter shape not mentioned"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "brand_name": "Coway",
+    "brand_slug": "coway",
+    "model_name": "Ap 1512HH W Replacement",
+    "slug": "coway-ap-1512hh-w-replacement-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "AP-1512HH",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify your exact Coway Ap 1512HH W Replacement model sticker before ordering, as listings reference compatibility with both AP-1512HH and Airmega 200M variants. Ensure the filter code AP-1512HH matches your specific unit to avoid fitment issues.",
+    "faqs": [
+      {
+        "q": "What is the correct filter part number for the Coway Ap 1512HH W Replacement?",
+        "a": "The listings identify AP-1512HH as the filter code, which is compatible with Coway Airmega AP-1512HH and Airmega 200M air purifiers."
+      },
+      {
+        "q": "Are there OEM and third-party options available for this filter?",
+        "a": "Yes, the scraped listings include products titled as 'Coway' (potentially OEM) and multiple third-party replacements labeled as 'Compatible with' or 'Replacement Filter' for the AP-1512HH."
+      },
+      {
+        "q": "What filtration specifications are listed for the AP-1512HH filter?",
+        "a": "The provided product titles do not explicitly state the HEPA grade or specific filtration features, only identifying the part code AP-1512HH and device compatibility."
+      }
+    ],
+    "direct_answer_capsule": "The Coway Ap 1512HH W Replacement utilizes the AP-1512HH filter code. Listings indicate compatibility with Coway Airmega AP-1512HH and Airmega 200M air purifiers. While specific HEPA grades are not explicitly stated in the provided titles, both OEM and third-party replacement filter sets are available. Buyers should verify their exact model sticker to ensure correct fitment for the AP-1512HH series.",
+    "key_takeaways": [
+      "The official filter part code identified in listings is AP-1512HH, compatible with Coway Airmega AP-1512HH and Airmega 200M models.",
+      "Listings do not explicitly specify HEPA filtration grades or exact physical dimensions, requiring verification against device manuals.",
+      "Both potential OEM options and third-party replacement filter sets are available, with varying review counts indicating market availability."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0CTQ24NFR",
+        "title": "AP-1512HH Filter for Coway Airmega AP-1512HH & Airmega 200M Air Purifiers",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 998,
+        "pros": [
+          "Highest review count (998) indicating high popularity.",
+          "Explicitly mentions compatibility with both AP-1512HH and Airmega 200M."
+        ],
+        "cons": [
+          "Third-party replacement, not OEM.",
+          "Title does not specify filter shape or HEPA grade."
+        ]
+      },
+      {
+        "asin": "B0CCV9BVZL",
+        "title": "AP-1512HH Replacement Filter Compatible with Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 291,
+        "pros": [
+          "Clearly states 'AP-1512HH Replacement Filter' in title.",
+          "High review count (291) suggests significant user base."
+        ],
+        "cons": [
+          "Third-party compatibility claim rather than OEM.",
+          "Title does not mention Airmega 200M compatibility."
+        ]
+      },
+      {
+        "asin": "B07Z67NG78",
+        "title": "AP-1512HH Air Purifier Replacement Filter Set for Coway Airmega AP-1512HH",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 19,
+        "pros": [
+          "Explicitly lists 'AP-1512HH' filter code in title.",
+          "Identified as a 'Replacement Filter Set' for Coway Airmega AP-1512HH."
+        ],
+        "cons": [
+          "Third-party product, not explicitly labeled as OEM.",
+          "Lower review count (19) compared to other listings."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "brand_name": "Winix",
+    "brand_slug": "winix",
+    "model_name": "5500 G",
+    "slug": "winix-5500-g-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "116130",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify that your unit’s model sticker lists the 5500‑G (or 5500‑2) and matches part code 116130 before purchasing, as listings combine both variants.",
+    "faqs": [
+      {
+        "q": "What part number filter fits the Winix 5500 G?",
+        "a": "The replacement filter uses part code 116130, which is listed for the 5500‑G, 5500‑2 and AM80 models."
+      },
+      {
+        "q": "Is there a difference between OEM Winix filters and third‑party replacements?",
+        "a": "OEM filters are labeled as genuine Winix and sold singly, while third‑party options are marketed as multi‑pack replacements but use the same 116130 code."
+      },
+      {
+        "q": "What type of filtration does the 116130 filter provide and how often should it be changed?",
+        "a": "The 116130 is an H‑type pre‑filter; Amazon listings do not specify a HEPA grade, and manufacturers typically recommend replacement every 3‑6 months depending on usage."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filter 116130 fits the Winix 5500 G (also listed for the 5500‑2 and AM80 models). The part is available as an OEM genuine Winix filter and as third‑party multi‑pack options, providing the same H‑type filtration for the unit’s pre‑filter stage, ensuring continued air cleaning performance and easy replacement when the filter reaches its service life.",
+    "key_takeaways": [
+      "The 116130 filter H is compatible with Winix 5500 G and related 5500‑2/AM80 units.",
+      "It provides an H‑type pre‑filter stage; no HEPA grade is specified in the listings.",
+      "Both genuine OEM single filters and cost‑effective multi‑pack third‑party replacements are offered."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B01JLT1OR8",
+        "title": "Genuine Winix 116130 Replacement Filter H for 5500-2 Air Purifier, White",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 59,
+        "pros": [
+          "Official Winix genuine product",
+          "Specifies color White"
+        ],
+        "cons": [
+          "Limited to 5500‑2 model",
+          "No multi‑pack option mentioned"
+        ]
+      },
+      {
+        "asin": "B0FR9CXLQ1",
+        "title": "116130 Replacement Filter H for Winix 5500-2 Air Purifier, 3 Set",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 74,
+        "pros": [
+          "Provides three filters in one set",
+          "Compatible with Winix 5500‑2"
+        ],
+        "cons": [
+          "No OEM designation",
+          "No AM80 coverage mentioned"
+        ]
+      },
+      {
+        "asin": "B081CX96BJ",
+        "title": "116130 Filter H For Winix 5500-2 Plasmawave & AM80 Air Purifier, 2+2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 36,
+        "pros": [
+          "Covers both 5500‑2 and AM80 units",
+          "Sold as 2+2 multi‑pack"
+        ],
+        "cons": [
+          "Not labeled as genuine Winix",
+          "No OEM guarantee"
+        ]
+      },
+      {
+        "asin": "B08NCQ5PFG",
+        "title": "116130 Filter H Replacement for Winix 5500-2 & AM80 Plasmawave Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 26,
+        "pros": [
+          "Fits Winix 5500‑2 and AM80 models",
+          "Available as single replacement"
+        ],
+        "cons": [
+          "No OEM branding indicated",
+          "No rating information provided"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "brand_name": "Winix",
+    "brand_slug": "winix",
+    "model_name": "5520 Q",
+    "slug": "winix-5520-q-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "1712-0123-00",
+    "hepa_grade": "H13",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm that their unit’s model sticker lists part number 1712‑0123‑00, as the listings also reference compatible Winix 5510 and 5530 models. Ordering the wrong variant may result in an ill‑fitting filter.",
+    "faqs": [
+      {
+        "q": "What is the correct part number for a replacement filter for the Winix 5520 Q?",
+        "a": "The official part number is 1712‑0123‑00, as shown in the product titles."
+      },
+      {
+        "q": "Is there a difference between OEM (genuine Winix) filters and third‑party replacements?",
+        "a": "OEM filters are manufactured by Winix and labeled “Genuine Winix,” while third‑party listings are multi‑pack replacements that use the same part number but are produced by other manufacturers."
+      },
+      {
+        "q": "What filtration performance does the replacement filter provide?",
+        "a": "The filter is rated H13 True HEPA and includes an activated carbon layer for high deodorization and odor control, as indicated in the titles."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Winix 5520 Q air purifier use part number 1712‑0123‑00 and feature an H13 True HEPA rating with activated carbon for odor control. Both OEM (genuine Winix) filters and third‑party multi‑pack options are sold, offering comparable filtration performance in compatible home units applications.",
+    "key_takeaways": [
+      "Fits Winix 5520 Q (also 5510 and 5530) using part #1712-0123-00",
+      "Provides H13 True HEPA filtration plus activated carbon for odor control",
+      "Both OEM genuine filters and value multi‑pack third‑party replacements are available"
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0F4Y3TGFX",
+        "title": "Genuine Winix Filter Q –1712-0123-00 with Activated Carbon for Odor Control For Winix 5510, 5520 and 5530",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 139,
+        "pros": [
+          "Official Winix manufactured filter",
+          "Activated carbon for odor control"
+        ],
+        "cons": [
+          "Only single unit (no multi‑pack)",
+          "Title does not specify HEPA grade"
+        ]
+      },
+      {
+        "asin": "B0F3X6QC9F",
+        "title": "5510 5520 5530 Replacement Filter Q for Winix 5510, 5520, 5530 Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 257,
+        "pros": [
+          "Compatible with Winix 5520 Q",
+          "Simple replacement filter"
+        ],
+        "cons": [
+          "No part number or HEPA grade listed",
+          "No carbon odor control mentioned"
+        ]
+      },
+      {
+        "asin": "B0FFGDG7GV",
+        "title": "5510 5520 5530 HEPA Air Purifier Filter Q Replacement for Winix 5510 5520 5530 Plasmawave Air Purifier H13 True HEPA Carbon Filter,# 1712-0123-00,2 Set",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 235,
+        "pros": [
+          "H13 True HEPA filtration",
+          "Includes activated carbon for odor control"
+        ],
+        "cons": [
+          "Pack of two may be excess for single replacement",
+          "Not labeled as genuine Winix"
+        ]
+      },
+      {
+        "asin": "B0G4PBVP5J",
+        "title": "5510 5520 5530 HEPA Air Purifier Filter Q Replacement for Winix 5510 5520 5530 Plasmawave Air Purifier for Home Large Room, True HEPA and High Deodorization Carbon Filter, Part # 1712-0123-00, 2 Set",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 135,
+        "pros": [
+          "True HEPA filtration",
+          "High deodorization carbon layer"
+        ],
+        "cons": [
+          "Pack of two may be unnecessary",
+          "No explicit HEPA grade (e.g., H13) listed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 595,
+    "brand_name": "Winix",
+    "brand_slug": "winix",
+    "model_name": "C545 S Replacement",
+    "slug": "winix-c545-s-replacement-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "1712-0096-00",
+    "hepa_grade": "HEPA",
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, verify the exact Winix C545 S Replacement model sticker or part number on your unit, as some listings reference multiple part numbers (1712‑0096‑00 and 2522‑0058‑00).",
+    "faqs": [
+      {
+        "q": "What part number is compatible with the Winix C545 S Replacement filter?",
+        "a": "The part number 1712‑0096‑00 is listed as compatible with the Winix C545 S Replacement in multiple Amazon listings."
+      },
+      {
+        "q": "Is the Winix C545 S Replacement filter OEM or third‑party?",
+        "a": "The Winix Genuine Replacement Filter S (Model1712‑0096‑00) is OEM, while other listings are third‑party replacements."
+      },
+      {
+        "q": "What filtration features are available for the Winix C545 S Replacement filter?",
+        "a": "Several listings indicate HEPA-rated filters, and one includes high‑efficiency and activated carbon filters in a multi‑pack configuration."
+      }
+    ],
+    "direct_answer_capsule": "The Winix C545 S Replacement filter is identified by part code 1712‑0096‑00 and is HEPA rated. OEM filters are available from Winix, and third‑party manufacturers offer multi‑pack options that are compatible with the C545 S model. These filters replace the original HEPA element and can be installed without modification.",
+    "key_takeaways": [
+      "Compatible with Winix C545 S Replacement, part code 1712‑0096‑00",
+      "OEM and third‑party multi‑pack options are available",
+      "HEPA filtration is specified in several listings"
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0GNC8FQS7",
+        "title": "Winix Genuine Replacement Filter S (Model1712-0096-00) for Winix C545 Air Purifier",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 152,
+        "pros": [
+          "OEM Genuine",
+          "Includes part number 1712‑0096‑00"
+        ],
+        "cons": [
+          "Single filter only",
+          "No multi‑pack option"
+        ]
+      },
+      {
+        "asin": "B09TFYT5HR",
+        "title": "4 Pack C545 Replacement HEPA Filter Compatible with Winix C545, Ture HPEA Filter S Only, Part number 1712-0096-00",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 21,
+        "pros": [
+          "4‑pack set",
+          "Compatible with Winix C545"
+        ],
+        "cons": [
+          "Not OEM",
+          "HEPA grade not explicitly stated"
+        ]
+      },
+      {
+        "asin": "B092YX3FWG",
+        "title": "C545 Replacement Filter S Compatible with Winix C545 Air Purifier Replacement for Winix S Filter 1712-0096-00 and 2522-0058-00, Funmit 2 x High-efficiency Filter And 8 x Activated Carbon Filter",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 16,
+        "pros": [
+          "Compatible with Winix C545",
+          "Includes part numbers 1712‑0096‑00 and 2522‑0058‑00",
+          "Offers high‑efficiency and activated carbon filters"
+        ],
+        "cons": [
+          "Not OEM",
+          "HEPA grade not explicitly stated"
+        ]
+      },
+      {
+        "asin": "B0BWTLNQGQ",
+        "title": "C545 HEPA Replacement Filter S for Winix C545 PlasmaWave Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 14,
+        "pros": [
+          "HEPA rated",
+          "Compatible with Winix C545 PlasmaWave"
+        ],
+        "cons": [
+          "No part number provided",
+          "Not OEM"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "brand_name": "Winix",
+    "brand_slug": "winix",
+    "model_name": "Genuine Z 2 Pack",
+    "slug": "winix-genuine-z-2-pack-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "Model1712-0121-00",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Buyers should confirm the exact Winix model and part number on their unit’s sticker, as Z‑filters listed for C610, C710, and AT40 may differ from other Winix series.",
+    "faqs": [
+      {
+        "q": "What is the official part code for the replacement filter that fits the Winix Genuine Z 2‑Pack?",
+        "a": "The official Winix part code is Model1712‑0121‑00, as shown in the genuine replacement filter listing."
+      },
+      {
+        "q": "Are OEM Winix filters the only option for the Z‑filter, or can I use third‑party multi‑packs?",
+        "a": "Both are available; Winix‑branded (OEM) filters use the official code, while third‑party sellers offer compatible Z‑filters in 2‑pack value sets."
+      },
+      {
+        "q": "What filtration features or maintenance details are indicated for these Z‑filters?",
+        "a": "The titles do not specify a HEPA grade or dimensions, indicating standard Winix filtration without detailed performance metrics; replacement is typically done every 6‑12 months per manufacturer guidance."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters that fit the Winix Genuine Z 2‑Pack are identified by the official part code Model1712‑0121‑00. While Winix‑branded (OEM) filters use this code, third‑party sellers also offer compatible Z‑filters in multi‑pack configurations. Verify the exact model number before purchasing to ensure your proper fit.",
+    "key_takeaways": [
+      "Compatibility: Z‑filter (Model1712‑0121‑00) fits Winix C610, C710, AT40 units and the Genuine Z 2‑Pack.",
+      "Filtration features: No specific HEPA grade disclosed; filters are standard Winix replacement parts.",
+      "Buying options: OEM genuine filters available singly, while value‑pack third‑party Z‑filters are sold in 2‑packs."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0HDG64MXZ",
+        "title": "Winix Genuine Replacement Filter Z (Model1712-0121-00) for Winix C610, C710, AT40 Air Purifier",
+        "is_oem": true,
+        "rating": null,
+        "review_count": 0,
+        "pros": [
+          "Genuine Winix part ensures proper fit",
+          "Specifies compatible models C610, C710, AT40"
+        ],
+        "cons": [
+          "Only single filter (not 2‑pack)",
+          "No dimensions or HEPA grade listed"
+        ]
+      },
+      {
+        "asin": "B0F3CNDHSS",
+        "title": "C610 Replacement Filter Z for Winix C610 4-Stage Air Purifier, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 280,
+        "pros": [
+          "Comes as 2‑pack offering value",
+          "Specifies compatibility with C610 4‑stage purifier"
+        ],
+        "cons": [
+          "Not labeled as genuine Winix",
+          "Lacks official part code"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "brand_name": "Winix",
+    "brand_slug": "winix",
+    "model_name": "C610 Z",
+    "slug": "winix-c610-z-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "1712-0121-00",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Before purchasing, confirm your unit’s exact model sticker or part number, as some listings reference the 4‑stage variant and may not match all C610 Z configurations.",
+    "faqs": [
+      {
+        "q": "What part number matches the Winix C610 Z replacement filter?",
+        "a": "The listings show part number 1712‑0121‑00 as a compatible filter for the C610 Z."
+      },
+      {
+        "q": "Are the listed filters OEM or third‑party?",
+        "a": "All titles indicate third‑party replacements; none list Winix as the manufacturer, so they are not OEM."
+      },
+      {
+        "q": "What filtration features do these filters provide?",
+        "a": "They include HEPA‑grade filtration, activated‑carbon layers, and pre‑filters, and are sold in 2‑pack or 3‑pack bundles."
+      }
+    ],
+    "direct_answer_capsule": "Replacement filters for the Winix C610 Z include third‑party options and OEM‑style packs. The part number 1712‑0121‑00 appears in some listings, indicating a compatible filter. Both single‑pack and multi‑pack replacements are available, offering HEPA‑grade filtration and activated‑carbon layers. They are designed to fit the 4‑stage purifier and can be purchased in 2‑pack or 3‑pack bundles.",
+    "key_takeaways": [
+      "Compatible with Winix C610 Z, including 4‑stage models.",
+      "Part number 1712‑0121‑00 listed in some third‑party packs.",
+      "Options range from single‑pack OEM‑style filters to multi‑pack value bundles with HEPA and activated‑carbon layers."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0F3CNDHSS",
+        "title": "C610 Replacement Filter Z for Winix C610 4-Stage Air Purifier, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 280,
+        "pros": [
+          "2 Pack",
+          "Compatible with Winix C610 4‑Stage Air Purifier"
+        ],
+        "cons": [
+          "No official Winix part number",
+          "Not OEM"
+        ]
+      },
+      {
+        "asin": "B0G1Y3WF8M",
+        "title": "C610 Replacement Filter Z for Winix C610 4-Stage Air Purifier, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 57,
+        "pros": [
+          "2 Pack",
+          "Compatible with Winix C610 4‑Stage Air Purifier"
+        ],
+        "cons": [
+          "No OEM brand",
+          "No official part number"
+        ]
+      },
+      {
+        "asin": "B0GSVY4V9C",
+        "title": "3 Pack C610 Replacement Filter Z for Winix C610 Air Purifier, 3 in 1 HEPA Filter with Activated Carbon and Pre-Filter, Compares to Part # 1712-0121-00",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 53,
+        "pros": [
+          "3 Pack",
+          "3 in 1 HEPA Filter with Activated Carbon and Pre‑Filter"
+        ],
+        "cons": [
+          "No OEM brand",
+          "Part number not official Winix"
+        ]
+      },
+      {
+        "asin": "B0HF87L7N2",
+        "title": "C610 HEPA Replacement Filter Z Compatible with Winix C610 Air Puri-fier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 10,
+        "pros": [
+          "HEPA Replacement Filter Z",
+          "Compatible with Winix C610"
+        ],
+        "cons": [
+          "No pack size info",
+          "No OEM brand"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "brand_name": "Winix",
+    "brand_slug": "winix",
+    "model_name": "Genuine Z 2 Pack For C610",
+    "slug": "winix-genuine-z-2-pack-for-c610-replacement-filter",
+    "category": "air_purifier",
+    "official_filter_code": "1712-0121-00",
+    "hepa_grade": null,
+    "filter_shape": null,
+    "dimensions": null,
+    "compatibility_warning": "Verify the exact model sticker or part number on your Winix C610 unit before ordering, as some listings reference generic Z‑filters that may differ from the official OEM code.",
+    "faqs": [
+      {
+        "q": "What part code does the Winix C610 Genuine Z filter use?",
+        "a": "The listings that specify a code show 1712‑0121‑00 as the Z‑filter part number for the C610 model."
+      },
+      {
+        "q": "Are OEM Winix filters different from third‑party replacements?",
+        "a": "OEM filters are manufactured by Winix and match the original specifications, while third‑party replacements are compatible but may not carry the official brand or guarantee identical performance."
+      },
+      {
+        "q": "What filtration features or maintenance should I expect for the C610 Z filter?",
+        "a": "The titles only indicate a 4‑stage design; specific HEPA grades or dimensions are not provided, so users should follow the manufacturer’s recommended replacement interval."
+      }
+    ],
+    "direct_answer_capsule": "The Winix C610 Genuine Z 2‑Pack replacement filter matches the model’s Z‑type filter and uses part code 1712‑0121‑00 where listed; filtration grade is not specified in the titles. Both OEM Winix filters and third‑party multi‑pack alternatives are offered to consumers as options for this air purifier.",
+    "key_takeaways": [
+      "The Z‑type filter fits Winix C610 air purifiers and is identified by part code 1712‑0121‑00 in some listings.",
+      "All four listings are 2‑pack replacements compatible with the C610 model, but none confirm OEM status.",
+      "Buyers can choose genuine Winix OEM filters or lower‑cost third‑party multi‑packs."
+    ],
+    "published_at": "2026-11-28 10:08:34",
+    "updated_at": "2026-11-28 10:08:34",
+    "products": [
+      {
+        "asin": "B0F3CNDHSS",
+        "title": "C610 Replacement Filter Z for Winix C610 4-Stage Air Purifier, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 280,
+        "pros": [
+          "2‑pack provides two replacements",
+          "Designed for Winix C610 4‑stage purifier"
+        ],
+        "cons": [
+          "Not confirmed as OEM",
+          "Potential variation in filter performance"
+        ]
+      },
+      {
+        "asin": "B0G1XJ9ZB7",
+        "title": "C610 Replacement Filter Z Compatible with Winix C610 Air Purifier, 2 Pack",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 69,
+        "pros": [
+          "2‑pack offering",
+          "Compatible with Winix C610 air purifier"
+        ],
+        "cons": [
+          "Manufacturer not specified as Winix",
+          "Potential non‑OEM quality"
+        ]
+      },
+      {
+        "asin": "B0G233YGLS",
+        "title": "2 Pack C610 Replacement Filter Z Compatible with Winix C610 Air Purifier",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 17,
+        "pros": [
+          "2‑pack quantity",
+          "Explicitly states compatibility with Winix C610"
+        ],
+        "cons": [
+          "No OEM indication",
+          "May be third‑party product"
+        ]
+      },
+      {
+        "asin": "B0FG8K9H2Z",
+        "title": "2-Pack C610 Replacement Filter Z, Compatible with Winix C610 Air Purifier, Z Filter 1712-0121-00",
+        "is_oem": false,
+        "rating": null,
+        "review_count": 11,
+        "pros": [
+          "Includes official part code 1712‑0121‑00",
+          "2‑pack value pack"
+        ],
+        "cons": [
+          "Manufacturer not stated as Winix",
+          "May be third‑party despite code"
+        ]
+      }
+    ]
+  },
+  {
     "id": 416,
     "brand_name": "Levoit",
     "brand_slug": "levoit",
